@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: /
 languageCode: en-us
 title: Will Buckingham's Courses Site
 theme: "PaperModX"
