@@ -26,7 +26,7 @@ Plato's *Theaetetus* begins by asking "What is knowledge?" This is a deceptively
 
 In the Theaetetus, the philosopher Socrates — Plato's teacher — discusses this question with a young mathematician called Theaetetus, and his tutor Theodorus.
 
-In the dialogue, Socrates presses Theaetetus to give an answer to this question. Thaetetus gives four different answers. By the end of the dialogue, it becomes clear that *none of these answers are adequate or sufficient*. Socrates tells Theaetetus to keep on searching for an answer.
+In the dialogue, Socrates presses Theaetetus to give an answer to this question. Theaetetus gives four different answers. By the end of the dialogue, it becomes clear that *none of these answers are adequate or sufficient*. Socrates tells Theaetetus to keep on searching for an answer.
 
 The *Zhuangzi* is a very different text. It is playful, often unexpected, and explores questions about knowledge through a series of parables, myths, riddles, jokes and arguments. 
 
