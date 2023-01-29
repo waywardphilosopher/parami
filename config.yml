@@ -1,0 +1,163 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Will Buckingham's Courses Site
+theme: "PaperModX"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Will Buckingham's courses site"
+  author:
+    - Will Buckingham
+  mainSections:
+    - docs
+    - posts
+  disableAnchoredHeadings: true
+  images: ["cover.png"]
+  DateFormat: "2006-01-02"
+  useCustomAnalytics: false
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowWordCount: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: true
+  TocSide: "right"
+  EnableInstantClick: true
+  EnableImageZoom: true
+
+  commentSystems:
+    disqus:
+      shortname: 
+    defaultCommentSystems:
+    remark42: false
+
+  profileMode:
+    enabled: false
+    title: PaperModX
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: /archives/
+      - name: Tags
+        url: /tags/
+
+  homeInfoParams:
+    Title: "Will Buckingham's Courses Site: Parami University"
+    Content: |
+      Welcome to this courses site. It's a one-stop shop for the various courses that I run. Each course has a single page giving a course outline and lots of useful information.
+
+      - This site is mainly for my students at Parami University. But if you are from elsewhere, welcome on board! You can find out more about me [on my website](https://www.willbuckingham.com).
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  # assets:
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Docs
+          url: /docs/
+          weight: 1
+        - name: Tags
+          url: /tags/
+          weight: 4
+        - name: Archive
+          url: /archives/
+          weight: 5
+        - name: Search
+          url: /search/
+          weight: 10
+        - name: "@Author"
+          url: "https://www.willbuckingham.com"
+          params:
+            external: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
