@@ -92,7 +92,7 @@ We'll explore not just what the ideas are in these texts, but also *how* the aut
 
 
 ## Extra Resources Part I
-### Acaedemic Papers
+### Academic Papers
 This is a good one: 
 Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
 
