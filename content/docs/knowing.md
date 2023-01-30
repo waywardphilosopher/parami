@@ -35,12 +35,14 @@ The *Zhuangzi* is a very different text. It is playful, often unexpected, and ex
 ### Set readings
 
 1. Plato's *Theatetus* (translated Christopher Rowe)
-2. *Zhuangzi: The Complete Writings* (translated by Brook Ziporyn)
+2. *The Complete Works of Zhuangzi* (translated by Burton Watson)
 
 #### About the Readings
-For reading the *Theatetus*, we're going to be using the Cambridge University Press version of the text, edited and translated by Christopher Rowe. I'll provide extracts in PDF.  As a guide to the text as a whole, I recommend this detailed article Sophie Grace Chappell: https://plato.stanford.edu/entries/plato-theaetetus/.
+For reading the *Theatetus*, we're going to be using the Cambridge University Press version of the text, edited and translated by Christopher Rowe. I'll provide extracts in PDF and put these on Canvas for you to download.
 
-We'll be using sections from Brook Ziporyn's translations of the *Zhuangzi*. 
+As a guide to the text as a whole, I recommend this detailed article Sophie Grace Chappell: https://plato.stanford.edu/entries/plato-theaetetus/.
+
+We'll be using sections from Burton Watson's translations of the *Zhuangzi*. Again, I will provide you with extracts. 
 
 
 
@@ -114,15 +116,39 @@ My returning students will know my affection for this delight from 8-bit philoso
 ---
 
 ## Syllabus Part II
-### Introduction:
-Check back for more later!
+### Introduction
+In the second part, we'll be looking at knowledge, experience and science. We'll be asking what science is, how it works, whether it is (or provides us with) a special kind of knowledge, and how scientific ways of knowing relate to other ways of knowing.
+
+We've got three texts to read this time. First, we'll be looking at *Braiding Sweetgrass* by Robin Wall Kimmerer, exploring the relationships between indigenous ways of knowing and scientific knowledge.
+
+After this, we'll move into fiction, and read Mary Shelley's famous novel, *Frankenstein*, or to give the book it's full title, *Frankenstein: Or, the Modern Prometheus.* The subtitle tells us that this is a book all about knowledge. Prometheus was the Greek figure who stole the knowledge of fire from the gods to give to humankind.
+
+Our third book is *What is This Thing Called Science?* by Alan Chalmers
 
 
+### Set readings
+
+1. Robin Wall Kimmerer *Braiding Sweetgrass* 
+2. Mary Shelley *Frankenstein: Or, the Modern Prometheus* 
+3. Alan Chalmers *What is This Thing Called Science?*
+
+
+#### About the Readings
+*Braiding Sweetgrass* moves between two different ways of knowing: American indigenous Potawatomi perspectives, and modern scientific perspecdtives. The book was first published in 2013, and has become increasingly widely-read. The book is interesting because its author is both a member of the Citizen Potawatomi Nation, and also a plant scientist. So she braids together these two perspectives to ask what it means to know, and to explore the power and limits of science.
+
+Shelley's *Frankenstein* needs no introduction. It is one of the most famous monster stories in the history of the world! But it is also a parable about science and the quest for knowledge. The book exists in two versions — the 1818 version and the 1831 version. We're going to read the latter.
+
+![Cartoon by Tom Gauld](images/frank.jpg "Frankenstein")
+
+
+Finally, Chalmers's *What is this Thing Called Science* is a best-selling textbook that explores theories of scientific knowing. It was first published in 1976 and has been in print ever since
+
+### Weekly break-down of sessions
 
 ---
 
 
 ## Syllabus Part III
-### Introduction:
+### Introduction
 Check back for more later!
 
