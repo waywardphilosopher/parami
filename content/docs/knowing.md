@@ -1,5 +1,5 @@
 ---
-title: "First year seminar course II"
+title: "Ways of Knowing"
 date: 2023-01-28
 ShowToc: true
 TocOpen: true
@@ -7,7 +7,7 @@ TocSide: right
 summary: It's all about knowledge!
 weight: 1
 ---
-My 2023 course for Parami University's first year seminar II...
+My 2023 course for Parami University's first year seminar course II
 
 ## Syllabus Part I
 ### Introduction

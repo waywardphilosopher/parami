@@ -161,3 +161,7 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+
+permalinks:
+  docs: "/:slug/"
+  posts: "/:slug/"
