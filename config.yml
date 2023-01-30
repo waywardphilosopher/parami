@@ -55,8 +55,6 @@ params:
     buttons:
       - name: Archives
         url: /archives/
-      - name: Tags
-        url: /tags/
 
   homeInfoParams:
     Title: "Will Buckingham's Courses Site: Parami University"

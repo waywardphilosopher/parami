@@ -138,8 +138,7 @@ Our third book is *What is This Thing Called Science?* by Alan Chalmers
 
 Shelley's *Frankenstein* needs no introduction. It is one of the most famous monster stories in the history of the world! But it is also a parable about science and the quest for knowledge. The book exists in two versions — the 1818 version and the 1831 version. We're going to read the latter.
 
-![Cartoon by Tom Gauld](images/frank.jpg "Frankenstein")
-
+<img src="/images/frank.jpg" />
 
 Finally, Chalmers's *What is this Thing Called Science* is a best-selling textbook that explores theories of scientific knowing. It was first published in 1976 and has been in print ever since
 
