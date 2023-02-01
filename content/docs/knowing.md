@@ -105,7 +105,7 @@ We'll explore not just what the ideas are in these texts, but also *how* the aut
 - And some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
 - Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
 - Sophie Grace Chappell's article is mentioned above. It's a terrific, careful analysis of the text: https://plato.stanford.edu/entries/plato-theaetetus/.
-- Some maps of ancient Athens at the time of Socrates and Plato: https://www.plato-dialogues.org/tools/athensim.htm
+- Some interactive maps of ancient Athens at the time of Socrates and Plato: https://www.plato-dialogues.org/tools/athens.htm
 
 
 
