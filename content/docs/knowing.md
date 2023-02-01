@@ -89,26 +89,31 @@ Finally, in the last week, we'll compare these two fascinating texts by looking 
 
 We'll explore not just what the ideas are in these texts, but also *how* the authors go about communicating and exploring these ideas.
 
+<img src="/images/butterfly.jpeg" />
 
 ---
 
 
 ## Extra Resources Part I
 ### Academic Papers
-This is a good one: 
-Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
+- This is a good one:  Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
 
-### Online articles
-A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
+  
 
-And some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
+### Online articles and resources
+- A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
+- And some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
+- Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
+- Sophie Grace Chappell's article is mentioned above. It's a terrific, careful analysis of the text: https://plato.stanford.edu/entries/plato-theaetetus/.
+- Some maps of ancient Athens at the time of Socrates and Plato: https://www.plato-dialogues.org/tools/athensim.htm
+
+
 
 ### Books
 
 ### Videos
-Try this Youtube video for a nice overview of the issues in the https://www.youtube.com/watch?v=iePg6G3Jg4o
-
-My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
+- Try this Youtube video for a nice overview of the issues in the https://www.youtube.com/watch?v=iePg6G3Jg4o
+- My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
 
 
 
