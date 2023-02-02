@@ -112,7 +112,7 @@ We'll explore not just what the ideas are in these texts, but also *how* the aut
 ### Books
 
 ### Videos
-- Try this Youtube video for a nice overview of the issues in the https://www.youtube.com/watch?v=iePg6G3Jg4o
+- Try this Youtube video for a nice overview of the issues in the Theaetetus: https://www.youtube.com/watch?v=iePg6G3Jg4o
 - My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
 
 
