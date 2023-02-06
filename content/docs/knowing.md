@@ -116,14 +116,20 @@ Here, we'll look at two things. One is the *content* of these different authors 
   
 
 ### Online articles and resources
-- A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
-- And some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
+
+#### First reading
+
+- Here's some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
 - Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
 - Sophie Grace Chappell's article is mentioned above. It's a terrific, careful analysis of the text: https://plato.stanford.edu/entries/plato-theaetetus/.
 - Some interactive maps of ancient Athens at the time of Socrates and Plato: https://www.plato-dialogues.org/tools/athens.htm
 - A BBC podcast about Socrates: https://www.bbc.co.uk/programmes/b007zp21
 
+#### Second Reading
 
+- This essay on Zhuangzi is a nice introduction: https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage
+- A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
+- The Stanford Encyclopedia of Philosophy essay on Zhuangzi by Chad Hansen: https://plato.stanford.edu/entries/zhuangzi/
 
 ### Books
 
