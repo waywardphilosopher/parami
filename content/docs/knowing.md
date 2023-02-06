@@ -72,13 +72,15 @@ Then read Socrates's counter-argument 184b-186e
 
 1. What does Theaetetus mean when he says that knowledge is perception?
 
-#### Reading 3 (session 5): "Knowlege is true belief."
+#### Reading 3 (session 5): "Knowledge is true judgement."
 
-In this session, we're exploring Theaetetus's proposal that knowledge is true belief. We'll be asking what this means, and exploring Socrates's objections to this proposal.
+In this session, we're exploring Theaetetus's proposal that knowledge is true judgement. This is section 187b–201c of the text. The reading is a bit longer than usual, so don't try to understand every word. Just read through, keeping up the momentum, and see if you can get the gist of what is going on.
 
-#### Reading 4 (session 6): "Knowledge is true belief with an account."
+In the class, we'll be asking what the idea of knowledge as true judgement means, and exploring Socrates's objections to this proposal.
 
-Theaetetus now modifies his previous proposal, to say that knowledge is true belief *with an account*. But what is an account (*logos* in Greek)? And does this solve the problem? This is the problem we are looking at this week.
+#### Reading 4 (session 6): "Knowledge is true judgement with an account."
+
+Theaetetus now modifies his previous proposal, to say that knowledge is true judgement *with an account*. But what is an account (*logos* in Greek)? And does this solve the problem? This is the problem we are looking at this week. The section of the text is 201d–210a. 
 
 #### Reading 5 (session 7 and 8): "Skill knowledge": Zhuangzi's Ox
 
@@ -87,7 +89,9 @@ In the final two weeks, we're moving on to the *Zhuangzi* to explore a different
 #### Readings 6 and 7 (sessions 9 and 10):  Dreams and Knowledge Across Traditions
 Finally, in the last week, we'll compare these two fascinating texts by looking at two puzzling tales about dreams and knowledge.
 
-We'll explore not just what the ideas are in these texts, but also *how* the authors go about communicating and exploring these ideas.
+We'll be revisiting the passage about Socrates's dream from  session 6 (reading 4), and reading it alongside another story about dreams from Zhuangzi. We'll read the entirety of chapter 2 of the Zhuangzi, the "Discussion on Making Things Equal." But the bit about the dream is right at the end!
+
+Here, we'll look at two things. One is the *content* of these different authors arguments. What points are they trying to make? What are they trying to persuade us of? But we'll also explore the *methods* these very different authors use to make their arguments. We'll be asking *how* they go about arguing.
 
 <img src="/images/butterfly.jpeg" />
 
