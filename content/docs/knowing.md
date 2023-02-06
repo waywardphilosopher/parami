@@ -70,7 +70,18 @@ We'll be using sections from Burton Watson's translations of the *Zhuangzi*. Aga
 Read the first section where Theaetetus proposes that knowledge is perception. 151d-152c.
 Then read Socrates's counter-argument 184b-186e
 
-1. What does Theaetetus mean when he says that knowledge is perception?
+##### Questions on Theaetetus's argument
+
+1. What do you think Theaetetus means when he says that knowledge is perception?
+1. What do you think Protagoras means when he says that the human being "is the measure of all things"?
+1. What is the significane of the argument about the wind — being both cold and hot, depending on the observer? What are the implications of this for our theories of knowledge?
+
+##### Questions on Socrates's Counter-Argument
+
+1. What is the distinction that Socrates makes between seeing *with* the eyes, and seeing *through* the eyes?
+2. What is it that does the seeing if we only see *through* (and not *with*) the eyes?
+3. What does Socrates mean when he says: " You’re talking about being and not-being, likeness and unlikeness, same and different, also things being one or having some number; you’re clearly asking about even and odd too, and everything that goes along with these. You want to know through which of the parts of the body we could possibly perceive all these things with the soul."? (185 d1)
+4. Why does Socrates then conclude that perception is not the same as knowledge?
 
 #### Reading 3 (session 5): "Knowledge is true judgement."
 
