@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-01-28
+date: 2023-02-07
 ShowToc: true
 TocOpen: true
 TocSide: right
@@ -75,6 +75,7 @@ Then read Socrates's counter-argument 184b-186e
 1. What do you think Theaetetus means when he says that knowledge is perception?
 1. What do you think Protagoras means when he says that the human being "is the measure of all things"?
 1. What is the significane of the argument about the wind — being both cold and hot, depending on the observer? What are the implications of this for our theories of knowledge?
+1. One way of talking about Protagoras's idea that the human being is the measure of all things is that it is a kind of "relativism." What does this term mean? And what are the contemporary manifestations of this of philosophical view?
 
 ##### Questions on Socrates's Counter-Argument
 
