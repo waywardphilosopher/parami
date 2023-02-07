@@ -118,7 +118,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 
 ### Online articles and resources
 
-#### First reading
+#### First text
 
 - Here's some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
 - Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
@@ -126,7 +126,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - Some interactive maps of ancient Athens at the time of Socrates and Plato: https://www.plato-dialogues.org/tools/athens.htm
 - A BBC podcast about Socrates: https://www.bbc.co.uk/programmes/b007zp21
 
-#### Second Reading
+#### Second text
 
 - This essay on Zhuangzi is a nice introduction: https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage
 - A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
