@@ -81,7 +81,7 @@ Then read Socrates's counter-argument 184b-186e
 
 1. What is the distinction that Socrates makes between seeing *with* the eyes, and seeing *through* the eyes?
 2. What is it that does the seeing if we only see *through* (and not *with*) the eyes?
-3. What does Socrates mean when he says: " You’re talking about being and not-being, likeness and unlikeness, same and different, also things being one or having some number; you’re clearly asking about even and odd too, and everything that goes along with these. You want to know through which of the parts of the body we could possibly perceive all these things with the soul."? (185 d1)
+3. What does Theaetetus mean when he says: " You’re talking about being and not-being, likeness and unlikeness, same and different, also things being one or having some number; you’re clearly asking about even and odd too, and everything that goes along with these. You want to know through which of the parts of the body we could possibly perceive all these things with the soul."? (185 d1)
 4. Why does Socrates then conclude that perception is not the same as knowledge?
 
 #### Reading 3 (session 5): "Knowledge is true judgement."
