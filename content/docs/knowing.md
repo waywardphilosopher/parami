@@ -102,7 +102,7 @@ Two possibilities here. If we know both X and Y (and genuinely know them), then 
 
 Can you believe what is not the case? If you believe something about X, but X is nonexistent, in what sense is this even a belief. Things that don't exist are not things, etc. etc. 
 
-Possbility 3: False belief is crossed wires between two true beliefs.
+##### Possbility 3: False belief is crossed wires between two true beliefs.
 
 We believe something true about X and something true about Y. But we get our wires crossed and assign our beliefs about X to Y, and vice versa.
 
