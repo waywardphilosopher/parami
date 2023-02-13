@@ -84,11 +84,49 @@ Then read Socrates's counter-argument 184b-186e
 3. What does Theaetetus mean when he says: " You’re talking about being and not-being, likeness and unlikeness, same and different, also things being one or having some number; you’re clearly asking about even and odd too, and everything that goes along with these. You want to know through which of the parts of the body we could possibly perceive all these things with the soul."? (185 d1)
 4. Why does Socrates then conclude that perception is not the same as knowledge?
 
-#### Reading 3 (session 5): "Knowledge is true judgement."
+#### Reading 3 (session 5): "Knowledge is true belief."
 
-In this session, we're exploring Theaetetus's proposal that knowledge is true judgement. This is section 187b–201c of the text. The reading is a bit longer than usual, so don't try to understand every word. Just read through, keeping up the momentum, and see if you can get the gist of what is going on.
+In this session, we're exploring Theaetetus's proposal that knowledge is true belief (or true judgement). This is section 187b–201c of the text. The reading is a bit longer than usual, so don't try to understand every word. Just read through, keeping up the momentum, and see if you can get the gist of what is going on.
 
-In the class, we'll be asking what the idea of knowledge as true judgement means, and exploring Socrates's objections to this proposal.
+In the class, we'll be asking what the idea of knowledge as true belief means, and exploring Socrates's objections to this proposal.
+
+Socrates sets about asking what it means to have a false belief...
+
+##### Possibility 1: False belief is misidentification
+
+False belief is believing something is something else. It is misidentifying X as Y. 
+
+Two possibilities here. If we know both X and Y (and genuinely know them), then we can't misidentify them, because knowing that they are not each other is intrinsic to knowing them. If we don't know either X or Y, we can't form beliefs about them, so can't misidentify in the first place. 
+
+##### Possibility 2: False belief is believing what is not the case.
+
+Can you believe what is not the case? If you believe something about X, but X is nonexistent, in what sense is this even a belief. Things that don't exist are not things, etc. etc. 
+
+Possbility 3: False belief is crossed wires between two true beliefs.
+
+We believe something true about X and something true about Y. But we get our wires crossed and assign our beliefs about X to Y, and vice versa.
+
+But this runs up against the same problem that genuinely thinking of something rules out the possibility of being mistaken about it. Or, as Socrates says, "It’s impossible... for someone who is thinking about both of two things to think one of them to be the other."
+
+##### Possibility 4: The Wax Tablet
+
+We know things because they are perceived, and leave imprints in the soul, like a tablet of wax. Then we have something stable (the impression) against which to measure false belief.
+
+Promising... but (among other objections) what about false beliefs that do not depend on perception at all...?
+
+##### Possibility 5: Birdhouse in Your Soul
+
+You might know the song by the band They Might be Giants: https://www.youtube.com/watch?v=2Am-BF7ObCI
+
+Wild scenes: knowledge is like having birds flying around in your mind. You don't really fully possess these birds. They're wild animals, dammit. But they're there ready for you to grab. Sometimes you grab the wrong one. That's when you screw up. More or less. 
+
+Added plot twist: some birds might not be birds of knowlege, but birds of ignorance. As I said, wild scenes!
+
+##### Final objection: Those Tricky Lawyers
+
+Lawyers, unlike philosophers, are working against the clock. A good lawyer can make their audience believe things that are true, without the audience actually **knowing** that these things are true. So this is true belief. But it isn't knowledge. Therefore, knowledge and true belief cannot be the same. 
+
+
 
 #### Reading 4 (session 6): "Knowledge is true judgement with an account."
 
