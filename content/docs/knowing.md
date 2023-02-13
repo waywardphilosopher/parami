@@ -124,7 +124,7 @@ Added plot twist: some birds might not be birds of knowlege, but birds of ignora
 
 ##### Final objection: Those Tricky Lawyers
 
-Lawyers, unlike philosophers, are working against the clock. A good lawyer can make their audience believe things that are true, without the audience actually **knowing** that these things are true. So this is true belief. But it isn't knowledge. Therefore, knowledge and true belief cannot be the same. 
+Lawyers, unlike philosophers, are working against the clock. Philosophers have all the time in the world to argue their points. Lawyers need to cut corners. So a good lawyer can make their audience believe things that are true, without the audience actually **knowing** that these things are true. So this is true belief. But it isn't knowledge. Therefore, knowledge and true belief cannot be the same. 
 
 
 
