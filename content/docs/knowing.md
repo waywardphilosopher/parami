@@ -90,7 +90,9 @@ In this session, we're exploring Theaetetus's proposal that knowledge is true be
 
 In the class, we'll be asking what the idea of knowledge as true belief means, and exploring Socrates's objections to this proposal.
 
-Socrates and Theaetetus set about exploring what it means to have a false belief... Here are some of the possibilities that they consider, alongside a few scrappy notes that may or may not throw light on the argument.
+As a way of exploring this idea of knowledge as true belief, Socrates and Theaetetus set about exploring what it means to have a false belief... This turns out to be much more complicated than you would think.
+
+Here are some of the possibilities that they both consider. The notes below may clarify a few points and help you navigate through the text.
 
 ##### Possibility 1: False belief is misidentification
 
