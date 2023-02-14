@@ -98,11 +98,11 @@ Here are some of the possibilities that they both consider. The notes below may 
 
 False belief is believing something is something else. It is misidentifying X as Y. 
 
-Two possibilities here. If we know both X and Y (and genuinely know them), then we can't misidentify them, because knowing that they are not each other is intrinsic to knowing them. If we don't know either X or Y, we can't form beliefs about them, so can't misidentify in the first place. 
+There are two possibilities here. If we know both X and Y (and genuinely know them), then we can't misidentify them, because knowing that they are not each other is intrinsic to knowing them. If we don't know either X or Y, we can't form beliefs about them, so can't misidentify in the first place. 
 
 ##### Possibility 2: False belief is believing what is not the case.
 
-Can you believe what is not the case? If you believe something about X, but X is nonexistent, in what sense is this even a belief. Things that don't exist are not things, etc. etc. 
+Can you believe what is not the case? If you believe something about X, but X is nonexistent, in what sense is this even a belief?
 
 ##### Possbility 3: False belief is crossed wires between two true beliefs.
 
