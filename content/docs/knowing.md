@@ -130,9 +130,9 @@ Lawyers, unlike philosophers, are working against the clock. Philosophers have a
 
 
 
-#### Reading 4 (session 6): "Knowledge is true judgement with an account."
+#### Reading 4 (session 6): "Knowledge is true belief with an account."
 
-Theaetetus now modifies his previous proposal, to say that knowledge is true judgement *with an account*. But what is an account (*logos* in Greek)? And does this solve the problem? This is the problem we are looking at this week. The section of the text is 201d–210a. 
+Theaetetus now modifies his previous proposal, to say that knowledge is true belief *with an account*. But what is an account (*logos* in Greek)? And does this solve the problem? This is the problem we are looking at this week. The section of the text is 201d–210a. 
 
 #### Reading 5 (session 7 and 8): "Skill knowledge": Zhuangzi's Ox
 
