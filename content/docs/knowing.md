@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-02-07
+date: 2023-02-15
 ShowToc: true
 TocOpen: true
 TocSide: right
