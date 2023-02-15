@@ -160,11 +160,7 @@ The answer isn't obviously yes. Think of a computer spell-check. It may know how
 
 Here there is a risk of infinite regress. Read from 209d1.
 
-The suggestion is that to know X is to have true belief about X, plus the ability to identify a mark (M) by which it X differs from everything else. 
-
-But here's the fatal question: do we have *true belief* about M, or *knowledge* of M? 
-
-If we have true belief about M, then:
+The suggestion is that to know X is to have true belief about X, plus the ability to identify a mark (M) by which it X differs from everything else. But here's the fatal question: do we have *true belief* about M, or *knowledge* of M? If we have true belief about M, then:
 
 `knowledge of X = true belief about X + true belief about M`
 
@@ -174,9 +170,7 @@ On the other hand, if we have *knowledge* of M, then:
 
 `knowledge of X = true belief about X + knowledge of M`
 
-So we're defining knowledge in terms of knoweldge, and this is circular. 
-
-(At this point, everyone gives up, and goes off to do something else...)
+So we're defining knowledge in terms of knoweldge, and this is circular. (At this point, everyone gives up, and goes off to do something else...)
 
 #### Reading 5 (session 7 and 8): "Skill knowledge": Zhuangzi's Ox
 
