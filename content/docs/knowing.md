@@ -134,6 +134,50 @@ Lawyers, unlike philosophers, are working against the clock. Philosophers have a
 
 Theaetetus now modifies his previous proposal, to say that knowledge is true belief *with an account*. But what is an account (*logos* in Greek)? And does this solve the problem? This is the problem we are looking at this week. The section of the text is 201d–210a. 
 
+After Theaetetus says that knowledge is true belief with an account, Socrates intervenes to ask what he means by "an account." There is a digression into dreams — we're going to pass over this until we talk about dreams and knowledge in a couple of weeks' time — but after this, the two of them then discuss three possibilities. 
+
+##### Possibility 1: Logos is Speech
+
+So this is the first possibility: logos means
+
+> making one’s thought evident through speech with verbal expressions and names, imprinting the belief on the stream issuing through the mouth like a reflection in a mirror or in water. [206d1]
+
+This is rejected, because (more or less) anyone can say anything at all. We can all bullshit (that's a proper philosophical term... see Harry G. Frankfurt's book *On Bullshit*, which is available on Perlego).
+
+##### Possibility 2: Logos is enumerating the elements of something:
+
+> Maybe the speaker wasn’t saying that, but rather that an ‘account’ was a matter of being able when asked what anything is to give the questioner the answer by listing its elements. [206e5 - 207a1]
+
+What is a cake? It is eggs, flour, sugar, baking powder, etc. etc. etc. 
+
+But is this enough? Do you know the name "Theaetetus" by simply knowing that it is made up of T + H + E + A + E + T + E + T + U + S? 
+
+The answer isn't obviously yes. Think of a computer spell-check. It may know how to spell "Theaetetus," and may even be able to correct us; but does it understand that this is a name, what a name is, how the parts (letters) link to larger parts (syllables) to the whole (the word) etc. etc.?
+
+##### Possibility 3: Being able to distinguish the thing one knows from all other things.
+
+> What most people would say: that it’s a matter of being able to identify some distinguishing mark by which the thing one has been asked about differs from everything else. [208c5]
+
+Here there is a risk of infinite regress. Read from 209d1.
+
+The suggestion is that to know X is to have true belief about X, plus the ability to identify a mark (M) by which it X differs from everything else. 
+
+But here's the fatal question: do we have *true belief* about M, or *knowledge* of M? 
+
+If we have true belief about M, then:
+
+`knowledge of X = true belief about X + true belief about M`
+
+But, Socrates says, if it we only have true belief of M, then we have this already. In other words, we already have the true belief that X is the thing it is and is not something else. This, after all, is inherent to having a true belief about X. Socrates says this is like "telling us to ‘get hold of in addition’ what we already have."
+
+On the other hand, if we have *knowledge* of M, then:
+
+`knowledge of X = true belief about X + knowledge of M`
+
+So we're defining knowledge in terms of knoweldge, and this is circular. 
+
+(At this point, everyone gives up, and goes off to do something else...)
+
 #### Reading 5 (session 7 and 8): "Skill knowledge": Zhuangzi's Ox
 
 In the final two weeks, we're moving on to the *Zhuangzi* to explore a different kind of knowledge: the knowledge that we have when we're doing something skilfully — playing guitar, balancing an upended broom on the palm of our hand etc. We'll be talking about how knowing *that* (for example, knowing *that* if you want to walk a tightrope, you need good balance) sometimes matters less than knowing *how* (knowing *how* to walk on a tightrope and keep your balance).
