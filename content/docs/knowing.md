@@ -203,6 +203,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - Sophie Grace Chappell's article is mentioned above. It's a terrific, careful analysis of the text: https://plato.stanford.edu/entries/plato-theaetetus/.
 - Some interactive maps of ancient Athens at the time of Socrates and Plato: https://www.plato-dialogues.org/tools/athens.htm
 - A BBC podcast about Socrates: https://www.bbc.co.uk/programmes/b007zp21
+- We talked about AI and the nature of understanding, and we asked: what does AI *know*. Here's a fun article on what Plato would say about ChatGPT: https://www.nytimes.com/2022/12/15/opinion/chatgpt-education-ai-technology.html 
 
 #### Second text
 
