@@ -210,6 +210,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - This essay on Zhuangzi is a nice introduction: https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage
 - A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
 - The Stanford Encyclopedia of Philosophy essay on Zhuangzi by Chad Hansen: https://plato.stanford.edu/entries/zhuangzi/
+- I love this paper: Wong, David B. (2005), ‘Zhuangzi and the Obsession With Being Right’, *History of Philosophy Quarterly,* 22 (2), 91-107.
 
 ### Books
 
