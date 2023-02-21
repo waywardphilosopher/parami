@@ -213,6 +213,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - I love this paper: Wong, David B. (2005), ‘Zhuangzi and the Obsession With Being Right’, *History of Philosophy Quarterly,* 22 (2), 91-107.
 - And here's a great video from Edward Slingerland about the Zhuangzi: https://www.youtube.com/watch?v=5Jj8g6XfcSM
 - And a one-minute introduction from Michael Puett: https://www.youtube.com/watch?v=Y-qgdwX8w1M
+- And the text of the first reading from Zhuangzi, in Chinese: https://ctext.org/zhuangzi/nourishing-the-lord-of-life
 
 ### Books
 
