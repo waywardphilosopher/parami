@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-02-15
+date: 2023-02-21
 ShowToc: true
 TocOpen: true
 TocSide: right
@@ -211,6 +211,8 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
 - The Stanford Encyclopedia of Philosophy essay on Zhuangzi by Chad Hansen: https://plato.stanford.edu/entries/zhuangzi/
 - I love this paper: Wong, David B. (2005), ‘Zhuangzi and the Obsession With Being Right’, *History of Philosophy Quarterly,* 22 (2), 91-107.
+- And here's a great video from Edward Slingerland about the Zhuangzi: https://www.youtube.com/watch?v=5Jj8g6XfcSM
+- And a one-minute introduction from Michael Puett: https://www.youtube.com/watch?v=Y-qgdwX8w1M
 
 ### Books
 
