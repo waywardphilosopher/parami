@@ -267,7 +267,7 @@ Our third book is *What is This Thing Called Science?* by Alan Chalmers
 
 
 #### About the Readings
-*Braiding Sweetgrass* moves between two different ways of knowing: American indigenous Potawatomi perspectives, and modern scientific perspecdtives. The book was first published in 2013, and has become increasingly widely-read. The book is interesting because its author is both a member of the Citizen Potawatomi Nation, and also a plant scientist. So she braids together these two perspectives to ask what it means to know, and to explore the power and limits of science.
+*Braiding Sweetgrass* moves between two different ways of knowing: American indigenous Potawatomi perspectives, and modern scientific perspectives. The book was first published in 2013, and has become increasingly widely-read. The book is interesting because its author is both a member of the Citizen Potawatomi Nation, and also a plant scientist. So she braids together these two perspectives to ask what it means to know, and to explore the power and limits of science
 
 Shelley's *Frankenstein* needs no introduction. It is one of the most famous monster stories in the history of the world! But it is also a parable about science and the quest for knowledge. The book exists in two versions — the 1818 version and the 1831 version. We're going to read the latter.
 
