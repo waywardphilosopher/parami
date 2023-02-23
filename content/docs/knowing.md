@@ -245,10 +245,6 @@ Here, we'll look at two things. One is the *content* of these different authors 
 
   This is a good one:  Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
 
-  
-
-### Video and Audio
-- 
 
 
 ---
