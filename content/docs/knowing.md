@@ -194,6 +194,8 @@ Here are some questions about the Cook Ding section:
 3. What do you think Cook Ding means when he says, "I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants"?
 4. Cook Ding doesn't always work fast and intuitively. He also works slowly and carefully, as in the passage: "However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I’m doing, work very slowly..." What do you think Zhuangzi is saying here?
 5. In what sense can Cook Ding (who, remember, deals with corpses) be said to "care for life"?
+6. In what sense is Cook Ding's skill a kind of *knowledge*?
+7. Thinking of your reading of the text as a whole, in what important respects does Zhuangzi's approach to knowledge differ from Plato's? 
 
 #### Readings 6 and 7 (sessions 9 and 10):  Dreams and Knowledge Across Traditions
 Finally, in the last week, we'll compare these two fascinating texts by looking at two puzzling tales about dreams and knowledge.
