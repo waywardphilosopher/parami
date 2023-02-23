@@ -210,14 +210,13 @@ Here, we'll look at two things. One is the *content* of these different authors 
 
 
 ## Extra Resources Part I
-### Academic Papers
-- This is a good one:  Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
+### 
 
-  
+### Plato resources
 
-### Online articles and resources
-
-#### Plato resources
+- Try this Youtube video for a nice overview of the issues in the Theaetetus: https://www.youtube.com/watch?v=iePg6G3Jg4o
+- My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
+- Listen to this podcast with British comedien Natalie Haynes, standing up for Plato: https://www.bbc.co.uk/sounds/play/b0785rmr
 
 - Here's some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
 - Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
@@ -226,25 +225,30 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - A BBC podcast about Socrates: https://www.bbc.co.uk/programmes/b007zp21
 - We talked about AI and the nature of understanding, and we asked: what does AI *know*. Here's a fun article on what Plato would say about ChatGPT: https://www.nytimes.com/2022/12/15/opinion/chatgpt-education-ai-technology.html 
 
-#### Zhuangzi resources
+### Zhuangzi resources
 
 - This essay on Zhuangzi is a nice introduction: https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage
+
 - A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
+
 - The Stanford Encyclopedia of Philosophy essay on Zhuangzi by Chad Hansen: https://plato.stanford.edu/entries/zhuangzi/
+
 - I love this paper: Wong, David B. (2005), ‘Zhuangzi and the Obsession With Being Right’, *History of Philosophy Quarterly,* 22 (2), 91-107.
+
 - And here's a great video from Edward Slingerland about the Zhuangzi: https://www.youtube.com/watch?v=5Jj8g6XfcSM
+
 - And a one-minute introduction from Michael Puett: https://www.youtube.com/watch?v=Y-qgdwX8w1M
+
 - And the text of the first reading from Zhuangzi, in Chinese: https://ctext.org/zhuangzi/nourishing-the-lord-of-life
+
 - This paper questions the traditional reading of Zhuangzi as being a writer who writers in praise of skill. It's well worth reading: https://philarchive.org/archive/SCHTUZ-2
 
-### Books
+  This is a good one:  Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
+
+  
 
 ### Video and Audio
-- Try this Youtube video for a nice overview of the issues in the Theaetetus: https://www.youtube.com/watch?v=iePg6G3Jg4o
-- My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
-- Listen to this podcast with British comedien Natalie Haynes, standing up for Plato: https://www.bbc.co.uk/sounds/play/b0785rmr
-
-
+- 
 
 
 ---
