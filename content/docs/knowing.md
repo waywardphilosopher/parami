@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-02-21
+date: 2023-02-23
 ShowToc: true
 TocOpen: true
 TocSide: right
@@ -176,6 +176,25 @@ So we're defining knowledge in terms of knoweldge, and this is circular. (At thi
 
 In the final two weeks, we're moving on to the *Zhuangzi* to explore a different kind of knowledge: the knowledge that we have when we're doing something skilfully — playing guitar, balancing an upended broom on the palm of our hand etc. We'll be talking about how knowing *that* (for example, knowing *that* if you want to walk a tightrope, you need good balance) sometimes matters less than knowing *how* (knowing *how* to walk on a tightrope and keep your balance).
 
+This reading can be broken down into four parts:
+
+1. The opening paragraph about the pursuit of knowledge ("Your life has a limit, but knowledge has none.")
+2. The story of Cook Ding cutting up the ox.
+3. The story of Gongwen Xuan and the Commander of the Right
+4. The story of Lao Dan's death, and Qin Shi's visit to mourn him.
+
+Only the second of these directly references the subject-matter of the title chapter, "The Primacy of Nourishing Life" (or, in Burton's translation, "The Secret of Caring for Life").
+
+##### Questions from the Palace Kitchens...
+
+Here are some questions about the Cook Ding section:
+
+1. How did Cook Ding acquire his skill in cutting up oxen?
+2. Does this reflect your own experience of acquiring skills?
+3. What do you think Cook Ding means when he says, "I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants"?
+4. Cook Ding doesn't always work fast and intuitively. He also works slowly and carefully, as in the passage: "However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I’m doing, work very slowly..." What do you think Zhuangzi is saying here?
+5. In what sense can Cook Ding (who, remember, deals with corpses) be said to "care for life"?
+
 #### Readings 6 and 7 (sessions 9 and 10):  Dreams and Knowledge Across Traditions
 Finally, in the last week, we'll compare these two fascinating texts by looking at two puzzling tales about dreams and knowledge.
 
@@ -196,7 +215,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 
 ### Online articles and resources
 
-#### First text
+#### Plato resources
 
 - Here's some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
 - Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
@@ -205,7 +224,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - A BBC podcast about Socrates: https://www.bbc.co.uk/programmes/b007zp21
 - We talked about AI and the nature of understanding, and we asked: what does AI *know*. Here's a fun article on what Plato would say about ChatGPT: https://www.nytimes.com/2022/12/15/opinion/chatgpt-education-ai-technology.html 
 
-#### Second text
+#### Zhuangzi resources
 
 - This essay on Zhuangzi is a nice introduction: https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage
 - A short introduction that I wrote to Zhuangzi: https://www.lookingforwisdom.com/zhuangzi/
@@ -214,6 +233,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 - And here's a great video from Edward Slingerland about the Zhuangzi: https://www.youtube.com/watch?v=5Jj8g6XfcSM
 - And a one-minute introduction from Michael Puett: https://www.youtube.com/watch?v=Y-qgdwX8w1M
 - And the text of the first reading from Zhuangzi, in Chinese: https://ctext.org/zhuangzi/nourishing-the-lord-of-life
+- This paper questions the traditional reading of Zhuangzi as being a writer who writers in praise of skill. It's well worth reading: https://philarchive.org/archive/SCHTUZ-2
 
 ### Books
 
