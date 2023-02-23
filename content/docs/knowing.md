@@ -241,7 +241,7 @@ Here, we'll look at two things. One is the *content* of these different authors 
 
 - And the text of the first reading from Zhuangzi, in Chinese: https://ctext.org/zhuangzi/nourishing-the-lord-of-life
 
-- This paper questions the traditional reading of Zhuangzi as being a writer who writes in praise of skill. It's well worth reading: https://philarchive.org/archive/SCHTUZ-2
+- This paper by Eric Schwitzgebel questions the traditional reading of Zhuangzi as being a writer who writes in praise of skill. It's well worth reading: https://philarchive.org/archive/SCHTUZ-2
 
 - This is a good one:  Raphals, L. (1994). Skeptical Strategies in the “Zhuangzi” and “Theaetetus.” *Philosophy East and West*, 44(3), 501–526. https://doi.org/10.2307/1399738
 
