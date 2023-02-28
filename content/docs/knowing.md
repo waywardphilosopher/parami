@@ -209,7 +209,7 @@ In these two sessions, we'll read the entirety of chapter 2 of the Zhuangzi, whi
 
 But for this first session, we're going to focus on the difficult first part of the text. So to get started, let's map out this section of the reading, to see if that helps us find out way through.
 
-##### --- 
+##### Ziqi of the South Wall
 
 The chapter begins with Ziqi of the South Wall, who is apparently spacing out. This section has the famous line 今者吾喪我 (Jīn zhě wú sàng wǒ), or "Now, I (wú) have lost (sàng ) myself (我). The verb for "to lose" or sàng (喪) is said to derive from 哭 (kū) 'cry over' + 亡 (wáng) ‘die’ — to lose through death.
 
