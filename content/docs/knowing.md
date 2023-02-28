@@ -38,7 +38,7 @@ The *Zhuangzi* is a very different text. It is playful, often unexpected, and ex
 2. *The Complete Works of Zhuangzi* (translated by Burton Watson)
 
 #### About the Readings
-For reading the *Theatetus*, we're going to be using the Cambridge University Press version of the text, edited and translated by Christopher Rowe. I'll provide extracts in PDF and put these on Canvas for you to download.
+For reading the *Theaetetus*, we're going to be using the Cambridge University Press version of the text, edited and translated by Christopher Rowe. I'll provide extracts in PDF and put these on Canvas for you to download.
 
 As a guide to the text as a whole, I recommend this detailed article Sophie Grace Chappell: https://plato.stanford.edu/entries/plato-theaetetus/.
 
@@ -276,7 +276,7 @@ Another translation might be:
 
 We don't navigate well by *overcoming* doubt, or by *perfecting* knowledge, but by *fully recognising* the slipperiness of knowledge...
 
-We'll explore the final passages in the next session (along with the famou butterfly dream!)
+We'll explore the final passages in the next session (along with the famous butterfly dream!)
 
 #### Reading 6 (session 10):  The Butterfly Dream
 
