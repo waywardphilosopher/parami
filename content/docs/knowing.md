@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-02-23
+date: 2023-02-28
 ShowToc: true
 TocOpen: true
 TocSide: right
@@ -197,14 +197,88 @@ Here are some questions about the Cook Ding section:
 6. In what sense is Cook Ding's skill a kind of *knowledge*?
 7. Thinking of your reading of the text as a whole, in what important respects does Zhuangzi's approach to knowledge differ from Plato's? 
 
-#### Readings 6 and 7 (sessions 9 and 10):  Dreams and Knowledge Across Traditions
-Finally, in the last week, we'll compare these two fascinating texts by looking at two puzzling tales about dreams and knowledge.
 
-We'll be revisiting the passage about Socrates's dream from  session 6 (reading 4), and reading it alongside another story about dreams from Zhuangzi. We'll read the entirety of chapter 2 of the Zhuangzi, the "Discussion on Making Things Equal." But the bit about the dream is right at the end!
 
-Here, we'll look at two things. One is the *content* of these different authors arguments. What points are they trying to make? What are they trying to persuade us of? But we'll also explore the *methods* these very different authors use to make their arguments. We'll be asking *how* they go about arguing.
+#### Reading 6 (session 9):  The Slipperiness of Knowledge
+
+Finally, in the last week, we'll look at one whole chapter of Zhuangzi, the chapter on "Discussion on Making Things Equal," and ask some puzzling tales about dreams, knowledge and more.
+
+In these two sessions, we'll read the entirety of chapter 2 of the Zhuangzi, which is full of interesting and challenging ideas. This chapter ends with the famous story of the butterfly dream...
 
 <img src="/images/butterfly.jpeg" />
+
+But for this first session, we're going to focus on the difficult first part of the text. So to get started, let's map out this section of the reading, to see if that helps us find out way through.
+
+##### --- 
+
+The chapter begins with Ziqi of the South Wall, who is apparently spacing out. This section has the famous line 今者吾喪我 (Jīn zhě wú sàng wǒ), or "Now, I (wú) have lost (sàng ) myself (我). The verb for "to lose" or sàng (喪) is said to derive from 哭 (kū) 'cry over' + 亡 (wáng) ‘die’ — to lose through death.
+
+This then follows with a discussion of three kinds of 'piping' — of human beings, of the earth and of heaven. The leads into a discussion of some of the following:
+
+- Great and little understanding / great and little words
+- An aside on moral certainty 
+- An interesting comment on the emotions: joy, anger, grief, delight, worry, regret, fickleness, inflexibility, modesty, willfulness, candor, insolence...
+- A question about the relationship between the body and the self
+- The muddle of human life!
+- The constancy of change
+- Are our words no more than the sounds of baby birds cheeping? 
+
+Then there's an extended passage on the question of right and wrong, true and false. The questions here seem to be question complex. First, Zhuangzi talks about the human creation of distinctions between right and wrong, true and false, and how these distinctions come from partial perspectives. Here's the Chinese:
+
+>  雖然，方生方死，方死方生；方可方不可，方不可方可；因是因非，因非因是。
+> Suīrán, fāng shēng fāng sǐ, fāng sǐ fāng shēng; fāng kě fāng bù kě, fāng bù kě fāng kě; yīn shì yīn fēi, yīn fēi yīn shì.
+
+The translation we have in Watson is this:
+
+> But where there is birth, there must be death; where there is death, there must be birth. Where there is acceptability, there must be unacceptability; where there is unaccept- ability, there must be acceptability. Where there is recog- nition of right, there must be recognition of wrong; where there is recognition of wrong, there must be recognition of right. 
+
+And then, he talks about the perspective of the sage (聖人 Shèngrén):
+
+> 是以聖人不由，而照之于天，亦因是也。
+> Shì yǐ shèngrén bùyóu, ér zhàozhī yú tiān, yì yīn shì yě.
+
+Or, in translation:
+
+> Therefore the sage does not proceed in such a way but illuminates all in the light of Heaven
+
+What's going on here? For Zhuangzi, this is a position in which "this" is no longer opposed to "that": in other words, in which we don't see the world in terms of opposed sides in a debate, or opposing pairs of right/wrong // true/false and so on. Zhuangzi calls this the "hinge" or "pivot" of the way, or *dao* (道樞 Dào shū). Think of how a door hinge or a pivot can move now this way, now that way...
+
+Next, there's the famous line:
+
+> 道行之而成
+> Dàohéng zhī ér chéng
+
+Or "A road is made by people walking on it." 
+
+What Zhuangzi goes on to say then should make us pause. He says that the person of far-reaching vision should aim to keep the way ahead *passable* . Here is the passage:
+
+>  唯達者知通為一，為是不用而寓諸庸。庸也者，用也；用也者，通也；通也者，得也。適得而幾矣。
+> Wéi dázhě zhī tōng wéi yī, wéi shì bùyòng ér yù zhū yōng. Yōng yě zhě,  yòng yě; yòng yě zhě, tōng yě; tōng yě zhě, dé yě. Shì dé ér jǐ yǐ.
+
+Or, in Watson's translation: 
+
+> Only the man of far-reaching vision knows how to make them into one. So he has no use [for categories] but relegates all to the constant. The constant is the useful; the useful is the passable; the passable is the successful; and with success, all is accomplished. 
+
+Finally in this section, and perhaps as a contrast, we move on to the ancients — both musicians (Zhao Wen, Music Master Kuang) and thinkers (Hui zi) — who despite their mastery managed to somehow get things wrong in their hunger for making distinctions. And in this way, they fell short. 
+
+So what is the alternative? What does the sage do? Do they have perfect knowledge? Perhaps not... Zhuangzi says:
+
+>  是故滑疑之耀，聖人之所圖也。
+> Shì gù huá yí zhī yào, shèngrén zhī suǒ tú yě.
+
+Watson translates this as:
+
+>  The torch of chaos and doubt—this is what the sage steers by.
+
+Another translation might be:
+
+> therefore, it is the slippery light of doubt that the sage uses to map their way
+
+We don't navigate well by *overcoming* doubt, or by *perfecting* knowledge, but by *fully recognising* the slipperiness of knowledge...
+
+We'll explore the final passages in the next session (along with the famou butterfly dream!)
+
+#### Reading 6 (session 10):  The Butterfly Dream
 
 ---
 
