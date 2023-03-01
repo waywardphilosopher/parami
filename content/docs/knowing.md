@@ -278,8 +278,65 @@ We don't navigate well by *overcoming* doubt, or by *perfecting* knowledge, but 
 
 We'll explore the final passages in the next session (along with the famous butterfly dream!)
 
-#### Reading 6 (session 10):  The Butterfly Dream
+#### Reading 6 (session 10):  The Butterfly Dream, and other matters
 
+So, in this session, we're reading our final section of the Zhuangzi. Let's look at an overview of the contents. 
+
+##### Opening Argument
+First, there's an extended argument that *seems* to be aiming at the idea that our attempt to get clear about things, to discriminate between them more clearly, leads only to greater confusion.
+
+- An opening paragraph about statements and categories
+- The puzzling passage about beginnings, being and nonbeing.
+- A famous passage about relative size: Mount Tai (a mountain) is small; the tip of a hair is big. What is happening here?
+- An argument about what it means to say anything? Does speaking about the world lead to proliferation (of ideas? of words? of things? — it's not clear...)
+- A question about how we divide up the world, by discriminating between things, or drawing boundaries. But does this help our understanding or get in the way of our undersatnding.
+- "If the Way is made clear, it is not the Way" — in other words language is inherently discriminating: it makes clear when the world itself is not clear (see the earlier passage about the "torch of chaos and doubt"). In this way, our search for clarity actually obscures understanding.
+
+##### Nie Que and Wang Ni
+Next, there's a famous passage about where Nie Que (whose name means "toothless") and Wang Ni have a debate.
+
+This is more directly about knowledge. Let's look at the opening question:
+
+> Nie Que asked Wang Ni, “Do you know what all things agree in calling right?”
+> “How would I know that?” said Wang Ni. “Do you know that you don’t know it?” “How would I know that?”
+> “Then do things know nothing?”
+> “How would I know that? However, suppose I try say- ing something. What way do I have of knowing that if I say I know something I don’t really not know it? Or what way do I have of knowing that if I say I don’t know something I don’t really in fact know it?
+
+This is a kind of scepticism about knowledge. But it is not quite the same as Socrates's not knowing. Because for Socrates, we might aspire to knowing that we don't know. But Zhuangzi seems to be saying that we can't be clear whether we know or whether we don't. 
+
+Wang Ni then responds by talking about different perspectives: people in the mud have achey backs, but loaches (a kind of fish) love it there; people up trees are scared, monkeys are happy. Think of the hot and cold winds in the Theaetetus. You may think that a movie star like Maoqiang or Lady Li is good-looking; but fish will flee from them. And so on.
+
+This means that all our ways of knowing anyting — including ethics — are "hopelessly snarled." What then remains for us to do?
+
+This passage ends with the idea of the "Perfect Person" or Zhi ren 至人 (also translated as "consummate person"). Who is this character? Who knows (after all, we know, or we maybe know, that don't know if we know or if we don't know...)?
+
+##### The discussion between Ju Que and Zhang Wuzi
+The discussion then turns to Confucius, and to the sages of the past. One interesting line here is that the sage doesn't try to make sense of the muddle we are in, but instead "leaves the confusion and muddle as it is" (置其滑涽 *Zhì qí huá hūn*). 
+
+Ordinary people struggle to be clever or to make sense of things. The sage doesn't bother, and just lets everything be what it is.
+
+Then the text moves on to our judgements about things. Life is good (we think) and death is bad. Home is good (we think) and exile is bad. Except, of course, when it isn't. 
+
+There's a section next on dreams — we'll come back to that at the end. And then an important section on arguments. Here's the quote:
+
+> Suppose you and I have had an argument. If you have beaten me instead of my beating you, then are you necessarily right, and am I necessarily wrong?
+
+What does this say about our belief that arguments *lead to truth*? Wouldn't we be better to "Forget the years; forget distinctions. Leap into the boundless and make it your home"?
+
+##### Penumbra and Shadow and the problem of Free Will
+This is a deeply mysterious section! The word "penumbra" translates 罔兩 (wǎng liǎng). This means something like "secondary absence" — it suggests loss, perhaps even deceit, traps, death. The word for shadow here is 景 (Jǐng).
+
+The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-quite shadow, or partial shadow. Whether this is a good translation of wǎng liǎng, who knows...? Anyway, this wǎng liǎng accuses shadow of only *following along* the thing it is a shadow of.
+
+Remember — this may not be a bad thing! Independent action may not be the ideal.
+
+The response of "Shadow" seems to be about asking what it means to act at all. And this connects in to questions of Free Will. What is the source of action? Where do actions arise from? Free Will? Sure, but what's that. Suddenly we are doing something "freely", because we've had an idea we want to do them, but where does that idea come from? What can we know about the sources of action? Does "Free Will" really explain anything? 
+ 
+##### The Butterfly Dream
+Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
+
+This, he says, is the Transformation of Things. No position is one we can rest on. But we can flit, butterfly-like, from one to the other! 
+ 
 ---
 
 
