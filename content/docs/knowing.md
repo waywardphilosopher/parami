@@ -292,7 +292,7 @@ First, there's an extended argument that *seems* to be aiming at the idea that o
 - A question about how we divide up the world, by discriminating between things, or drawing boundaries. But does this help our understanding or get in the way of our undersatnding.
 - "If the Way is made clear, it is not the Way" — in other words language is inherently discriminating: it makes clear when the world itself is not clear (see the earlier passage about the "torch of chaos and doubt"). In this way, our search for clarity actually obscures understanding.
 
-##### Nie Que and Wang Ni
+##### Nie Que and Wang Ni and the futility of debate
 Next, there's a famous passage about where Nie Que (whose name means "toothless") and Wang Ni have a debate.
 
 This is more directly about knowledge. Let's look at the opening question:
