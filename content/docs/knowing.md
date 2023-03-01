@@ -288,8 +288,8 @@ First, there's an extended argument that *seems* to be aiming at the idea that o
 - An opening paragraph about statements and categories
 - The puzzling passage about beginnings, being and nonbeing.
 - A famous passage about relative size: Mount Tai (a mountain) is small; the tip of a hair is big. What is happening here?
-- An argument about what it means to say anything? Does speaking about the world lead to proliferation (of ideas? of words? of things? — it's not clear...)
-- A question about how we divide up the world, by discriminating between things, or drawing boundaries. But does this help our understanding or get in the way of our undersatnding.
+- An argument about what it means to say anything. Does speaking about the world lead to proliferation (of ideas? of words? of things? — it's not clear...)
+- A question about how we divide up the world, by discriminating between things, or drawing boundaries. But does this help our understanding or get in the way of our understanding?
 - "If the Way is made clear, it is not the Way" — in other words language is inherently discriminating: it makes clear when the world itself is not clear (see the earlier passage about the "torch of chaos and doubt"). In this way, our search for clarity actually obscures understanding.
 
 ##### Nie Que and Wang Ni and the futility of debate
