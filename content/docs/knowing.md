@@ -353,6 +353,7 @@ Nie Qie's argument suggests that Socrates is wrong when he says that he knows th
 Free Will is an important idea. But the dialogue between Penumbra and Shadow suggests that we can't be sure that there is *anywhere* an independent source of action (and we can't be sure there isn't). What are the implications of this?
 
 ##### Question 5: Butterfly dreams 
+
 This is the most famous passage, perhaps, from the whole Zhuangzi. What do you think Zhuangzi means when he says, "Between Zhuang Zhou and a butterfly, there must be some distinction"? And why does he call this "the Transformation of Things"?
 ---
 
