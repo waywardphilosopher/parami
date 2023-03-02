@@ -335,7 +335,9 @@ This connects in to questions of Free Will. What is the source of action? Where 
 ##### The Butterfly Dream
 Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
 
-This, he says, is the Transformation of Things. No position is one we can rest on. But we can flit, butterfly-like, from one to the other! 
+This, he says, is the Transformation of Things. No position is one we can rest on. But we can flit, butterfly-like, from one to the other!
+
+---
 
 #### Some questions on the text
 Let's look at some questions on the text. We'll have one question for each of these sections.
@@ -352,11 +354,11 @@ Nie Qie's argument suggests that Socrates is wrong when he says that he knows th
 ##### Question 4: Penumbra and Shadow — Free Will, and where our actions come from.
 Free Will is an important idea. But the dialogue between Penumbra and Shadow suggests that we can't be sure that there is *anywhere* an independent source of action (and we can't be sure there isn't). What are the implications of this?
 
-##### Question 5: Butterfly dreams 
-
+##### Question 5: Butterfly dreams
 This is the most famous passage, perhaps, from the whole Zhuangzi. What do you think Zhuangzi means when he says, "Between Zhuang Zhou and a butterfly, there must be some distinction"? And why does he call this "the Transformation of Things"?
----
 
+
+---
 
 ## Extra Resources Part I 
 
