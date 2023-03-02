@@ -330,7 +330,7 @@ The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-qu
 
 Remember — this may not be a bad thing! Independent action may not be the ideal.
 
-The response of "Shadow" seems to be about asking what it means to act at all. And this connects in to questions of Free Will. What is the source of action? Where do actions arise from? Free Will? Sure, but what's that. Suddenly we are doing something "freely", because we've had an idea we want to do them, but where does that idea come from? What can we know about the sources of action? Does "Free Will" really explain anything? 
+The response of "Shadow" seems to be about asking what it means to act at all. And this connects in to questions of Free Will. What is the source of action? Where do actions arise from? Free Will? Sure, but what's that? What does it mean to act freely? Where does the desire to act arise from? Does "Free Will" really explain anything? 
  
 ##### The Butterfly Dream
 Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
