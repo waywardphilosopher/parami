@@ -280,10 +280,10 @@ We'll explore the final passages in the next session (along with the famous butt
 
 #### Reading 6 (session 10):  The Butterfly Dream, and other matters
 
-So, in this session, we're reading our final section of the Zhuangzi. Let's look at an overview of the contents. 
+So, in this session, we're reading our final section of the Zhuangzi. Let's look at an overview of the contents. For ease, I've split this into **five** sections. 
 
-##### Opening Argument
-First, there's an extended argument that *seems* to be aiming at the idea that our attempt to get clear about things, to discriminate between them more clearly, leads only to greater confusion.
+##### Section 1: Opening Argument
+First, there's an extended argument that *seems* to be aiming at the idea that our attempt to get clear about things, to discriminate between them more clearly, leads only to greater confusion. There's a lot happening in this section...
 
 - An opening paragraph about statements and categories
 - The puzzling passage about beginnings, being and nonbeing.
@@ -292,7 +292,7 @@ First, there's an extended argument that *seems* to be aiming at the idea that o
 - A question about how we divide up the world, by discriminating between things, or drawing boundaries. But does this help our understanding or get in the way of our understanding?
 - "If the Way is made clear, it is not the Way" — in other words language is inherently discriminating: it makes clear when the world itself is not clear (see the earlier passage about the "torch of chaos and doubt"). In this way, our search for clarity actually obscures understanding.
 
-##### Nie Que and Wang Ni and the futility of debate
+##### Section 2: Nie Que and Wang Ni and the futility of debate
 Next, there's a famous passage about where Nie Que (whose name means "toothless") and Wang Ni have a debate.
 
 This is more directly about knowledge. Let's look at the opening question:
@@ -308,9 +308,9 @@ Wang Ni then responds by talking about different perspectives: people in the mud
 
 This means that all our ways of knowing anything — including ethics — are "hopelessly snarled." What then remains for us to do?
 
-This passage ends with the idea of the "Perfect Person" or Zhi ren 至人 (also translated as "consummate person"). Who is this character? Who knows (after all, we know, or we maybe know, that don't know if we know or if we don't know...)?
+This passage ends with the idea of the "Perfect Person" or *zhi ren* 至人 (also translated as "consummate person"). Who is this character? Who knows (after all, we know, or we maybe know, that don't know if we know or if we don't know...)?
 
-##### The discussion between Ju Que and Zhang Wuzi
+##### Section 3: The discussion between Ju Que and Zhang Wuzi
 The discussion then turns to Confucius, and to the sages of the past. One interesting line here is that the sage doesn't try to make sense of the muddle we are in, but instead "leaves the confusion and muddle as it is" (置其滑涽 *Zhì qí huá hūn*). 
 
 Ordinary people struggle to be clever or to make sense of things. The sage doesn't bother, and just lets everything be what it is.
@@ -323,7 +323,7 @@ There's a section next on dreams — we'll come back to that at the end. And th
 
 What does this say about our belief that arguments *lead to truth*? Wouldn't we be better to "Forget the years; forget distinctions. Leap into the boundless and make it your home"?
 
-##### Penumbra and Shadow and the problem of Free Will
+##### Section 4: Penumbra and Shadow and the problem of Free Will
 This is a deeply mysterious section! The word "penumbra" translates 罔兩 (wǎng liǎng). This means something like "secondary absence" — it suggests loss, perhaps even deceit, traps, death. The word for shadow here is 景 (Jǐng).
 
 The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-quite shadow, or partial shadow. Whether this is a good translation of wǎng liǎng, who knows...? Anyway, this wǎng liǎng accuses shadow of only *following along* the thing it is a shadow of. The shadow follows (or "waits for") the body. 
@@ -332,29 +332,29 @@ In response, shadow asks an intriguing question. But, says shadow, does the body
 
 This connects in to questions of Free Will. What is the source of action? Where do actions arise from? Is there any independent source of action. We might talk about Free Will. But what does it mean to act freely? Does "Free Will" really explain anything? And would we even know if we were acting freely or not?
  
-##### The Butterfly Dream
+##### Section 5: The Butterfly Dream
 Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
 
 This, he says, is the Transformation of Things. No position is one we can rest on. But we can flit, butterfly-like, from one to the other!
 
 ---
 
-#### Some questions on the text
+##### Some questions on the text
 Let's look at some questions on the text. We'll have one question for each of these sections.
 
-##### Question 1: Opening Argument — Discrimination and understanding
+###### Question 1: Opening Argument — Discrimination and understanding
 Do our attempts to discriminate between things help us understand the truth more clearly? Or do these attempts obscure the truth? Can you think of examples to support either view?
 
-##### Question 2: Nie Qie and Wang Ni — Knowing We Don't Know
+###### Question 2: Nie Qie and Wang Ni — Knowing We Don't Know
 Nie Qie's argument suggests that Socrates is wrong when he says that he knows that he doesn't know. (See the section where he says: "What way do I have of knowing that if I say I know something I don’t  really not know it? Or what way do I have of knowing that if I say I  don’t know something I don’t really in fact know it?") Is this true? And if so, what are the implications of this?
 
-##### Question 3: The discussion between Ju Que and Zhang Wuzi — does argument lead to truth?
+###### Question 3: The discussion between Ju Que and Zhang Wuzi — does argument lead to truth?
 "Suppose you and I have had an argument. If you have beaten me instead of my beating you, then are you necessarily right, and am I necessarily  wrong?" So the question here is this: does argumentation lead to truth? (If so, how, and under what conditions?)
 
-##### Question 4: Penumbra and Shadow — Free Will, and where our actions come from.
+###### Question 4: Penumbra and Shadow — Free Will, and where our actions come from.
 Free Will is an important idea. But the dialogue between Penumbra and Shadow suggests that we can't be sure that there is *anywhere* an independent source of action (and we can't be sure there isn't). What are the implications of this?
 
-##### Question 5: Butterfly dreams
+###### Question 5: Butterfly dreams
 This is the most famous passage, perhaps, from the whole Zhuangzi. What do you think Zhuangzi means when he says, "Between Zhuang Zhou and a butterfly, there must be some distinction"? And why does he call this "the Transformation of Things"?
 
 
