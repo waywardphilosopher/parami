@@ -306,7 +306,7 @@ This is a kind of scepticism about knowledge. But it is not quite the same as So
 
 Wang Ni then responds by talking about different perspectives: people in the mud have achey backs, but loaches (a kind of fish) love it there; people up trees are scared, monkeys are happy. Think of the hot and cold winds in the Theaetetus. You may think that a movie star like Maoqiang or Lady Li is good-looking; but fish will flee from them. And so on.
 
-This means that all our ways of knowing anyting — including ethics — are "hopelessly snarled." What then remains for us to do?
+This means that all our ways of knowing anything — including ethics — are "hopelessly snarled." What then remains for us to do?
 
 This passage ends with the idea of the "Perfect Person" or Zhi ren 至人 (also translated as "consummate person"). Who is this character? Who knows (after all, we know, or we maybe know, that don't know if we know or if we don't know...)?
 
