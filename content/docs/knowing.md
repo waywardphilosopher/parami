@@ -10,11 +10,12 @@ weight: 1
 My 2023 course for Parami University's first year seminar II
 
 ## Syllabus Part I
+
 ### Introduction
 
 In this first five-week block, we're going to be talking about theories of knowledge, and we will be looking at two texts: Plato's *Theaetetus* and the *Zhuangzi*.
 
-But first, we should ask: why study these texts at all? What relevance could they posibly have for the present day?
+But first, we should ask: why study these texts at all? What relevance could they possibly have for the present day?
 
 Here are two answers to this. They are not the only two, but they're enough to get us started...
 
@@ -22,7 +23,7 @@ Here are two answers to this. They are not the only two, but they're enough to g
 - These texts raise fundamental questions about knowledge — questions that are still discussed today. 
 
 
-Plato's *Theaetetus* begins by asking "What is knowledge?" This is a deceptively simple question. We talk about knowledge all the time. But we often take knowlege for granted. Do we really know what we are talking about? If we say, for example, that knowledge is good, are we clear what we mean and why?
+Plato's *Theaetetus* begins by asking "What is knowledge?" This is a deceptively simple question. We talk about knowledge all the time. But we often take knowledge for granted. Do we really know what we are talking about? If we say, for example, that knowledge is good, are we clear what we mean and why?
 
 In the Theaetetus, the philosopher Socrates — Plato's teacher — discusses this question with a young mathematician called Theaetetus, and his tutor Theodorus.
 
@@ -61,7 +62,7 @@ We'll be using sections from Burton Watson's translations of the *Zhuangzi*. Aga
 2. How does Plato tell us that we know about this dialogue took place?
 3. Why do you think the preface begins with the framing narrative?
 4. Why is Socrates interested in asking about knowledge? Why does this matter?
-5. What approach does Theaetetus use in his first answer to the question "What is knowledge?" 
+5. What approach does Theaetetus use in his first answer to the question "What is knowledge?"
 6. Why is Socrates unhappy with this answer?
 
 
@@ -104,7 +105,7 @@ There are two possibilities here. If we know both X and Y (and genuinely know th
 
 Can you believe what is not the case? If you believe something about X, but X is nonexistent, in what sense is this even a belief?
 
-##### Possbility 3: False belief is crossed wires between two true beliefs.
+##### Possibility 3: False belief is crossed wires between two true beliefs.
 
 We believe something true about X and something true about Y. But we get our wires crossed and assign our beliefs about X to Y, and vice versa.
 
@@ -122,7 +123,7 @@ You might know the song by the band They Might be Giants: https://www.youtube.co
 
 Wild scenes: knowledge is like having birds flying around in your mind. You don't really fully possess these birds. They're wild animals, dammit. But they're there ready for you to grab. Sometimes you grab the wrong one. That's when you screw up. More or less. 
 
-Added plot twist: some birds might not be birds of knowlege, but birds of ignorance. As I said, wild scenes!
+Added plot twist: some birds might not be birds of knowledge, but birds of ignorance. As I said, wild scenes!
 
 ##### Final objection: Those Tricky Lawyers
 
@@ -170,11 +171,11 @@ On the other hand, if we have *knowledge* of M, then:
 
 `knowledge of X = true belief about X + knowledge of M`
 
-So we're defining knowledge in terms of knoweldge, and this is circular. (At this point, everyone gives up, and goes off to do something else...)
+So we're defining knowledge in terms of knowledge, and this is circular. (At this point, everyone gives up, and goes off to do something else...)
 
 #### Reading 5 (session 7 and 8): "Skill knowledge": Zhuangzi's Ox
 
-In the final two weeks, we're moving on to the *Zhuangzi* to explore a different kind of knowledge: the knowledge that we have when we're doing something skilfully — playing guitar, balancing an upended broom on the palm of our hand etc. We'll be talking about how knowing *that* (for example, knowing *that* if you want to walk a tightrope, you need good balance) sometimes matters less than knowing *how* (knowing *how* to walk on a tightrope and keep your balance).
+In the final two weeks, we're moving on to the *Zhuangzi* to explore a different kind of knowledge: the knowledge that we have when we're doing something skillfully — playing guitar, balancing an upended broom on the palm of our hand etc. We'll be talking about how knowing *that* (for example, knowing *that* if you want to walk a tightrope, you need good balance) sometimes matters less than knowing *how* (knowing *how* to walk on a tightrope and keep your balance).
 
 This reading can be broken down into four parts:
 
@@ -230,7 +231,7 @@ Then there's an extended passage on the question of right and wrong, true and fa
 
 The translation we have in Watson is this:
 
-> But where there is birth, there must be death; where there is death, there must be birth. Where there is acceptability, there must be unacceptability; where there is unaccept- ability, there must be acceptability. Where there is recog- nition of right, there must be recognition of wrong; where there is recognition of wrong, there must be recognition of right. 
+> But where there is birth, there must be death; where there is death, there must be birth. Where there is acceptability, there must be unacceptability; where there is unacceptability, there must be acceptability. Where there is recognition of right, there must be recognition of wrong; where there is recognition of wrong, there must be recognition of right. 
 
 And then, he talks about the perspective of the sage (聖人 Shèngrén):
 
@@ -283,6 +284,7 @@ We'll explore the final passages in the next session (along with the famous butt
 So, in this session, we're reading our final section of the Zhuangzi. Let's look at an overview of the contents. For ease, I've split this into **five** sections. 
 
 ##### Section 1: Opening Argument
+
 First, there's an extended argument that *seems* to be aiming at the idea that our attempt to get clear about things, to discriminate between them more clearly, leads only to greater confusion. There's a lot happening in this section...
 
 - An opening paragraph about statements and categories
@@ -293,6 +295,7 @@ First, there's an extended argument that *seems* to be aiming at the idea that o
 - "If the Way is made clear, it is not the Way" — in other words language is inherently discriminating: it makes clear when the world itself is not clear (see the earlier passage about the "torch of chaos and doubt"). In this way, our search for clarity actually obscures understanding.
 
 ##### Section 2: Nie Que and Wang Ni and the futility of debate
+
 Next, there's a famous passage about where Nie Que (whose name means "toothless") and Wang Ni have a debate.
 
 This is more directly about knowledge. Let's look at the opening question:
@@ -311,6 +314,7 @@ This means that all our ways of knowing anything — including ethics — are 
 This passage ends with the idea of the "Perfect Person" or *zhi ren* 至人 (also translated as "consummate person"). Who is this character? Who knows (after all, we know, or we maybe know, that don't know if we know or if we don't know...)?
 
 ##### Section 3: The discussion between Ju Que and Zhang Wuzi
+
 The discussion then turns to Confucius, and to the sages of the past. One interesting line here is that the sage doesn't try to make sense of the muddle we are in, but instead "leaves the confusion and muddle as it is" (置其滑涽 *Zhì qí huá hūn*). 
 
 Ordinary people struggle to be clever or to make sense of things. The sage doesn't bother, and just lets everything be what it is.
@@ -324,6 +328,7 @@ There's a section next on dreams — we'll come back to that at the end. And th
 What does this say about our belief that arguments *lead to truth*? Wouldn't we be better to "Forget the years; forget distinctions. Leap into the boundless and make it your home"?
 
 ##### Section 4: Penumbra and Shadow and the problem of Free Will
+
 This is a deeply mysterious section! The word "penumbra" translates 罔兩 (wǎng liǎng). This means something like "secondary absence" — it suggests loss, perhaps even deceit, traps, death. The word for shadow here is 景 (Jǐng).
 
 The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-quite shadow, or partial shadow. Whether this is a good translation of wǎng liǎng, who knows...? Anyway, this wǎng liǎng accuses shadow of only *following along* the thing it is a shadow of. The shadow follows (or "waits for") the body. 
@@ -333,6 +338,7 @@ In response, shadow asks an intriguing question. But, says shadow, does the body
 This connects in to questions of Free Will. What is the source of action? Where do actions arise from? Is there any independent source of action. We might talk about Free Will. But what does it mean to act freely? Does "Free Will" really explain anything? And would we even know if we were acting freely or not?
  
 ##### Section 5: The Butterfly Dream
+
 Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
 
 This, he says, is the Transformation of Things. No position is one we can rest on. But we can flit, butterfly-like, from one to the other!
@@ -340,21 +346,27 @@ This, he says, is the Transformation of Things. No position is one we can rest o
 ---
 
 ##### Some questions on the text
+
 Let's look at some questions on the text. We'll have one question for each of these sections.
 
 ###### Question 1: Opening Argument — Discrimination and understanding
+
 Do our attempts to discriminate between things help us understand the truth more clearly? Or do these attempts obscure the truth? Can you think of examples to support either view?
 
 ###### Question 2: Nie Qie and Wang Ni — Knowing We Don't Know
+
 Nie Qie's argument suggests that Socrates is wrong when he says that he knows that he doesn't know. (See the section where he says: "What way do I have of knowing that if I say I know something I don’t  really not know it? Or what way do I have of knowing that if I say I  don’t know something I don’t really in fact know it?") Is this true? And if so, what are the implications of this?
 
 ###### Question 3: The discussion between Ju Que and Zhang Wuzi — does argument lead to truth?
+
 "Suppose you and I have had an argument. If you have beaten me instead of my beating you, then are you necessarily right, and am I necessarily  wrong?" So the question here is this: does argumentation lead to truth? (If so, how, and under what conditions?)
 
 ###### Question 4: Penumbra and Shadow — Free Will, and where our actions come from.
+
 Free Will is an important idea. But the dialogue between Penumbra and Shadow suggests that we can't be sure that there is *anywhere* an independent source of action (and we can't be sure there isn't). What are the implications of this?
 
 ###### Question 5: Butterfly dreams
+
 This is the most famous passage, perhaps, from the whole Zhuangzi. What do you think Zhuangzi means when he says, "Between Zhuang Zhou and a butterfly, there must be some distinction"? And why does he call this "the Transformation of Things"?
 
 
@@ -363,9 +375,10 @@ This is the most famous passage, perhaps, from the whole Zhuangzi. What do you t
 ## Extra Resources Part I 
 
 ### Plato resources
+
 - Try this Youtube video for a nice overview of the issues in the Theaetetus: https://www.youtube.com/watch?v=iePg6G3Jg4o
 - My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
-- Listen to this podcast with British comedien Natalie Haynes, standing up for Plato: https://www.bbc.co.uk/sounds/play/b0785rmr
+- Listen to this podcast with British comedian Natalie Haynes, standing up for Plato: https://www.bbc.co.uk/sounds/play/b0785rmr
 
 - Here's some background on Plato: https://www.lookingforwisdom.com/plato-part-one/
 - Here is a very useful one-page summary of the Theaetetus, with a "map" of the contents of the dialogue. https://open.conted.ox.ac.uk/sites/open.conted.ox.ac.uk/files/resources/Create%20Document/Theaetetus02.pdf
@@ -398,7 +411,9 @@ This is the most famous passage, perhaps, from the whole Zhuangzi. What do you t
 ---
 
 ## Syllabus Part II
+
 ### Introduction
+
 In the second part, we'll be looking at knowledge, experience and science. We'll be asking what science is, how it works, whether it is (or provides us with) a special kind of knowledge, and how scientific ways of knowing relate to other ways of knowing.
 
 We've got three texts to read this time. First, we'll be looking at *Braiding Sweetgrass* by Robin Wall Kimmerer, exploring the relationships between indigenous ways of knowing and scientific knowledge.
@@ -416,6 +431,7 @@ Our third book is *What is This Thing Called Science?* by Alan Chalmers
 
 
 #### About the Readings
+
 *Braiding Sweetgrass* moves between two different ways of knowing: American indigenous Potawatomi perspectives, and modern scientific perspectives. The book was first published in 2013, and has become increasingly widely-read. The book is interesting because its author is both a member of the Citizen Potawatomi Nation, and also a plant scientist. So she braids together these two perspectives to ask what it means to know, and to explore the power and limits of science
 
 Shelley's *Frankenstein* needs no introduction. It is one of the most famous monster stories in the history of the world! But it is also a parable about science and the quest for knowledge. The book exists in two versions — the 1818 version and the 1831 version. We're going to read the latter.
@@ -426,10 +442,14 @@ Finally, Chalmers's *What is this Thing Called Science* is a best-selling textbo
 
 ### Weekly break-down of sessions
 
+#### Reading 1 (sessions 1 & 2): Sweetgrass, Skywoman and Pecan Nuts
+
+In the first reading, we'll be looking at the preface of Robin Wall Kimmerer's book, as well as the first two chapters. We'll be exploring how the author moves between myth and science, and we'll be thinking about myth, metaphor, scientific enquiry and knowledge — and how all these are braided together in the book.
+
 ---
 
-
 ## Syllabus Part III
+
 ### Introduction
 Check back for more later!
 
