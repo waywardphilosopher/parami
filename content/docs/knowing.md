@@ -357,11 +357,9 @@ This is the most famous passage, perhaps, from the whole Zhuangzi. What do you t
 ---
 
 
-## Extra Resources Part I
-### 
+## Extra Resources Part I 
 
 ### Plato resources
-
 - Try this Youtube video for a nice overview of the issues in the Theaetetus: https://www.youtube.com/watch?v=iePg6G3Jg4o
 - My returning students will know my affection for this delight from 8-bit philosophy. Great if you want to get a quick view of who Socrates was: https://www.youtube.com/watch?v=bJUuOnsRcvc
 - Listen to this podcast with British comedien Natalie Haynes, standing up for Plato: https://www.bbc.co.uk/sounds/play/b0785rmr
