@@ -2,8 +2,8 @@
 title: "Ways of Knowing"
 date: 2023-03-02
 ShowToc: true
-TocOpen: true
-TocSide: right
+TocOpen: false
+TocSide: left
 summary: It's all about knowledge!
 weight: 1
 ---
