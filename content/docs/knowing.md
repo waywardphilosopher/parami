@@ -326,17 +326,34 @@ What does this say about our belief that arguments *lead to truth*? Wouldn't we 
 ##### Penumbra and Shadow and the problem of Free Will
 This is a deeply mysterious section! The word "penumbra" translates 罔兩 (wǎng liǎng). This means something like "secondary absence" — it suggests loss, perhaps even deceit, traps, death. The word for shadow here is 景 (Jǐng).
 
-The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-quite shadow, or partial shadow. Whether this is a good translation of wǎng liǎng, who knows...? Anyway, this wǎng liǎng accuses shadow of only *following along* the thing it is a shadow of.
+The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-quite shadow, or partial shadow. Whether this is a good translation of wǎng liǎng, who knows...? Anyway, this wǎng liǎng accuses shadow of only *following along* the thing it is a shadow of. The shadow follows (or "waits for") the body. 
 
-Remember — this may not be a bad thing! Independent action may not be the ideal.
+In response, shadow asks an intriguing question. But, says shadow, does the body, in turn, follow along with, or wait for, something else for it to act? Is this action really independent? Is *any* action?
 
-The response of "Shadow" seems to be about asking what it means to act at all. And this connects in to questions of Free Will. What is the source of action? Where do actions arise from? Free Will? Sure, but what's that? What does it mean to act freely? Where does the desire to act arise from? Does "Free Will" really explain anything? 
+This connects in to questions of Free Will. What is the source of action? Where do actions arise from? Is there any independent source of action. We might talk about Free Will. But what does it mean to act freely? Does "Free Will" really explain anything? And would we even know if we were acting freely or not?
  
 ##### The Butterfly Dream
 Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
 
 This, he says, is the Transformation of Things. No position is one we can rest on. But we can flit, butterfly-like, from one to the other! 
- 
+
+#### Some questions on the text
+Let's look at some questions on the text. We'll have one question for each of these sections.
+
+##### Question 1: Opening Argument — Discrimination and understanding
+Do our attempts to discriminate between things help us understand the truth more clearly? Or do these attempts obscure the truth? Can you think of examples to support either view?
+
+##### Question 2: Nie Qie and Wang Ni — Knowing We Don't Know
+Nie Qie's argument suggests that Socrates is wrong when he says that he knows that he doesn't know. (See the section where he says: "What way do I have of knowing that if I say I know something I don’t  really not know it? Or what way do I have of knowing that if I say I  don’t know something I don’t really in fact know it?") Is this true? And if so, what are the implications of this?
+
+##### Question 3: The discussion between Ju Que and Zhang Wuzi — does argument lead to truth?
+"Suppose you and I have had an argument. If you have beaten me instead of my beating you, then are you necessarily right, and am I necessarily  wrong?" So the question here is this: does argumentation lead to truth? (If so, how, and under what conditions?)
+
+##### Question 4: Penumbra and Shadow — Free Will, and where our actions come from.
+Free Will is an important idea. But the dialogue between Penumbra and Shadow suggests that we can't be sure that there is *anywhere* an independent source of action (and we can't be sure there isn't). What are the implications of this?
+
+##### Question 5: Butterfly dreams 
+This is the most famous passage, perhaps, from the whole Zhuangzi. What do you think Zhuangzi means when he says, "Between Zhuang Zhou and a butterfly, there must be some distinction"? And why does he call this "the Transformation of Things"?
 ---
 
 
