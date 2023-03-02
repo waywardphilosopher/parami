@@ -7,7 +7,7 @@ TocSide: left
 summary: It's all about knowledge!
 weight: 1
 ---
-My 2023 course for Parami University's first year seminar course II
+My 2023 course for Parami University's first year seminar II
 
 ## Syllabus Part I
 ### Introduction
