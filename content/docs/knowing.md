@@ -336,7 +336,7 @@ The word "penumbra" is a region at the fuzzy edges of shadow — it is a not-qu
 In response, shadow asks an intriguing question. But, says shadow, does the body, in turn, follow along with, or wait for, something else for it to act? Is this action really independent? Is *any* action?
 
 This connects in to questions of Free Will. What is the source of action? Where do actions arise from? Is there any independent source of action. We might talk about Free Will. But what does it mean to act freely? Does "Free Will" really explain anything? And would we even know if we were acting freely or not?
- 
+
 ##### Section 5: The Butterfly Dream
 
 Finally, there's the famous dream. Zhuang Zhou dreams he is a butterfly. Then he wakes up and wonders if he is a butterfly he is dreaming he is Zhuang Zhou. 
@@ -420,14 +420,14 @@ We've got three texts to read this time. First, we'll be looking at *Braiding Sw
 
 After this, we'll move into fiction, and read Mary Shelley's famous novel, *Frankenstein*, or to give the book it's full title, *Frankenstein: Or, the Modern Prometheus.* The subtitle tells us that this is a book all about knowledge. Prometheus was the Greek figure who stole the knowledge of fire from the gods to give to humankind.
 
-Our third book is *What is This Thing Called Science?* by Alan Chalmers
+We're also going to be making use of the classic study of the philosophy of science — *What is This Thing Called Science?* by Alan Chalmers
 
 
 ### Set readings
 
 1. Robin Wall Kimmerer *Braiding Sweetgrass* 
 2. Mary Shelley *Frankenstein: Or, the Modern Prometheus* 
-3. Alan Chalmers *What is This Thing Called Science?*
+3. Alan Chalmers *What is This Thing Called Science?* 
 
 
 #### About the Readings
@@ -438,13 +438,47 @@ Shelley's *Frankenstein* needs no introduction. It is one of the most famous mon
 
 <img src="/images/frank.jpg" />
 
-Finally, Chalmers's *What is this Thing Called Science* is a best-selling textbook that explores theories of scientific knowing. It was first published in 1976 and has been in print ever since
+We'll also be looking at reinventions of Frankenstein in popular culture across the world, and ask about the connections between science, society and myth-making.
+
+Finally, Chalmers's *What is this Thing Called Science* is a best-selling textbook that explores theories of scientific knowing. It was first published in 1976 and has been in print ever since. We won't be studying this book in isolation (it's simply not as much fun as *Frankenstein* or *Sweetgrass*). But we will be exploring it as we go along.
 
 ### Weekly break-down of sessions
 
 #### Reading 1 (sessions 1 & 2): Sweetgrass, Skywoman and Pecan Nuts
 
 In the first reading, we'll be looking at the preface of Robin Wall Kimmerer's book, as well as the first two chapters. We'll be exploring how the author moves between myth and science, and we'll be thinking about myth, metaphor, scientific enquiry and knowledge — and how all these are braided together in the book.
+
+This reading is in several parts: 
+
+##### 1: Preface
+
+In the preface, Kimmerer talks about the braiding together of three strands. Here are a few questions to think about:
+
+1. What are the three stands that she says she will braid together?
+
+2. Why does she use the braiding metaphor? How does it differ from other metaphors that we might use when talking about different kinds of knowledge?
+
+3. What is the relationship here between knowledge, storytelling and healing?
+
+   
+
+##### 2: Skywoman Falling
+
+In the second chapter, Kimmerer retells the Potawatomi myth of the Skywoman, the ancestor of humankind. She talks about an image of Skywoman that she has hanging on the wall of her lab. You can see the image online [here](https://peopleofthelonghouse.tumblr.com/post/55558232141/sky-woman-by-bruce-king-oneida). Again, here are some questions:
+
+1. What do you think Kimmerer means by "images of Skywoman speak not just of where we came from, but also of how we can go forward."
+2. Kimmerer also tells another story with that of Skywoman — the story of Eve. How does she contrast these two different stories?
+3. At the end of the section, she talks about hierarchy, and the contrast between seeing human beings as "the pinnacle of evolution" or as "the younger brothers of Creation." Which of these views do you think most accurately represents our true existential situation? And what are the implications of each?
+
+
+
+3: The Council of Pecans
+
+The third section in this reading, she tells the story of her grandfather gathering pecan nuts. The story also takes us into the late 19th and early 20th century history of North America, and the removal of indigenous peoples from their homelands. And it explores the mysterious phenomenon of "mast fruiting."
+
+1. Kimmerer writes, "All flourishing is mutual." What does she mean by this? And is she right?s
+2. What is mast fruiting? What does it say about the natural world?
+3. What does Kimmerer learn from the pecans? And how? What does it mean to learn not just *about* but also *from* the natural world?
 
 ---
 
