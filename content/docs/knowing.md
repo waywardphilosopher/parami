@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-03-09
+date: 2023-03-14
 ShowToc: true
 TocOpen: false
 TocSide: right
@@ -472,11 +472,11 @@ In the second chapter, Kimmerer retells the Potawatomi myth of the Skywoman, the
 
 
 
-3: The Council of Pecans
+##### 3: The Council of Pecans
 
 The third section in this reading, she tells the story of her grandfather gathering pecan nuts. The story also takes us into the late 19th and early 20th century history of North America, and the removal of indigenous peoples from their homelands. And it explores the mysterious phenomenon of "mast fruiting."
 
-1. Kimmerer writes, "All flourishing is mutual." What does she mean by this? And is she right?s
+1. Kimmerer writes, "All flourishing is mutual." What does she mean by this? And is she right?
 2. What is mast fruiting? What does it say about the natural world?
 3. What does Kimmerer learn from the pecans? And how? What does it mean to learn not just *about* but also *from* the natural world?
 
