@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-03-14
+date: 2023-03-16
 ShowToc: true
 TocOpen: false
 TocSide: right
@@ -208,7 +208,7 @@ In these two sessions, we'll read the entirety of chapter 2 of the Zhuangzi, whi
 
 <img src="/images/butterfly.jpeg" />
 
-But for this first session, we're going to focus on the difficult first part of the text. So to get started, let's map out this section of the reading, to see if that helps us find out way through.
+But for this first session, we're going to focus on the difficult first part of the text. So to get started, let's map out this section of the reading, to see if that helps us find our way through.
 
 ##### Ziqi of the South Wall
 
@@ -418,7 +418,7 @@ In the second part, we'll be looking at knowledge, experience and science. We'll
 
 We've got three texts to read this time. First, we'll be looking at *Braiding Sweetgrass* by Robin Wall Kimmerer, exploring the relationships between indigenous ways of knowing and scientific knowledge.
 
-After this, we'll move into fiction, and read Mary Shelley's famous novel, *Frankenstein*, or to give the book it's full title, *Frankenstein: Or, the Modern Prometheus.* The subtitle tells us that this is a book all about knowledge. Prometheus was the Greek figure who stole the knowledge of fire from the gods to give to humankind.
+After this, we'll move into fiction, and read Mary Shelley's famous novel, *Frankenstein*, or to give the book its full title, *Frankenstein: Or, the Modern Prometheus.* The subtitle tells us that this is a book all about knowledge. Prometheus was the Greek figure who stole the knowledge of fire from the gods to give to humankind.
 
 We're also going to be making use of the classic study of the philosophy of science — *What is This Thing Called Science?* by Alan Chalmers
 
@@ -479,6 +479,22 @@ The third section in this reading, she tells the story of her grandfather gather
 1. Kimmerer writes, "All flourishing is mutual." What does she mean by this? And is she right?
 2. What is mast fruiting? What does it say about the natural world?
 3. What does Kimmerer learn from the pecans? And how? What does it mean to learn not just *about* but also *from* the natural world?
+
+#### Reading 2 (Three Sisters, Putting Down Roots, and People of Corn, People of Light).
+
+##### Three Sisters
+
+In this justly famous passage, Kimmerer talks about what is known as *intercropping*, or *companion planting*, the planting of multiple crops in the same area. This was a common farming strategy in indigenous american communities. So in this passage, Kimmerer talks about the "three sisters" — the three staple crops of American indigenous societies — corn (maize), beans, and squash.
+
+You can find out more about intercropping an the three sisters here: https://www.youtube.com/watch?v=lSwGxJe4bVs
+
+There are a lot of interesting questions that this section raises. The first, of course, is whether intercropping *works*. And if so, how and in what ways does it work? There's been a lot of scientific research on this. One recent paper, about an experiment in which scientists worked with indigenous communities, can be found here: https://link.springer.com/article/10.1007/s10460-022-10336-z
+
+Here are some questions to think about:
+
+- Is intercropping used in traditional agriculture in your home region?
+- Does your own culture have any equivalent myths about reciprocity between different plants?
+- Robin Wall Kimmerer writes "I envision a time when the intellectual monoculture of science will be replaced with a polyculture of complementary knowledges?" What would such a polyculture look like? And is it desirable?
 
 ---
 
