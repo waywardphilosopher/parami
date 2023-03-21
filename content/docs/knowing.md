@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-03-16
+date: 2023-03-21
 ShowToc: true
 TocOpen: false
 TocSide: right
@@ -495,6 +495,23 @@ Here are some questions to think about:
 - Is intercropping used in traditional agriculture in your home region?
 - Does your own culture have any equivalent myths about reciprocity between different plants?
 - Robin Wall Kimmerer writes "I envision a time when the intellectual monoculture of science will be replaced with a polyculture of complementary knowledges?" What would such a polyculture look like? And is it desirable?
+
+##### Putting Down Roots
+
+In this section, Kimmerer gives us a description of scientific work: counting sweetgrass plants for replanting. It's boring, back-breaking... and rewarding rewarding. The context is a project run by the university, replanting sweetgrass plants, exploring ecological "restoration." They are "putting ecosystems back together" (p. 263).
+
+(We often forget this physical context of how science is carried out. We are removed from the processes of research: the sheer amount of care and observation, for example, that goes into the gathering knowledge about the world — so this is an interesting reminder of this).
+
+But throughout this story of replanting, Kimmerer weaves stories of other things: basket-weaving, history, resettlement, colonialism, the death of cultures, panckaes, the grim history of children forcibly relocated to Indian Schools (which has been in the news more recently), language loss, the relationship of plants and people, and much more.
+
+The stories that Kimmerer weaves all circle around one particular question. The question is this: how have certain kinds of knowledge (which their defenders might claim to be "scientific") served to uproot us: to uproot us from our linguistic roots, our communities, to uproot plants, even whole ecosystems?
+
+- Thinking of your home country, has there been a parallel process of "uprooting" — through education, thorugh the supression of language, through privileging particular forms of knowledge?
+- What has the result of this uprooting been? How has it affected communities and individuals? Who has won and who has lost?
+- How is the rhetoric of science used to justify this uprooting (e.g. "We need progress! This is what development means! You need to leave behind superstition and embrace science?"
+- Does scientific understanding *inherently* uproot us from the world? Or can it help root us more firmly?
+
+This final question is one we will explore in the next section on the people of corn, and the people of light, drawing on the Mayan Popol Vuh. [https://www.lookingforwisdom.com/maya-philosophy/]
 
 ---
 
