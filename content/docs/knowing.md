@@ -498,7 +498,7 @@ Here are some questions to think about:
 
 ##### Putting Down Roots
 
-In this section, Kimmerer gives us a description of scientific work: counting sweetgrass plants for replanting. It's boring, back-breaking... and rewarding rewarding. The context is a project run by the university, replanting sweetgrass plants, exploring ecological "restoration." They are "putting ecosystems back together" (p. 263).
+In this section, Kimmerer gives us a description of scientific work: counting sweetgrass plants for replanting. It's boring, back-breaking... and rewarding. The context is a project run by the university, replanting sweetgrass plants, exploring ecological "restoration." They are "putting ecosystems back together" (p. 263).
 
 (We often forget this physical context of how science is carried out. We are removed from the processes of research: the sheer amount of care and observation, for example, that goes into the gathering knowledge about the world — so this is an interesting reminder of this).
 
