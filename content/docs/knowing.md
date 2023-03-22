@@ -480,7 +480,7 @@ The third section in this reading, she tells the story of her grandfather gather
 2. What is mast fruiting? What does it say about the natural world?
 3. What does Kimmerer learn from the pecans? And how? What does it mean to learn not just *about* but also *from* the natural world?
 
-#### Reading 2 (Three Sisters, Putting Down Roots, and People of Corn, People of Light).
+#### Reading 2 (Sessions 3, 4 and 5) Three Sisters, Putting Down Roots, and People of Corn, People of Light.
 
 ##### Three Sisters
 
@@ -511,9 +511,42 @@ The stories that Kimmerer weaves all circle around one particular question. The 
 - How is the rhetoric of science used to justify this uprooting (e.g. "We need progress! This is what development means! You need to leave behind superstition and embrace science?"
 - Does scientific understanding *inherently* uproot us from the world? Or can it help root us more firmly?
 
-This final question is one we will explore in the next section on the people of corn, and the people of light, drawing on the Mayan Popol Vuh. [https://www.lookingforwisdom.com/maya-philosophy/]
+This final question is one we will explore in the next section on the people of corn, and the people of light, drawing on the Mayan Popol Vuh.
+
+##### People of Corn, People of Light
+
+In this section, Kimmerer brings together different ways of knowing — scientific and indigenous. She begins with a Maya creation myth from the Popol Vuh, about how they created human beings.
+
+The gods wanted to create a creature who could speak. So they started to make humans. They tried four approaches:
+
+- Making human beings out of mud
+- Making human beings out of wood
+- Making human beings out of light
+- Making human beings out of corn
+
+Only the last batch turned out well, being able to sing and dance and pray, and having compassion and gratitude. 
+
+This story, Kimmerer says, is a *ilbal*, a lens through which we can see our place in the world. 
+
+Then Kimmerer moves on to talk about photosynthesis, and argues that facts are themselves a poem: the world is astonishing and rich. But the way that we communicate these facts tends to exclude: scientific language can "give us knowing" but it can't give us caring for the world.
+
+So do we need, alongside science, stories that can encourage us not just to *know* but to *care*? So — given that language is the particular gift we have — do we need new stories, new ways of talking about the world?
 
 ---
+
+## Extra Resources Part II
+
+### Braiding Sweetgrass Resources
+
+- There's a nice discussion with Robin Kimmerer here — about science and pluralism: https://www.sciencefriday.com/segments/braiding-sweetgrass-land-book/
+- Find out more about Mayan myth and philosophy here:  https://www.lookingforwisdom.com/maya-philosophy/ 
+
+### Frankenstein Resources
+
+- Try this TED talk introducing Frankenstein and telling you (allegedly) "everything you need to know": https://ed.ted.com/lessons/everything-you-need-to-know-to-read-mary-shelley-s-frankenstein-iseult-gillespie#review 
+- In Our Time is a great radio show. This edition is about Frankenstein: https://www.bbc.co.uk/programmes/m00051n6
+
+
 
 ## Syllabus Part III
 
