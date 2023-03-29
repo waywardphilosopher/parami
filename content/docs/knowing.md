@@ -1,6 +1,6 @@
 ---
 title: "Ways of Knowing"
-date: 2023-03-21
+date: 2023-03-29
 ShowToc: true
 TocOpen: false
 TocSide: right
@@ -532,6 +532,62 @@ Then Kimmerer moves on to talk about photosynthesis, and argues that facts are t
 
 So do we need, alongside science, stories that can encourage us not just to *know* but to *care*? So — given that language is the particular gift we have — do we need new stories, new ways of talking about the world?
 
+#### Reading 3: Frankenstein - Chapters 4 & 5
+
+##### First session: Reading the text
+
+We're moving on to read Mary Shelley's classic novel, *Frankenstein*. Our first reading comes from chapters 4 and 5. In the first of these chapters, Frankenstein,  full of hope, creates his monster (chapter 4). Then he sees this hope come crashing down into unspeakable horror (chapter 5).
+
+In the first class, we'll be responding to the text through reading and writing.
+
+- Reading: Collective reading Quaker style from "It was on a dreary night of November..." to "...to which I had so miserably given life."
+
+- Writing task: To help you imaginatively engage more deeply with the text, for 15 minutes write a piece **in the first person** as narrated by the monster, describing its "birth" — how it woke up for the first time, what it saw, what it felt, what it experienced, what it did.
+
+Chapter four explores the question of the boundary between life and death, and the relationship between the two. What makes something *living*? It's not an easy question to answer (as we'll see in Siri Hustvedt's work later on). Here are some questions to explore:
+
+- "After days and nights of incredible labour and fatigue, I succeeded in discovering the cause of generation and life." — Are we any closer to knowing this cause? Does it even make sense to talk about a single cause for generation and life?
+- Shelley writes: "If the study to which you apply yourself has a tendency to weaken your affections and to destroy your taste for those simple pleasures in which no alloy can possibly mix, then that study is certainly unlawful, that is to say, not befitting the human mind. If this rule were always observed; if no man allowed any pursuit whatsoever to interfere with the tranquillity of his domestic affections, Greece had not been enslaved, Caesar would have spared his country, America would have been discovered more gradually, and the empires of Mexico and Peru had not been destroyed." What makes the pursuit of knowledge "lawful" or "unlawful" for Victor Frankenstein? And what does this have to do with Greece, the Americas, and the empires of Mexico and Peru (remember what we talked about when we discussedMaya civilization)?
+- When the monster opens a single eye and breathes, things change dramatically for Frankenstein. What changes, and why?
+
+##### Second session: writing workshop
+
+In this second session, we're going to have a writing workshop exploring monsters and monstrosity. We'll start with this reading from Richard Kearney: 
+
+> ‘Monsters’ also signal borderline experiences of uncontainable excess, reminding the ego that it is never wholly sovereign. Many great myths and tales bear witness to this. Oedipus and the Sphinx. Theseus and the Minotaur. Job and Leviathan. Saint George and the Dragon. Beowulf and Grendel. Ahab and the Whale. Lucy and the Vampire. Ripley and the Alien. Each monster narrative recalls that the self is never secure in itself. ‘There are monsters on the prowl’, as Michel Foucault writes, ‘whose form changes with the history of knowledge’.1 For as our ideas of self-identity alter so do our ideas of what menaces this identity. Liminal creatures of the unknown shift and slide, change masks. We are of the earth, they whisper, autochthonous. We are carriers of the mark of Cain, hobbled by the Achilles heel of a primal unconscious. Monsters show us that if our aims are celestial, our origins are terrestrial. They ghost the margins of what can be legitimately thought and said. By definition unrecognizable, they defy our accredited norms of identification. Unnatural, transgressive, obscene, contradictory, heterogeneous, mad. Monsters are what keep us awake at night and make us nervous during the day. And even when they claim as in *Monsters Inc.* that ‘they only scare because they care’, they still scare.
+>
+> Richard Kearney, "Strangers, Gods and Monsters" (Routledge 2003), pp. 3-4
+
+Then we will try the following writing task:
+
+##### Writing task 1:
+
+Write in response to the following questions for 10 minutes (free-writing):
+
+- What monsters keep you awake at night and make you nervous during the day?
+
+Highlight individual sentences from the free-writing, followed by sharing — popcorn style.
+
+##### The Origins of Frankenstein
+
+Mary Shelley, Percy Shelley and Lord Byron (and a young Italian doctor, writer and scholar called Polidori) were hanging out in a house by Lake Geneva on an exceptionally rainy and dark summer, and so Byron challenged them all to write ghost stories. You can read Mary Shelley's own account here, from her Introduction to the 1831 edition of Frankenstein: https://romantic-circles.org/editions/frankenstein/1831v1/intro
+
+At first, Mary couldn't think of a story *at all*. But then, one night, she couldn't sleep, and the idea of Frankstein dawned on her "with a vividness far beyond the usual bounds of reverie." Mary Shelley later wrote: "I have found it! What terrified me will terrify others; and I need only  describe the spectre which had haunted my midnight pillow." 
+
+Mary Shelley's was the only story that was completed. And it has become one of the most famous monster stories of all time!
+
+##### Build Your Own Monster
+
+So, now your task is this: to build your own monster. 
+
+You may want to think back to your earlier writing task, where you thought about what is monstrous *to you* — what is frightening, or threatening to your identity, or makes you shudder!
+
+We're going to focus on the moment that your monster is "born" or "created". You can take this however literally or metaphorically as you like.
+
+- Writing task: You have 20 minutes to write a story about **the birth of a monster**. What is the monster? How does it come into existence? How is it monstrous?
+
+Don't worry about spelling, punctuation and grammar. This is just a first draft! Just keep writing.
+
 ---
 
 ## Extra Resources Part II
@@ -543,8 +599,9 @@ So do we need, alongside science, stories that can encourage us not just to *kno
 
 ### Frankenstein Resources
 
-- Try this TED talk introducing Frankenstein and telling you (allegedly) "everything you need to know": https://ed.ted.com/lessons/everything-you-need-to-know-to-read-mary-shelley-s-frankenstein-iseult-gillespie#review 
+- Try this TED talk introducing Frankenstein and telling you (allegedly) "everything you need to know": https://ed.ted.com/lessons/everything-you-need-to-know-to-read-mary-shelley-s-frankenstein-iseult-gillespie 
 - In Our Time is a great radio show. This edition is about Frankenstein: https://www.bbc.co.uk/programmes/m00051n6
+- This is a wonderful scholarly resource: https://romantic-circles.org/editions/frankenstein 
 
 
 
