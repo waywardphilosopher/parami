@@ -588,11 +588,11 @@ We're going to focus on the moment that your monster is "born" or "created". You
 
 Don't worry about spelling, punctuation and grammar. This is just a first draft! Just keep writing.
 
-#### Frankenstein on Stage (session 8 and 9)
+### Frankenstein on Stage (session 8 and 9)
 
 In the final two sessions of this segment of the course, we'll be watching the National Theatre dramatisation of Frankenstein, in two parts. We'll stream it via Zoom, and have a chance to talk about what we have witnessed. It is a great play!
 
-##### Session 8: Part 1
+#### Session 8: Part 1
 
 An additional writing exercise: Write in response to the following quote from the play:
 
@@ -600,7 +600,7 @@ An additional writing exercise: Write in response to the following quote from th
 
 
 
-Session 9: Part 2
+#### Session 9: Part 2
 
 At the end of the play, we'll have a class discussion. Then try this as homework:
 
