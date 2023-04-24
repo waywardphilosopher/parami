@@ -532,9 +532,9 @@ Then Kimmerer moves on to talk about photosynthesis, and argues that facts are t
 
 So do we need, alongside science, stories that can encourage us not just to *know* but to *care*? So — given that language is the particular gift we have — do we need new stories, new ways of talking about the world?
 
-#### Reading 3: Frankenstein - Chapters 4 & 5
+#### Reading 3: Frankenstein - Chapters 4 & 5 (sessions 6 and 7)
 
-##### First session: Reading the text
+##### Session 6: Reading the text
 
 We're moving on to read Mary Shelley's classic novel, *Frankenstein*. Our first reading comes from chapters 4 and 5. In the first of these chapters, Frankenstein,  full of hope, creates his monster (chapter 4). Then he sees this hope come crashing down into unspeakable horror (chapter 5).
 
@@ -550,7 +550,7 @@ Chapter four explores the question of the boundary between life and death, and t
 - Shelley writes: "If the study to which you apply yourself has a tendency to weaken your affections and to destroy your taste for those simple pleasures in which no alloy can possibly mix, then that study is certainly unlawful, that is to say, not befitting the human mind. If this rule were always observed; if no man allowed any pursuit whatsoever to interfere with the tranquillity of his domestic affections, Greece had not been enslaved, Caesar would have spared his country, America would have been discovered more gradually, and the empires of Mexico and Peru had not been destroyed." What makes the pursuit of knowledge "lawful" or "unlawful" for Victor Frankenstein? And what does this have to do with Greece, the Americas, and the empires of Mexico and Peru (remember what we talked about when we discussedMaya civilization)?
 - When the monster opens a single eye and breathes, things change dramatically for Frankenstein. What changes, and why?
 
-##### Second session: writing workshop
+##### Session 7: writing workshop
 
 In this second session, we're going to have a writing workshop exploring monsters and monstrosity. We'll start with this reading from Richard Kearney: 
 
@@ -588,7 +588,35 @@ We're going to focus on the moment that your monster is "born" or "created". You
 
 Don't worry about spelling, punctuation and grammar. This is just a first draft! Just keep writing.
 
----
+#### Frankenstein on Stage (session 8 and 9)
+
+In the final two sessions of this segment of the course, we'll be watching the National Theatre dramatisation of Frankenstein, in two parts. We'll stream it via Zoom, and have a chance to talk about what we have witnessed. It is a great play!
+
+##### Session 8: Part 1
+
+An additional writing exercise: Write in response to the following quote from the play:
+
+> You were an equation. A theorem. I confess it. A puzzle to be solved. 
+
+
+
+Session 9: Part 2
+
+At the end of the play, we'll have a class discussion. Then try this as homework:
+
+> The Frankenstein story is a powerful one, and it has been ceaselessly reinvented.
+>
+> For your homework, look for *one* contemporary or recent reinvention, reuse, or recycling of the Frankenstein story. This might be:
+>
+> - A cartoon
+> - A video game
+> - A film
+> - A book
+> - A reference in the media
+> - An image
+> - A song
+>
+> This can be in any language. Post about this to the Padlet, including a link, and any background information. Come to the class ready to talk about this next time.
 
 ## Extra Resources Part II
 
@@ -608,5 +636,123 @@ Don't worry about spelling, punctuation and grammar. This is just a first draft!
 ## Syllabus Part III
 
 ### Introduction
-Check back for more later!
+Now we're moving on to talking about knowledge and power, in reference to two specific issues. The first is gender, and the second is the overarching context of race, racism and the legacies of colonialism. 
 
+### Set readings
+
+Our two texts will be Siri Hustvedt's *The Delusions of Certainty* and Ngũgĩ wa Thiong'o's *Decolonising the Mind: the Politics of Language in African Literature.*
+
+#### About the Readings
+
+The Siri Hustvedt essay is an extended essay that is both published as a book in its own right, and as the long central section of her book of essays, *A Woman Looking at Men Looking at Women*. It tackles some fundamental questions about our self-understanding: as bodies, as brains, as human beings. And it asks about the relationship between our scientific metaphors and other broader issues, such as gender.
+
+*Decolonising the Mind: the Politics of Language in African Literature* is an extended essay by the novelist, playwright, educator and thinker, Ngũgĩ wa Thiong'o. Ngũgĩ wrote many of his early works in English, but eventually turned his back on English to write his cretive works only in Gikuyu, his mother tongue. *Decolonising the Mind* is a call to recognise the cultural, historical and contemporary significance of African languages, and to reform the study of literature to break with the notion that English is somehow a privileged site of literary expression. This book is his "farewell" to writing in English.
+
+### Weekly break-down of sessions
+
+#### Reading 1 (session 1)
+
+In the first four sessions, we're looking at Siri Hustvedt's extended essay, "The Delusions of Certainty." This is an incredibly rich and powerful extended essay, exploring questions about knowledge, gender, minds, bodies and how we understand ourselves and our relationship with the world. In this session, we'll read the following two sections:
+
+- Coming in and Going Out
+- Dressing Gowns, Triangles, Machines, Mind in Matter, and Giants
+
+Here, Hustvedt talks about doubt, and about the puzzle of consciousness, surveying several thinkers — René Descartes, Margaret Cavendish, Thomas Hobbes and Giambattista Vico — who have differing perspectives on the nature of consciousness. 
+
+*The session will start with the following writing exercise*: 
+
+> Free writing. Write for 10 minutes in response to the following question:
+>
+> How does my body think?
+
+Following on from this, this session explores the following questions (and anything else that you find interesting):
+
+- What is the relationship between the mind and the body?
+- How have thinkers from the 17th century onwards thought about this relationship?
+- Do our theories of mind neglect biology? And does this matter?
+- Are our theories of knowledge *gendered*, and if so, how?
+
+The following video is useful context for information about Descartes: 
+
+https://www.youtube.com/watch?v=CAjWUrwvxs4
+
+#### Reading 2 (session 2): 
+
+This session explores the following two chapters of the Hustvedt text:
+
+- What are we: Nature/Nurture: Hard and Soft
+- Brains: Hard or Soft?
+
+Here, the novelist explores metaphors of hardness and softness in relation to two questions. The first is the question of genetic determinism — the idea that our lives and our destinies are fixed by our genetic heritage. And the second is the question of what our brain is: is it *software* or *hardware*? Is the brain like a hard little machine? Is it like a circuit board? Is the mind like software, and the brain like hardware? Is thinking hard? Is it soft? 
+
+In this section, Hustvedt also argues that thinking cannot take place without metaphors. And this is going to be the focus of our class. The metaphors we use matter, but they often go unnnoticed or unremarked. Hustvedt writes:
+
+> most metaphors contain an inherent ambiguity that can spur research but at the same time limit it because just as the metaphor opens the scientist to new ways of seeing, it may close off other visions it could not possibly contain.
+
+So when it comes to developing knowledge of ourselves, the metaphors we use can both aid and hinder our understanding (often both at the same time).
+
+The session starts with another writing exercise. 
+
+> Write for 5 minutes in response to the following question:
+>
+> Is life hard or soft?
+
+One of the major topics here is metaphor. “The essence of metaphor is understanding and experiencing one kind of thing in terms of another” (Lakoff and Johnson, *Metaphors We Live By*, 1980, p. 5). 
+
+We have already seen in the first reading that for Hobbes, Metaphor is dangerous, because it can lead us into absurd conclusions.
+
+Lakoff and Johnson, in their pioneering study *Metaphors We Live By* claim that metaphor is baked into human thinking. Our language is structured by metaphors that are rooted in our physical experience of the world. Look at the following:
+
+- "How are you?" / "I"m feeling down." / "Don't worry. Things will be looking up soon." The metaphor here is UP IS GOOD, DOWN IS BAD
+- "I can't quite grasp this idea." The metaphor here is IDEAS ARE OBJECTS
+- "I'm going to spend time with you." The metaphor here is TIME IS MONEY
+
+##### Discussion groups
+
+In her text, Hustvedt explores a number of metaphors:
+
+- The brain is a computer
+- The body is a machine
+- A gene is a program
+- Maleness is hardness / femaleness is softness
+
+In breakout groups, discuss these metaphors. For each of them ask:
+
+1. What does this metaphor reveal? 
+2. What does this metaphor obscure?
+
+Playing with metaphors
+
+Now we're going to play around with some metaphors of our own. Take a look at the following list.
+
+1. The brain is...
+2. The body is...
+3. A woman is...
+4. A man is...
+5. Nature is... 
+6. Nurture is...
+
+Now go to https://www.wheelrandom.com/8mm-euv. You will see a list of topics in the box:
+
+- A tiger
+- A typhoon
+- An adventure
+- A knot you can't untie
+- A parachute
+- A pot of stew
+
+Spin the wheel. You will get an answer (for example "An adventure" or "A tiger"). Match the answer to the first topic (e.g. "The brain is a knot you cannot untie"), and you have your first metaphor. Write the metaphor down.
+
+Now delete that answer from your box, so there are only five answers remaining, and spin again. Match this answer to the second topic, and so on... 
+
+At the end of this exercise you will have six metaphors. Post them to the Padlet. Now in groups, present your metaphor to your fellow students. Discuss what you think it reveals, and what you think it obscures. 
+
+#### Reading 3 (session 3)
+
+In this section, we're talking about the following three sections.
+
+- Women Can’t Do Physics
+- A Marriage of Minds: Evolutionary Psychology
+- Hardening and Softening Darwin?
+
+The main question here is that of how apparently "hard" (notice the metaphor of hardness!) sciences can nevertheless harbour all kinds of extra-scientific cultural assumptions about gender, what it is, and what it means.
