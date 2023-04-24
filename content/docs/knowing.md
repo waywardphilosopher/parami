@@ -721,7 +721,7 @@ In breakout groups, discuss these metaphors. For each of them ask:
 1. What does this metaphor reveal? 
 2. What does this metaphor obscure?
 
-Playing with metaphors
+##### Playing with metaphors
 
 Now we're going to play around with some metaphors of our own. Take a look at the following list.
 
