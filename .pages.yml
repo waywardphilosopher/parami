@@ -1,0 +1,18 @@
+collections:
+  - name: blog
+    label: Blog
+    folder: src/data/blog
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: publishDate, label: Publish Date, widget: datetime }
+      - { name: description, label: Description, widget: text }
+      - { name: body, label: Body, widget: markdown }
+      - name: author
+        label: Author
+        widget: string
+        default: "Will Buckingham"
+        readonly: true
+media_folder: "public/assets/uploads"
+public_folder: "/assets/uploads"
