@@ -3,35 +3,30 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# About
+This little website is designed to support students’ learning throughout the courses that I run at Parami University. Every session, there will be notes uploaded about the things we have explored in class. Meanwhile, there may (or may not… who knows?) be occasional extra snippets and updates.
 
-![Astro Paper](public/astropaper-og.jpg)
+The materials on this site are organised by course. For some courses, I teach more than one class, so for the sake of keeping things tidy, I’ll keep my notes for different classes in the same course bundled together in the same documents.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+If you are a Parami student registered for one of my classes, I look forward to working with you all. If not, feel free to have a look around! But remember, this is a set of living documents, and a work in progress.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Remember: **please do not cite this site**! This is a support site for teaching, rather than a peer-reviewed academic resource.
 
-## Features
+---
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## About Me
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+I'm Dr. Will Buckingham. I’m originally from the UK, but currently living in Taiwan. My background is in Fine Art (my undergraduate degree), anthropology (my master's degree) and philosophy (my PhD). But I’ve also taught creative writing for about twenty years, in universities, schools, hospitals, community settings, refugee camps… in fact, in all kinds of places.
 
-and so much more.
+Have a look at my [website](https://www.willbuckingham.com). 
 
-## Show your support
+I’ve been involved in Parami since around 2016—so getting on for ten years. When not teaching at Parami, I spend my days writing (my last book was called HELLO, STRANGER: STORIES OF CONNECTION IN A DIVIDED WORLD, and was published in paperback by Granta in 2022). 
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+I publish books, and run writing-related projects through my social enterprise [Wind&Bones](https://books.windandbones.com). Our latest book is a collection of stories translated between Taiwanese and Scottish Gaelic. It's [pretty cool](https://taigael.com). I'm also busy trying to upgrade my Mandarin Chinese, and my Taiwanese language. I also run public events in philosophy and creative writing in both English and Mandarin.
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+I was at Parami University at the very start, before it was a University, and worked in Myanmar on Parami’s founding faculty back in 2017, as well as in 2018-19 as a writer in residence along with my Wind&Bones compadre, Dr. Hannah Stevens.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+That’s probably enough for an introduction. I look forward to meeting you all!
 
-Kyay zuu! 🙏🏼
+--- 
+About this website: this site uses Astro, and a very fine theme that is developed in party by a burmese developer! So that’s quite cool.
