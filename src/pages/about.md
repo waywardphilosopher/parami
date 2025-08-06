@@ -2,11 +2,9 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-# About
+This little website is designed to support students’ learning throughout the courses that I run at Parami University. Every session, there will be notes uploaded about the things we have explored in class. Meanwhile, there will be occasional extra snippets and updates.
 
-This little website is designed to support students’ learning throughout the courses that I run at Parami University. Every session, there will be notes uploaded about the things we have explored in class. Meanwhile, there may (or may not… who knows?) be occasional extra snippets and updates.
-
-The materials on this site are organised by course. For some courses, I teach more than one class, so for the sake of keeping things tidy, I’ll keep my notes for different classes in the same course bundled together in the same documents.
+The materials on this site are tagged by course. For some courses, I teach more than one class, so for the sake of keeping things tidy, I’ll keep my notes for different classes in the same course bundled together in the same documents. To find the materials relating to your course, just go to the Tags page, and select the appropriate tag. The tag "Everyone" is for everyone!
 
 If you are a Parami student registered for one of my classes, I look forward to working with you all. If not, feel free to have a look around! But remember, this is a set of living documents, and a work in progress.
 
