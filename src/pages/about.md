@@ -24,7 +24,7 @@ I’ve been involved in Parami since around 2016—so getting on for ten years. 
 
 I publish books, and run writing-related projects through my social enterprise [Wind&Bones](https://books.windandbones.com). Our latest book is a collection of stories translated between Taiwanese and Scottish Gaelic. It's [pretty cool](https://taigael.com). I'm also busy trying to upgrade my Mandarin Chinese, and my Taiwanese language. I also run public events in philosophy and creative writing in both English and Mandarin.
 
-I was at Parami University at the very start, before it was a University, and worked in Myanmar on Parami’s founding faculty back in 2017, as well as in 2018-19 as a writer in residence along with my Wind&Bones compadre, Dr. Hannah Stevens.
+I was at Parami University at the very start, before it was a University, and worked in Myanmar on Parami’s founding faculty back in 2017, as well as in 2018-19 as a writer-in-residence along with my Wind&Bones compadre, Dr. Hannah Stevens.
 
 That’s probably enough for an introduction. I look forward to meeting you all!
 
