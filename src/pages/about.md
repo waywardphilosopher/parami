@@ -30,4 +30,4 @@ That’s probably enough for an introduction. I look forward to meeting you all!
 
 * * *
 
-About this website: this site uses Astro, and a very fine theme that is developed by Sat Naing, a Burmese developer.
+About this website: this site uses Astro, and a very fine theme that is developed by [Sat Naing](https://satnaing.dev), a Burmese developer.
