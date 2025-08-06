@@ -5,7 +5,7 @@ title: Welcome to Dealing With Difference
 slug: difference-welcome
 featured: false
 tags:
-  - difference
+  - Difference
 description: Welcome to this new course
 ---
 ## Welcome
