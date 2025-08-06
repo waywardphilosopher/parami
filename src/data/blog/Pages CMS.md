@@ -1,8 +1,8 @@
 ---
 title: A Cook's Guide to Writing Essays
 author: Will Buckingham
-pubDatetime: 2025-08-06
-modDatetime: 2025-08-06
+pubDatetime: 2025-08-05
+modDatetime: 2025-08-05
 slug: cooks-guide
 featured: true
 draft: false
