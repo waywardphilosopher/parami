@@ -20,7 +20,9 @@ Have a look at my [website](https://www.willbuckingham.com).
 
 I’ve been involved in Parami since around 2016—so getting on for ten years. When not teaching at Parami, I spend my days writing (my last book was called HELLO, STRANGER: STORIES OF CONNECTION IN A DIVIDED WORLD, and was published in paperback by Granta in 2022).
 
-I publish books, and run writing-related projects through my social enterprise [Wind&Bones](https://books.windandbones.com). Our latest book is a collection of stories translated between Taiwanese and Scottish Gaelic. It's [pretty cool](https://taigael.com). I'm also busy trying to upgrade my Mandarin Chinese, and my Taiwanese language. ကျွန်တော်မြန်မာစကားနည်းနည်းပြောတတ်တယ်၊ ဒါပေမဲ့ကျောင်းသားကောင်းတစ်ယောက်တော့မဟုတ်ဘူး။ I also run public events in philosophy and creative writing in both English and Mandarin.
+I publish books, and run writing-related projects through my social enterprise [Wind&Bones](https://books.windandbones.com). Our latest book is a collection of stories translated between Taiwanese and Scottish Gaelic. It's [pretty cool](https://taigael.com).
+
+I'm also busy trying to upgrade my Mandarin Chinese, and my Taiwanese language (Tâi-gí / 台語). ကျွန်တော်မြန်မာစကားနည်းနည်းပြောတတ်တယ်၊ ဒါပေမဲ့ကျောင်းသားကောင်းတစ်ယောက်တော့မဟုတ်ဘူး။ I also run public events in philosophy and creative writing in both English and Mandarin.
 
 I was at Parami University at the very start, before it was a University, and worked in Myanmar on Parami’s founding faculty back in 2017, as well as in 2018-19 as a writer-in-residence along with my Wind&Bones compadre, Dr. Hannah Stevens.
 
