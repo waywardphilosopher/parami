@@ -26,7 +26,7 @@ I'm also busy trying to upgrade my Mandarin Chinese, and my Taiwanese language (
 
 I was at Parami University at the very start, before it was a University, and worked in Myanmar on Parami’s founding faculty back in 2017, as well as in 2018-19 as a writer-in-residence along with my Wind&Bones compadre, Dr. Hannah Stevens.
 
-That’s probably enough for an introduction. I look forward to meeting you all!
+That’s probably enough for an introduction. I look forward to meeting you all.
 
 * * *
 
