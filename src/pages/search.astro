@@ -45,9 +45,6 @@ const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
       // Init pagefind ui
       const search = new PagefindUI({
         element: "#pagefind-search",
-          filters: {
-            is_published: "true" // Now excludes future/unpublished posts
-      },
         showSubResults: true,
         showImages: false,
         processTerm: function (term: string) {
