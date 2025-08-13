@@ -1,4 +1,5 @@
 import { defineConfig, envField } from "astro/config";
+import pagefind from 'astro-pagefind';
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
@@ -18,11 +19,20 @@ export default defineConfig({
     sitemap({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
     }),
+    pagefind({
+      customFilters: {
+        // Only index posts where `date` is <= today
+        is_published: ({ frontmatter }) => {
+          const postDate = new Date(frontmatter?.date);
+          const now = new Date();
+          return !isNaN(postDate.getTime()) && postDate <= now;
+        }
+      }
+    })
   ],
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
     shikiConfig: {
-      // For more themes, visit https://shiki.style/themes
       themes: { light: "min-light", dark: "night-owl" },
       defaultColor: false,
       wrap: false,
@@ -35,10 +45,6 @@ export default defineConfig({
     },
   },
   vite: {
-    // eslint-disable-next-line
-    // @ts-ignore
-    // This will be fixed in Astro 6 with Vite 7 support
-    // See: https://github.com/withastro/astro/issues/14030
     plugins: [tailwindcss()],
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
