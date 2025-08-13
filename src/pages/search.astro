@@ -56,6 +56,22 @@ const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
 
           return term;
         },
+// Add transformResult
+
+transformResult: (result) => {
+    // Assumes the date is stored in result.meta.date in ISO format (YYYY-MM-DD)
+    const now = new Date();
+    const postDate = new Date(result.meta.date);
+
+    // Only return the result if the date is in the past or today
+    if (postDate <= now) {
+      return result;
+    }
+
+    // Returning null removes the result
+    return null;
+  }
+// End of add transformResult
       });
 
       // If search param exists (eg: search?q=astro), trigger search
