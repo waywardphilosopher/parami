@@ -37,6 +37,8 @@ const {
 
 const { Content } = await render(post);
 
+const isPublished = new Date(pubDatetime) <= new Date();
+
 let ogImageUrl: string | undefined;
 
 // Determine OG image source
@@ -91,7 +93,6 @@ const nextPost =
       "mx-auto w-full max-w-app px-4 pb-12",
       { "mt-8": !SITE.showBackButton },
     ]}
-    data-pagefind-body
   >
     <h1
       transition:name={slugifyStr(title)}
@@ -111,10 +112,12 @@ const nextPost =
       <EditPost {hideEditPost} {post} class="max-sm:hidden" />
     </div>
     <article
-      id="article"
-      class="app-prose mx-auto mt-8 max-w-app prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)"
-    >
-      <Content />
+ // **Added: Conditional data-pagefind-body attribute**
+ data-pagefind-body={isPublished ? '' : undefined}
+ id="article"
+ class="app-prose mx-auto mt-8 max-w-app prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)"
+ >
+ <Content />
     </article>
 
     <hr class="my-8 border-dashed" />
