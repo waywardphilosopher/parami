@@ -1,7 +1,7 @@
 ---
 title: Self and World 02
 author: Will Buckingham
-pubDatetime: 2025-09-03
+pubDatetime: 2025-09-02
 slug: selfandworld02
 featured: false
 draft: false
