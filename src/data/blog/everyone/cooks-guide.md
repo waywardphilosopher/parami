@@ -22,7 +22,7 @@ You go to answer the door…
 
 ## **Garnish and Ingredients**
 
-What has gone wrong? Obviously, lack of preparation. If you’d had more time — if it hadn’t been for all those essay deadlines — you would have gone to the market, and prepared properly. That’s one thing. But the other problem goes a bit deeper. It is that you have got your _process_ back to front.
+What has gone wrong? Obviously, lack of preparation. If you’d had more time — if it hadn’t been for all those essay deadlines — you would have gone to the market, and prepared properly. That’s one thing. But the other problem goes a bit deeper. It is that you have got your *process* back to front.
 
 You have thrown a few things together — hoping for the best, without much thought for tastiness. You haven’t really thought through your **ingredients** and how to best use them.
 
@@ -50,7 +50,7 @@ When you have a nice, full bag, you can drag it all home and then take a break, 
 
 Make a few notes. Maybe you need some more ingredients. That’s fine. You can always head back to the market and pick up a couple of extra things. Perhaps you’re not going to use all the ingredients you have brought back. That’s fine too. They’ll keep. And a good cook doesn’t throw everything in just because it’s there. So you don’t have to use all your ingredients right away, or in this particular essay. Put them somewhere safe — a store cupboard, or a folder on your hard drive — and they may be useful later.
 
-By now, your ideas should be taking shape. You are familiar with your ingredients. You have thought about the question. You have a sense of what would make a _really_ tasty essay. So now, if you like, you can head into the kitchen, and get to work. You can start writing. You can start to mix together your own ideas and insights, and those of the writers whom you have been reading. You can use these ingredients you have gathered to start to build a really rich and flavoursome argument, and a really compelling essay.
+By now, your ideas should be taking shape. You are familiar with your ingredients. You have thought about the question. You have a sense of what would make a *really* tasty essay. So now, if you like, you can head into the kitchen, and get to work. You can start writing. You can start to mix together your own ideas and insights, and those of the writers whom you have been reading. You can use these ingredients you have gathered to start to build a really rich and flavoursome argument, and a really compelling essay.
 
 ## **Serving suggestions**
 
@@ -58,14 +58,14 @@ If you follow this process, you will write better, tastier essays. It is almost 
 
 Instead of this:
 
-> **_Write first → put in references later_**
+> ***Write first → put in references later***
 
 Do this:
 
-> **_Gather and read relevant materials first → write later_**
+> ***Gather and read relevant materials first → write later***
 
 Referencing is not about **garnish**. It is about having the **ingredients**, the raw materials, you need to cook up a delicious dish.
 
-And if you have tasty enough ingredients, the dish doesn’t _need_ any garnish. But if, at the last moment, you want to find a final quote to use as an [**epigraph**](https://en.wikipedia.org/wiki/Epigraph_\(literature\)), or to add a bit more colour to your text — the way you might put a cherry on the top of a cake, so it looks nice — nobody is going to object.
+And if you have tasty enough ingredients, the dish doesn’t *need* any garnish. But if, at the last moment, you want to find a final quote to use as an [**epigraph**](https://en.wikipedia.org/wiki/Epigraph_\(literature\)), or to add a bit more colour to your text — the way you might put a cherry on the top of a cake, so it looks nice — nobody is going to object.
 
 Good luck in your writing!
