@@ -12,7 +12,6 @@ content:
       - { name: title, label: Title, type: string, required: true }
       - { name: author, label: Author, type: string }
       - { name: pubDatetime, label: Publish Date, type: date }
-      - { name: modDatetime, label: Update Date, type: date }
       - { name: slug, label: Slug, type: string }
       - { name: featured, label: Featured, type: boolean }
       - { name: draft, label: Draft, type: boolean }
