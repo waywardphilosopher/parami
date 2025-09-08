@@ -5,6 +5,8 @@ pubDatetime: 2025-09-08
 slug: selfandworld03
 featured: false
 draft: false
+tags:
+  - SelfAndWorld
 description: Tara Westover, and more....
 ---
 Welcome back! This week, we're going to dive into Tara Westover's brilliant work, and explore the complex relationship between remembering and forgetting.
