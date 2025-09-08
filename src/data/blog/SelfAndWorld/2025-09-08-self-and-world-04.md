@@ -9,7 +9,7 @@ tags:
   - SelfAndWorld
 description: I can't forget (but I don't remember what)
 ---
-Welcome back! Today, we're going to look at the other side of Tara Westover's memoir, and talk about the role of forgetting in writing memoir.
+Welcome back! Today, we're going to look at the other side of Tara Westover's memoir, and discuss the role of forgetting in writing memoir.
 
 ## Response task
 
