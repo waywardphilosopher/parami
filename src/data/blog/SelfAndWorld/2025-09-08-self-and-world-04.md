@@ -1,7 +1,7 @@
 ---
 title: Self and World 04
 author: Will Buckingham
-pubDatetime: 2025-09-10
+pubDatetime: 2025-09-09
 slug: selfandworld04
 featured: false
 draft: false
