@@ -1,7 +1,7 @@
 ---
 title: Self and World 05
 author: Will Buckingham
-pubDatetime: 2025-09-15
+pubDatetime: 2025-09-14
 slug: self-and-world-05
 featured: false
 draft: false
