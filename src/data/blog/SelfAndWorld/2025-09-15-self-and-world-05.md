@@ -72,4 +72,4 @@ Your mini-assignment needs to be around 500–600 words long.
 
 ## Homework
 
-Edit your review essay, then upload it to Canvas by the beginning of Thursday’s class.
+Edit your review essay, then upload it to Canvas by the beginning of Wednesday's class.
