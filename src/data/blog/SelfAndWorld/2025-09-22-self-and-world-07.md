@@ -13,7 +13,7 @@ When writing memoir, the writer Annie Dillard tells us,  “There’s nothing y
 
 Last week, we looked at Marion Roach Smith's claim that there are essentially three elements to a memoir: a topic or theme, individual scenes, and the way you put these scenes together in a form. This week, we're going to explore this in more depth by looking at the essay _Momento Mori_ by the wonderful Bulgarian writer Dimiter Kenarov ([see the link here](https://www.thebeliever.net/memento-mori/)).
 
-The essay is in 12 numbered sections. The structuring of the essay is subtle. Could it have been put together in a different order? Perhaps.... let's see. But the beautiful thing about this essay is how each of those sections stands alone, jewel-like, and the author has threaded them together like a necklace.
+The essay is in 12 numbered sections. The structuring of the essay is subtle. Could it have been put together in a different order? Perhaps.... let's see. The beautiful thing about this essay is how each of those sections stands alone, jewel-like, and the author has threaded them together like a necklace.
 
 ## Extended Writing Exercise
 
