@@ -15,6 +15,8 @@ Last week, we looked at Marion Roach Smith's claim that there are essentially th
 
 The essay is in 12 numbered sections. The structuring of the essay is subtle. Could it have been put together in a different order? Perhaps.... let's see. The beautiful thing about this essay is how each of those sections stands alone, jewel-like, and the author has threaded them together like a necklace.
 
+So this is one way of thinking about structure. What if in writing an essay, you don't think of it like a big, single lump. Instead, you think of gathering together a _treasure trove_ of beautiful, sharp, fascinating, intricate fragments. And then you string them together...
+
 ## Extended Writing Exercise
 
 We're going to work through this essay by reading each paragraph out loud. Then you have a few minutes to write in response to this paragraph. You can write whatever you like. By the end of the session, you will have a sense of the essay as a whole, and a big chunk of your own writing in response to it.
