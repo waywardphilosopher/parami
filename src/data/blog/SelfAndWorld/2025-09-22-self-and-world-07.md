@@ -1,7 +1,7 @@
 ---
 title: Self and World 07
 author: Will Buckingham
-pubDatetime: 2025-09-22
+pubDatetime: 2025-09-21
 slug: selfandworld07
 featured: false
 draft: false
