@@ -31,7 +31,7 @@ If our lives are woven out of multiple stories, some of these are stories that w
 
 > **Now write a short creative nonfiction piece** so that you can share this person’s storytelling skill with a wider audience. Remember that this is creative nonfiction, so it has to be true, and a story, and well-told. Write for fifteen minutes.
 
-As you write this piece, you may want to relate a single story that the person has told you. In this case, you will be _re-_telling their story. But a lot of storytelling is story re-telling, so it is good to get used to this. You may want to tell the story of how they told you this story (in other words, to tell a story within a story). That's fine too!
+As you write this piece, you may want to relate a single story that the person has told you. In this case, you will be \_re-\_telling their story. But a lot of storytelling is story re-telling, so it is good to get used to this. You may want to tell the story of how they told you this story (in other words, to tell a story within a story). That's fine too!
 
 ## Discussion: What Makes a Good Story? What Makes a Good Storyteller?
 
