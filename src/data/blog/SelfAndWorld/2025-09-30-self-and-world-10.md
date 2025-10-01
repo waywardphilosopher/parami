@@ -48,7 +48,7 @@ When writing nonfiction, Gornick says, although we can’t invent anything when 
 
 To do this, you need to decide on the kind of self who can best tell your story. For Gornick, the self that we create when we sit down to write (because we are always recreating ourselves) is “the instrument of illumination” we use to throw light on our subject-matter, and on the story that we tell. It is the lens through which we, and the reader, look at the world. If you are writing memoir or personal narrative, there is an additional level of complexity because the persona you adopt is not just a way of investigating your own experience, but also a reflection of the self you are investigating.
 
-So when writing nonfiction you have a **topic**, but you also have a **topic** through which you explore this topic.
+So when writing nonfiction you have a **topic**, but you also have a **persona** through which you explore this topic.
 
 ## Voice in Noreen Masud
 
