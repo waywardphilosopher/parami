@@ -2,7 +2,7 @@
 title: Self and World 10
 author: Will Buckingham
 pubDatetime: 2025-09-30
-slug: selfandworld09
+slug: selfandworld10
 featured: false
 draft: false
 tags:
