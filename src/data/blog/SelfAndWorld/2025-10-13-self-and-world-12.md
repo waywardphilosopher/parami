@@ -24,7 +24,6 @@ What advice in the text stood out for you? Add it to the shared board. You have 
 Dillard writes that in crafting creative nonfiction, "There's nothing you can't do with it. No subject matter is forbidden, no structure is proscribed."
 
 *   **Private freewrite (7 min)**: _"What would I write if I truly believed 'no subject matter is forbidden'?"_
-    
 
 Sharing and discussion.
 
@@ -37,7 +36,6 @@ Dillard ends her essay by talking about passion. She writes:
 Think about the mid-term that you are writing. Now write in response to this question:
 
 *   What do I care most passionately about here?
-    
 
 ## Communicate with your audience
 
