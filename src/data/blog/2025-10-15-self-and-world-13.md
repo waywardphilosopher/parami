@@ -5,7 +5,9 @@ pubDatetime: 2025-10-15
 slug: selfandworld13
 featured: false
 draft: false
-description: SelfAndWorld
+tags:
+  - SelfAndWorld
+description: On editing
 ---
 ## Welcome
 
