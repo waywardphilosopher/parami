@@ -73,8 +73,15 @@ Now pair up with a writer friend, and talk about:
 *   Why it matters to you and how this concern or preoccupation is reflected in your everyday life, or in the life of your community (this is the 'subjective' pole)
     
 
-When you have all done this, it is time to start writing. As you write, keep the sense of personal communication. Remember how easily, in speech, you moved between telling stories, making arguments, pointing things out, adding asides and afterthoughts. Keep this fluidity in the writing. If you get struck, recall the energy of the discussion: think about how you spoke with your fellow-writer about your subject.
+## Homework
 
-Remember—the best essays are rooted in a distinctive voice, and in the liveliness and creativity of face-to-face speech. Remember that creative nonfiction is TRUE STORIES, WELL-TOLD. So stories should be at the heart of creative nonfiction writing. But one thing to remember at creative nonfiction essays is that you don’t have to just tell stories. You can cross between storytelling, discussion, digression, and many other forms of communication.
+For your homework, do the following.
 
-Keep your notes for next time. They may form the seed of an idea for your final piece.
+Give your essay a title, and post to the discussion board, using this title to start. Then write notes on:
+
+1.  If I was writing an academic essay on this topic (being objective) what would I say?
+    
+2.  If I was sitting in a teashop / café telling my friends stories about this topic, what would I say?
+    
+
+We'll discuss your notes next time.
