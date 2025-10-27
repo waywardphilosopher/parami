@@ -1,7 +1,7 @@
 ---
 title: Self and World 14
 author: Will Buckingham
-pubDatetime: 2025-10-27
+pubDatetime: 2025-10-26
 slug: selfandworld14
 featured: false
 draft: false
