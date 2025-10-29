@@ -4,7 +4,7 @@ author: Will Buckingham
 pubDatetime: 2025-10-29
 slug: selfandworld15
 featured: false
-draft: true
+draft: false
 tags:
   - SelfAndWorld
 description: Expertise
