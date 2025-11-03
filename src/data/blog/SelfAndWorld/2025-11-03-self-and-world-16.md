@@ -21,7 +21,7 @@ We have already touched on many questions about ethics throughout this course. A
 
 1\. When Tara Westover writes about her family, is this also a kind of betrayal?  
 2\. What does Fernanda Eberstadt reveal about Stephen, and what does she not reveal? Why?  
-3\. How doe we tackle the complex ethical questions of writing about people from economically and socially disadvantaged places?  
+3\. How do we tackle the complex ethical questions of writing about people from economically and socially disadvantaged places?  
 4\. Noreen Masud writes about troubled family relationships. What decisions does she make about what to say and what not to say? Would you make similar decisions? If not, why not?
 
 ## On Good Writing
