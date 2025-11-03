@@ -28,11 +28,11 @@ We have already touched on many questions about ethics throughout this course. A
 
 All these questions are questions about ethics. As writers, we want to be good at what we do. We want to produce "good" writing. But what do we mean by good?
 
-On the one hand "good writing" is writing that is powerful, convincing, persuasive. On the other hand, "good writing" is writing that ethical, that is a force for good in the world. Or, at least, that doesn’t make the world a more shitty place. So in this week's classes, we're going to be thinking about what good writing is — in both senses of the word.
+On the one hand “good writing” is writing that is powerful, convincing, persuasive. On the other hand, “good writing” is writing that ethical, that is a force for good in the world. Or, at least, that doesn’t make the world a more shitty place. So in this week's classes, we're going to be thinking about what good writing is — in both senses of the word.
 
 At this point, you may be rolling your eyes. Where’s the fun in being good, after all? Do we really need to worry about ethics? Sometimes we can think that ethics is all about what we’re not allowed to do, about what we shouldn’t do or ought not do. And perhaps not surprisingly, when we think about ethics like this, we find ourselves getting irritated. Nobody, after all, much likes being told what to do (or not all of the time, anyway). Not only this, but if we feel like we are being bossed around, the temptation is to simply do the opposite of what we are told, just for the sake of it. As the philosopher Ludwig Wittgenstein pointed out, When an ethical law of the form, ‘Thou shalt ...,‘ is laid down, one’s first thought is, ‘And what if I do not do it?’
 
-This, however, is a narrow and unhelpful idea of ethics. It’s better to see ethics as a process of becoming increasingly sensitive to the human complexities that writing involves. And part of this, of course, is thinking through the possible damage you may cause through, for example, lack of truthfulness, fairness and clarity. That's the detail. But the bigger picture is why you write at all. It is not just about the ethical constraints on your writing, but about the ethical motivations that cause you to write.
+This, however, is a narrow and unhelpful idea of ethics. It’s better to see ethics as a process of becoming increasingly sensitive to the human complexities that writing involves. And part of this, of course, is thinking through the possible damage you may cause through, for example, lack of truthfulness, fairness, and clarity. That's the detail. But the bigger picture is why you write at all. It is not just about the ethical constraints on your writing, but about the ethical motivations that cause you to write.
 
 Ethics, in other words, is not just about what you can and can’t or should and shouldn’t do. It is also about why you do what you do, or the impulses behind what you do. This question ‘why?’ providers the bigger ethical context of your writing.
 
@@ -92,8 +92,6 @@ If we have time, we'll share our work!
 ## Homework: The Creative Nonfiction Police
 
 Read through the article by Lee Gutkind called "The Creative Nonfiction Police." Now think about these questions, and write some responses to the questions that interest you (you don’t need to cover them all) on canvas.
-
-Also respond to your fellow students’ work!
 
 1.  What, according to Gutkind, are the ethical problems faced by nonfiction writers?
     
