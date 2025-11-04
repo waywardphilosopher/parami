@@ -5,6 +5,8 @@ pubDatetime: 2025-11-03
 slug: selfandworld16
 featured: false
 draft: false
+tags:
+  - SelfAndWorld
 description: Thinking about Ethics in Nonfiction
 ---
 ## Introduction
