@@ -5,6 +5,8 @@ pubDatetime: 2025-11-05
 slug: selfandworld17
 featured: false
 draft: false
+tags:
+  - SelfAndWorld
 description: Ethics Part II
 ---
 Welcome back. Today, we're continuing our exploration of ethics. We'll spend the first half reflecting on Lee Gutkind's _The Creative Nonfiction Police_. But after this, we'll go a bit deeper, to explore not just the ethical _constraints_ on us as writers, but also our ethical _motivations_.
@@ -46,7 +48,9 @@ Let's look at one writer's manifesto \[by the writer Joanne Harris\]([https://na
 
 So we've seen one writer's manifesto, although from a fiction writer, and now we have a chance to think about our own. So we're going to spend some time reflecting on our own impulses behind our writing. For the next exercises, think about the following questions.
 
-*   What do I want to write nonfiction?
+*   Why do I want to write nonfiction?
+    
+*   What do I want to write about and why?
     
 *   What knowledge, perspectives or understandings do I have to contribute?
     
