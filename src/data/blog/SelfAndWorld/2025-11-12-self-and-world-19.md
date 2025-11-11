@@ -1,5 +1,6 @@
 ---
 title: Self and World 19
+author: Will Buckingham
 pubDatetime: 2025-11-12
 slug: selfandworld19
 featured: false
