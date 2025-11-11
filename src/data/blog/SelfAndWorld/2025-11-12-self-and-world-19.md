@@ -29,13 +29,15 @@ To find places to submit, you need to think about what you like to read. Then yo
 
 1.  Do a web search for "call for submissions" AND nonfiction. This will give you some leads.
     
-2.  This will give you two kinds of resources: lists of open submissions, and also individual websites.
+2.  Another place to try is [submittable.com](http://submittable.com) — we'll look at this in class.
     
-3.  Click through to any links you like the look of.
+3.  This initial research will give you two kinds of resources: lists of open submissions, and also individual websites.
     
-4.  Follow the thread to find the publication websites, and see what kind of things they publish.
+4.  Click through to any links you like the look of.
     
-5.  If you are interested in a publication, see if they have any submissions guidelines (these may be called "Write for Us", or "Submissions Guidelines" or "Pitch to Us"). Read through their guidelines.
+5.  Follow the thread to find the publication websites, and see what kind of things they publish.
+    
+6.  If you are interested in a publication, see if they have any submissions guidelines (these may be called "Write for Us", or "Submissions Guidelines" or "Pitch to Us"). Read through their guidelines.
     
 
 By the end of the 30 minutes, try and find **two publications that you might one day want to pitch to**.
