@@ -61,7 +61,7 @@ A good pitch needs to be
 *   compelling
     
 
-Remember that as a creative nonfiction writer, you are a **storyteller**. One common complaint amongst editors is that people pitch _ideas_ to them when in fact what they are looking for are _stories._ So the strongest pitches will be those that set out to tell a story. You can think of your pitch as being made up of three mini-stories, each one a paragraph long.
+Remember that as a creative nonfiction writer, you are a **storyteller**. One common complaint among editors is that people pitch _ideas_ to them when in fact what they are looking for are _stories._ So the strongest pitches will be those that set out to tell a story. You can think of your pitch as being made up of three mini-stories, each one a paragraph long.
 
 *   In the first paragraph, summarise the story that your piece will be telling, and tell us why this story matters and needs to be heard here and now.
     
@@ -70,7 +70,7 @@ Remember that as a creative nonfiction writer, you are a **storyteller**. One co
 *   In the final paragraph, tell the story of **you**: who you are,,your experience and interests, and why you are the person to write this piece.
     
 
-Let's look an example, from a recent successful pitch of my own:
+Let's look at an example, from a recent successful pitch of my own:
 
 > **_Pitch: The Rise of Tâi-gí_**
 
