@@ -1,7 +1,7 @@
 ---
 title: Self and World 22
 author: Will Buckingham
-pubDatetime: 2025-11-24
+pubDatetime: 2025-11-19
 slug: selfandworld22
 featured: false
 draft: false
