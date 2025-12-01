@@ -15,7 +15,7 @@ Welcome to December! In the remainder of our classes, we're going to be workshop
 
 There's a lot of work to be done on these essays. But you have a lot of class time to do this work. Together we have six sessions of one hour and 40 minutes each. That makes **10 hours**.
 
-This is a generous allowance of time to take the pressure off you, and to make this final sprint to the end as easy as possible. But you **_must_** use this time to write your essays. If you don't, and you leave everything to the last minute, then the responsibility is entirely yours. I will only take extensions in exceptional circumstances. Otherwise, I will drop 4% per day that your essay is late, up to 4 days. After that, I will accept no more late assignments, and you will fail.
+This is a generous allowance of time to take the pressure off you, and to make this final sprint to the end as easy as possible. But you **_must_** use this time to write your essays. If you don't, and you leave everything to the last minute, then the responsibility is entirely yours. I will only take extensions in exceptional circumstances. Otherwise, I will drop 4% per day that your essay is late, up to 5 days. After that, I will accept no more late assignments, and you will fail.
 
 ## Checking in
 
