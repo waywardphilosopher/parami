@@ -33,11 +33,15 @@ In groups, discuss the following:
     
 2.  What questions do I need to resolve?
     
-3.  What do I need to read?
+3.  What specific details have I not talked about in the proposal that I need to fill in?
     
-4.  What do I need to research?
+4.  Whose story am I telling?
+    
+5.  What do I need to read?
+    
+6.  What do I need to research?
     
 
 ## Questions
 
-Again, there's time for questions. After that, we can have a chance either to consult with me, to go and work on your own, or to join a "shut up and write" group.
+Again, there's time for questions. After that, we can have a chance either to consult with me, to go and work on your own, or to join a “shut up and write” group.
