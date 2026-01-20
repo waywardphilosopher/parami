@@ -1,7 +1,6 @@
 ---
 author: Will Buckingham
-pubDatetime: 2025-08-06
-modDatetime: 20/01/2025
+pubDatetime: 2026-01-19
 title: Make-up Work
 featured: true
 draft: false
