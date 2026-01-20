@@ -1,5 +1,5 @@
 ---
-title: Welcome to Philosophy as Practice
+title: Philosophy as Practice 01
 pubDatetime: 2026-01-20
 slug: practice01
 featured: false
