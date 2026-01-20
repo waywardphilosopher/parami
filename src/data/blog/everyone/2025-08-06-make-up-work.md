@@ -1,14 +1,16 @@
 ---
-title: Make-up Work
 author: Will Buckingham
 pubDatetime: 2025-08-06
-slug: make-up-work
+modDatetime: 20/01/2025
+title: Make-up Work
 featured: true
 draft: false
 tags:
-  - Everyone
+- Everyone
 description: Make-up work
+slug: make-up-work
 ---
+
 ### Introduction
 
 Sometimes, you may for good reason need to miss a session as an excused absence. If this happens, the timescale for make-up work is usually **a week after the date of the session**.
@@ -25,7 +27,7 @@ Here's the procedure. For each session that you miss:
     
 2.  Watch back the recordings **if practical**. This is not compulsory, and you should use your own discretion. Don’t plough through endless videos on bad internet if this is not the most efficient use of your time.
     
-3.  Complete any in-class tasks that it makes sense to complete individually. i.e. writing tasks, reflection tasks.
+3.  Complete all in-class tasks that it makes sense to complete individually. i.e. writing tasks, reflection tasks.
     
 4.  Check the [courses.willbuckingham.com](http://courses.willbuckingham.com) website for any notes that may be useful
     
