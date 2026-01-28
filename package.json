@@ -16,6 +16,7 @@
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
     "@resvg/resvg-js": "^2.6.2",
+    "@shikijs/core": "^3.21.0",
     "@tailwindcss/vite": "^4.1.11",
     "astro": "^5.16.11",
     "dayjs": "^1.11.13",
@@ -29,7 +30,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.6",
     "@pagefind/default-ui": "^1.3.0",
-    "@shikijs/transformers": "^3.7.0",
+    "@shikijs/transformers": "^3.21.0",
     "@tailwindcss/typography": "^0.5.16",
     "@types/lodash.kebabcase": "^4.1.9",
     "@typescript-eslint/parser": "^8.36.0",
