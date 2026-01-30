@@ -10,9 +10,9 @@ description: An introduction to the course
 ---
 ## Welcome
 
-Welcome to this course in Philosophy as Practice. In this course we're going to look at philosophy beyond just _sitting and thinking_, and ask about philosophy as a _way of life_, or as a _way of being_, or as a _call to action_. How we act, how we live, is deeply entangled with how we think (and vice versa). So we'll be exploring philosophy in practice.
+Welcome to this course in Philosophy as Practice. In this course, we're going to look at philosophy beyond just _sitting and thinking_, and ask about philosophy as a _way of life_, or as a _way of being_, or as a _call to action_. How we act, how we live, is deeply entangled with how we think (and vice versa). So we'll be exploring philosophy in practice.
 
-This is a GHEA21 course, so are going to be forming a global community of philosophers and practitioners. And, of course, a community is sustained by particular practices (it doesn't just exist, it is something we do). So today, we're going to talk about how we're going to work together, how we can sustain ourselves as a community, and we're also going to get to know each other.
+This is a GHEA21 course, so we are going to be forming a global community of philosophers and practitioners. And, of course, a community is sustained by particular practices (it doesn't just exist, it is something we do). So today, we will talk about how we will work together, how we can sustain ourselves as a community, and we're also going to get to know each other.
 
 ## Introductions
 
@@ -74,7 +74,7 @@ For the sake of attendance, I’ll also be asking you to turn on your cameras at
 
 If you are late, you will be marked late!
 
-If you can’t attend, let me know in advance, unless it’s an emergency. This is not just about your classwork, but is also a welfare issue. We want to know that you are safe and well — and if there are any problems, we want to be able to help you.
+If you can’t attend, please let me know in advance, unless it’s an emergency. This is not just about your classwork, but is also a welfare issue. We want to know that you are safe and well — and if there are any problems, we want to be able to help you.
 
 If you do have to miss a session, there is a simple procedure for make-up tasks, which you can access from the "Posts" tab on the courses website (this site).
 
