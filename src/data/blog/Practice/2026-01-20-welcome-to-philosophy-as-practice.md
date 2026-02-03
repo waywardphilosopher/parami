@@ -1,12 +1,12 @@
 ---
-title: Philosophy as Practice 01
 pubDatetime: 2026-01-20
-slug: practice01
+title: Philosophy as Practice 01
 featured: false
 draft: false
 tags:
-  - Practice
+- Practice
 description: An introduction to the course
+slug: practice01
 ---
 
 ## Welcome
