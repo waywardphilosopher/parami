@@ -4,7 +4,7 @@ author: Will Buckingham
 pubDatetime: 2026-02-08
 slug: practice03
 featured: false
-draft: true
+draft: false
 tags:
   - practice
 description: "Foucault and technologies of the self "
