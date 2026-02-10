@@ -4,14 +4,14 @@ author: Will Buckingham
 pubDatetime: 2026-02-10
 slug: knowing03
 featured: false
-draft: true
+draft: false
 tags:
   - knowing
 description: Getting into definitions!
 ---
 Welcome back! We're now going to tackle Theaetetus's first argument, where he says that knowledge is perception. This makes some kind of intuitive sense: we perceive a cat, for example, and on this basis, we know that there is a cat.
 
-More than this, if we had no perceptions at all, what knowledge could we have? Surely our knowledge would be massively depleted. Would we know anything at all?
+More than this, if we had no perceptions at all, what knowledge could we have? Surely, our knowledge would be massively depleted. Would we know anything at all?
 
 Here, there's an interesting thought experiment from the Islamic philosopher Ibn Sina, called the "Floating Man" argument. This doesn't derive directly from Plato's thinking, but it is relevant to the topic we are exploring. The thought experiment goes like this.
 
@@ -41,7 +41,7 @@ We'll share these in the group.
 
 ## A Note on Knowledge and Perception
 
-Of course, this example — although it raises question of _sense_ perception and knowledge — is not necessarily a refutation of Theaetetus's view. So the floating person arguably has a perception of their own soul, and this may amount to knowlege. So we still potentially have a connection between knowledge and perception, even if this isn't sense perception.
+Of course, this example — although it raises question of _sense_ perception and knowledge — is not necessarily a refutation of Theaetetus's view. So the floating person arguably has a perception of their own soul, and this may amount to knowledge. So we still potentially have a connection between knowledge and perception, even if this isn't sense perception.
 
 Can we know something independent of perception? It's an interesting question. Incidentally, Ibn Sina doesn't talk about perception of the self, but instead of _affirming_. It is not entirely clear that this is the same thing (in fact, it probably isn't!), although it's also not clear if affirming can be independent of perception. :)
 
@@ -56,15 +56,15 @@ I want each group to appoint the following two people:
 *   A **spokesperson** to feedback to the main group at the end
     
 
-NaN.  What do you think Theaetetus means when he says that knowledge is perception?
+1.  What do you think Theaetetus means when he says that knowledge is perception?
     
-NaN.  What do you think Protagoras means when he says that the human being "is the measure of all things"?
+2.  What do you think Protagoras means when he says that the human being "is the measure of all things"?
     
-NaN.  What is the significance of the argument about the wind — being both cold and hot, depending on the observer? What are the implications of this for our theories of knowledge?
+3.  What is the significance of the argument about the wind — being both cold and hot, depending on the observer? What are the implications of this for our theories of knowledge?
     
-NaN.  In the modern world, Protagoras's view is sometimes referred to as "relativism". This is the idea that truth is relative to the perceiver. Can you think of any examples of this view?
+4.  In the modern world, Protagoras's view is sometimes referred to as "relativism". This is the idea that truth is relative to the perceiver. Can you think of any examples of this view?
     
-NaN.  What are the arguments in favour of relativism? What are the arguments against it?
+5.  What are the arguments in favour of relativism? What are the arguments against it?
     
 
 We'll discuss these ideas in the main group to finish the session.
