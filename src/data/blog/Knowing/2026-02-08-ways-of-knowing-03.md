@@ -51,7 +51,7 @@ Now, let's look in more depth at Theaetetus's argument. Here are some questions 
 
 I want each group to appoint the following two people:
 
-*   A **scribe** to post notes on the Padlet as we go along
+*   A **scribe** to take notes as you go along
     
 *   A **spokesperson** to feedback to the main group at the end
     
