@@ -1,15 +1,14 @@
 ---
+title: Make-up Work
 author: Will Buckingham
 pubDatetime: 2026-01-19
-title: Make-up Work
+slug: make-up-work
 featured: true
 draft: false
 tags:
-- Everyone
+  - Everyone
 description: Make-up work
-slug: make-up-work
 ---
-
 ### Introduction
 
 Sometimes, you may for good reason need to miss a session as an excused absence. If this happens, the timescale for make-up work is usually **a week after the date of the session**.
@@ -24,15 +23,15 @@ Here's the procedure. For each session that you miss:
 
 1.  Make sure you have done the readings and any assigned homework.
     
-2.  Watch back the recordings **if practical**. This is not compulsory, and you should use your own discretion. Don’t plough through endless videos on bad internet if this is not the most efficient use of your time.
+2.  Check the specific class information on [courses.willbuckingham.com](http://courses.willbuckingham.com) for the class notes. Read through carefully.
     
-3.  Complete all in-class tasks that it makes sense to complete individually. i.e. writing tasks, reflection tasks.
+3.  Watch back the recordings **if practical**. This is not compulsory, and you should use your own discretion. Don’t plough through endless videos on bad internet if this is not the most efficient use of your time.
     
-4.  Check the [courses.willbuckingham.com](http://courses.willbuckingham.com) website for any notes that may be useful
+4.  Complete all in-class tasks that it makes sense to complete individually. i.e. writing tasks, reflection tasks.
     
 5.  Do any supplementary reading / research that will help you make sense of the session.
     
-6.  6\. Write a summary of your thoughts, reflections and questions of 200-300 words, and email this to \[[will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)\]([mailto:will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)), including the date of the session that you missed.
+6.  Write a summary of your thoughts, reflections and questions of 200-300 words, and email this to \[[will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)\]([mailto:will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)), including the date of the session that you missed.
     
 
 If there are any _written_ tasks in the session, please also send a draft of those written tasks attached to the email, _unless these are specifically designated as private free-writing tasks that do not need to be shared_.
