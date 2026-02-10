@@ -26,17 +26,18 @@ Now we're going to explore your notes on the Discussion board, to see what quest
 
 ## Questions on Socrates's Counter-argument
 
-NaN. What is the distinction that Socrates makes between seeing _with_ the eyes, and seeing _through_ the eyes?
-
-NaN. What is it that does the seeing if we only see _through_ (and not _with_) the eyes?
-
-NaN. What is the significance of Socrates's question about "being and not-being, likeness and unlikeness, same and different, also things being one or having some number"? (185 d1)
-
-NaN. Why does Socrates then conclude that perception is not the same as knowledge?
-
-NaN. What problems can you find with Socrates's counter-argument?
-
-NaN. Can you find any better counter-arguments?
+*   What is the distinction that Socrates makes between seeing _with_ the eyes, and seeing _through_ the eyes?
+    
+*   What is it that does the seeing if we only see _through_ (and not _with_) the eyes?
+    
+*   What is the significance of Socrates's question about "being and not-being, likeness and unlikeness, same and different, also things being one or having some number"? (185 d1)
+    
+*   Why does Socrates then conclude that perception is not the same as knowledge?
+    
+*   What problems can you find with Socrates's counter-argument?
+    
+*   Can you find any better counter-arguments?
+    
 
 ## Homework
 
