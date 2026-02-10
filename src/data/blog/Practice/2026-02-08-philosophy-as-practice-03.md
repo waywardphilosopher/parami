@@ -75,7 +75,7 @@ We'll put some notes about these self-care practices on the whiteboard.
 
 If you recall Shusterman's paper, you will know that philosophical writing can be conceived of as a form of _practice_, or a form of care of the self. In this sense don't write just to present our results, but to explore, to investigate, to pay attention, to introspect, to reflect, to test, to weigh-up, to judge.
 
-We're going to talk more about this next time (and in the next class we'll set you some more extended homework with a writing/reflection practice); but for today, let's look at the letter from Marcus Aurelius on p. 233. We'll read it out loud. For context, Fronto was Marcus Aurelius's former student.
+We're going to talk more about this next time (and in the next class we'll set you some more extended homework with a writing/reflection practice); but for today, let's look at the letter from Marcus Aurelius on p. 233. We'll read it out loud. For context, Fronto was Marcus Aurelius's former tutor.
 
 > Reading of Marcus Aurelius's letter to Fronto _(see reading p. 233)_
 
