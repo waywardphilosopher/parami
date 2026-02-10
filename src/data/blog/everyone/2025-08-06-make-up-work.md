@@ -25,13 +25,13 @@ Here's the procedure. For each session that you miss:
     
 2.  Check the specific class information on [courses.willbuckingham.com](http://courses.willbuckingham.com) for the class notes. Read through carefully.
     
-3.  Watch back the recordings **if practical**. This is not compulsory, and you should use your own discretion. Don’t plough through endless videos on bad internet if this is not the most efficient use of your time.
+3.  Watch back the recordings **if practical and useful to you**. This is not compulsory, and you should use your own discretion. Don’t plough through endless videos on bad internet if this is not the most efficient use of your time.
     
 4.  Complete all in-class tasks that it makes sense to complete individually. i.e. writing tasks, reflection tasks.
     
 5.  Do any supplementary reading / research that will help you make sense of the session.
     
-6.  Write a summary of your thoughts, reflections and questions of 200-300 words, and email this to \[[will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)\]([mailto:will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)), including the date of the session that you missed.
+6.  Write a summary of your thoughts, reflections and questions of 200–300 words, and email this to \[[will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)\]([mailto:will.buckingham@parami.edu.mm](mailto:will.buckingham@parami.edu.mm)), including the date of the session that you missed.
     
 
 If there are any _written_ tasks in the session, please also send a draft of those written tasks attached to the email, _unless these are specifically designated as private free-writing tasks that do not need to be shared_.
@@ -40,4 +40,4 @@ If there are any _written_ tasks in the session, please also send a draft of tho
 
 1.  Ideally, absences should be pre-agreed. However, this is not always practical. Emergencies are, by nature, unpredictable. So if something comes up, don't panic. Just let me know as soon as you can.
     
-2.  Until I receive the make-up work, you will be marked on canvas as an excused absence. When I receive make-up work to my satisfaction, I will change your status to "present".
+2.  Until I receive the make-up work, you will be marked on canvas as an excused absence. When I receive make-up work to my satisfaction, I will change your status to “present”.
