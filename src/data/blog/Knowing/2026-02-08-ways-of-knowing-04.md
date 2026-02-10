@@ -4,7 +4,7 @@ author: Will Buckingham
 pubDatetime: 2026-02-12
 slug: knowing04
 featured: false
-draft: false
+draft: true
 tags:
   - knowing
 description: Why knowledge maybe isn't perception...
