@@ -48,15 +48,17 @@ One big issue in Foucault's essay is the relationship between the care of the se
 
 ## Homework
 
-We've been talking about practices of recollection and reflection. For homework, keep a writing diary over the next four days. Each day, read one of the following sentences in the morning. Read it several times. Then, throughout the day, bear it in mind. Then, in the evening, make a few notes about your reflections on this sentence, and your experience of the day.
+We've been talking about practices of recollection and reflection. For homework, keep a writing diary over the next four days. Each morning, take one of the following sentences in the morning. Read it several times. Then write the sentence out by hand (just in English, unless you know Chinese).
+
+After this, throughout the day, bear this passage in mind. Then, in the evening, make a few notes about your reflections on this sentence, and your experience of the day.
 
 Do this for each sentence, one every day. The sentences all come from Confucius's _Analects_. We'll talk about Confucius next week, but this time, your job is only to reflect on the sentences, and what they mean to you, and to write a record of your reflections on Canvas. They may seem strange. But don't worry too much about the original context. Just see how they speak to you.
 
 Have fun!
 
-*   Day 1: 不知禮，無以立也。不知言，無以知人也。Without knowing ritual, one cannot be well-grounded; without knowing how to use words, one cannot understand others.
+*   Day 1: 曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」Zengzi said, 'Every day, I examine myself in three respects: have I failed to treat others with devotion? In my relationships with friends, have I not been trustworthy? Is there anything I have learned, but not put into practice?'
     
-*   Day 2: 禮之用，和為貴... When making use of ritual, it is harmony that should be taken as most valuable...
+*   Day 2: 禮之用，和為貴... When making use of social rituals, it is harmony that should be taken as most valuable...
     
 *   Day 3: 君子博學於文，約之以禮，亦可以弗畔矣夫！The superior person becomes knowledgeable through wide learning, and restrains themselves through ritual. They will not overstep the boundaries (of proper conduct)!
     
