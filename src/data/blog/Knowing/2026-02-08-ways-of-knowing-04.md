@@ -39,6 +39,10 @@ Now we're going to explore your notes on the Discussion board, to see what quest
 *   Can you find any better counter-arguments?
     
 
+## An overview of the Theaetetus
+
+As today will be a shorter than usual class, I'd encourage you to use the time to watch this great overview of the Theaetetus: [https://www.youtube.com/watch?v=iePg6G3Jg4o](https://www.youtube.com/watch?v=iePg6G3Jg4o)
+
 ## Homework
 
 Your homework is to read READING 3. This is section 187b–201c of the text. The reading is a bit longer than usual, so don't try to understand every word. Just read through, keeping up the momentum, and see if you can get the gist of what is going on. Again, post on the discussion board, ready for next week.
