@@ -15,15 +15,15 @@ To get started, I want to explore your responses to the reading (this is section
 
 We'll feed back to the main group at the end.
 
-NaN.  What most interested you about the reading? Choose one sentence that particularly struck you.
+1.  What most interested you about the reading? Choose one sentence that particularly struck you.
     
-NaN.  What did you find difficult or challenging about the reading?
+2.  What did you find difficult or challenging about the reading?
     
-NaN.  What are the major questions that Socrates and Theaetetus are exploring?
+3.  What are the major questions that Socrates and Theaetetus are exploring?
     
-NaN.  What proposal does Theaetetus make about the nature of knowledge?
+4.  What proposal does Theaetetus make about the nature of knowledge?
     
-NaN.  How does Socrates respond to this proposal?
+5.  How does Socrates respond to this proposal?
     
 
 * * *
@@ -42,9 +42,9 @@ Let's try an exercise! Write for 5 minutes about **things you once believed that
 
 Now, in groups, talk about the following questions:
 
-NaN.  What were the consequences of holding these false beliefs?
+1.  What were the consequences of holding these false beliefs?
     
-NaN.  How did you come to realise these beliefs were false?
+2.  How did you come to realise these beliefs were false?
     
 
 ### The Big Question
@@ -57,9 +57,9 @@ False belief is **believing something is something else**. It is misidentifying 
 
 There are two possibilities here.
 
-NaN.  We genuinely know both X and Y, but somehow misidentify them.
+1.  We genuinely know both X and Y, but somehow misidentify them.
     
-NaN.  We don't know either X or Y.
+2.  We don't know either X or Y.
     
 
 ### Problems with Possibility 1:
@@ -100,11 +100,11 @@ So what does it mean to be truly know something? We've still, apparently, made n
 
 ## **Discussion**
 
-NaN.  Which of these three accounts of false belief seems most convincing?
+1.  Which of these three accounts of false belief seems most convincing?
     
-NaN.  Which of these three accounts of false belief seems least convincing?
+2.  Which of these three accounts of false belief seems least convincing?
     
-NaN.  How convincing are the counter-arguments here?
+3.  How convincing are the counter-arguments here?
     
 
 ## **Next time…**
