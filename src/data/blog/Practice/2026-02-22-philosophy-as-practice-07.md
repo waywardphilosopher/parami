@@ -13,9 +13,9 @@ description: Rambling through the Zhuangzi
 
 Today we're moving on to the _Zhuangzi_ and the traditions of Daoism. There's so much in the reading you did for homework, which make up the first and second chapter of the book. So we're not going to be doing anything systematic. Instead, we're going to be doing what Zhuangzi suggests: we're going to _ramble about_ (逍遥游) through the text, to see what we discover.
 
-We're going to do this by doing some creative writing! So sharpen your pencils and your minds, and let's get started. But first, let's chat. We'll start in breakout groups wiht the question:
+We're going to do this by doing some creative writing! So sharpen your pencils and your minds, and let's get started. But first, let's chat. We'll start in breakout groups with the question:
 
-*   What did you learn from this text about practices that might help us care for, or cultivate, ourselves or each other?
+*   Writing exercise (five minutes): What did you learn from this text about practices that might help us nourish our lives?
     
 
 ## **What's in this Reading?**
