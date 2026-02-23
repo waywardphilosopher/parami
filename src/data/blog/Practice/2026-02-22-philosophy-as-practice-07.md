@@ -15,7 +15,7 @@ Today we're moving on to the _Zhuangzi_ and the traditions of Daoism. There's so
 
 We're going to do this by doing some creative writing! So sharpen your pencils and your minds, and let's get started. But first, let's chat. We'll start in breakout groups wiht the question:
 
-*   What di you learn from this text about practices that might help us care for, or cultivate, ourselves or each other?
+*   What did you learn from this text about practices that might help us care for, or cultivate, ourselves or each other?
     
 
 ## **What's in this Reading?**
