@@ -26,9 +26,10 @@ Today we're moving on to the _Zhuangzi_ to explore a different set of approaches
 
 To start with, we're going to have a chance to talk about the text. We're going to start with the following questions:
 
-NaN. How is this text different from Plato's _Theaetetus_?
-
-NaN. What is your experience of this text? Is it enjoyable? Frustrating? Intriguing?
+*   How is this text different from Plato's _Theaetetus_?
+    
+*   What is your experience of this text? Is it enjoyable? Frustrating? Intriguing?
+    
 
 ## **Writing exercise**
 
@@ -42,11 +43,12 @@ We're going to look in more detail at the passage on Cook Ding. First, we'll sha
 
 ## **Questions on Cook Ding**
 
-NaN. How did Cook Ding acquire his skill in cutting up oxen?
-
-NaN. Does this reflect your own experience of acquiring skills?
-
-NaN. What do you think Cook Ding means when he says, “I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants”?
+*   How did Cook Ding acquire his skill in cutting up oxen?
+    
+*   Does this reflect your own experience of acquiring skills?
+    
+*   What do you think Cook Ding means when he says, “I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants”?
+    
 
 NaN. Cook Ding doesn't always work fast and intuitively. He also works slowly and carefully, as in the passage: “However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I’m doing, work very slowly...” What do you think Zhuangzi is saying here?
 
