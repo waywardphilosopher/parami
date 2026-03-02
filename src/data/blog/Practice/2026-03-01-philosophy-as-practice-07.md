@@ -51,7 +51,7 @@ So **_Kinetic pleasures_** are those which lead to pain somewhere down the line:
 
 ## Writing task
 
-_Write a list of as many pleasures that you can think of that you enjoy. Which of these are static? Which are kinetic? If they are kinetic, what suffering or pain do they led to._
+_Write a list of as many pleasures that you can think of that you enjoy. Which of these are static? Which are kinetic? If they are kinetic, what suffering or pain do they lead to?_
 
 Does this exercise tell us anything useful or interesting about how to choose between pleasures? We'll talk about this in groups.
 
