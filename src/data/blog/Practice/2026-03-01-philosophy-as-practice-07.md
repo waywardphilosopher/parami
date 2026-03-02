@@ -1,5 +1,5 @@
 ---
-title: Philosophy as Practice 07
+title: Philosophy as Practice 08
 author: Will Buckingham
 pubDatetime: 2026-03-01
 slug: practice08
