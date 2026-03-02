@@ -50,11 +50,12 @@ We're going to look in more detail at the passage on Cook Ding. First, we'll sha
 *   What do you think Cook Ding means when he says, “I go at it by spirit and don’t look with my eyes. Perception and understanding have come to a stop, and spirit moves where it wants”?
     
 
-NaN. Cook Ding doesn't always work fast and intuitively. He also works slowly and carefully, as in the passage: “However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I’m doing, work very slowly...” What do you think Zhuangzi is saying here?
-
-NaN. In what sense can Cook Ding be said to “care for life”?
-
-NaN. In what sense is Cook Ding's skill a kind of _knowledge_?
+1.  Cook Ding doesn't always work fast and intuitively. He also works slowly and carefully, as in the passage: “However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I’m doing, work very slowly...” What do you think Zhuangzi is saying here?
+    
+2.  In what sense can Cook Ding be said to “care for life”?
+    
+3.  In what sense is Cook Ding's skill a kind of _knowledge_?
+    
 
 * * *
 
