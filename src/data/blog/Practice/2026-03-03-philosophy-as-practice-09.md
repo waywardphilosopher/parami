@@ -4,7 +4,7 @@ author: Will Buckingham
 pubDatetime: 2026-03-03
 slug: practice09
 featured: false
-draft: true
+draft: false
 tags:
   - practice09
 description: More on Epicurus
