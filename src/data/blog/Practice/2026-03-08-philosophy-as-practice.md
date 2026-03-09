@@ -55,7 +55,7 @@ There are other online citation managers, but they often have terrible metadata.
 
 ## Breakout groups
 
-Now we're going to set up two breakout groups to talk about the individual assignments. We'll have one group for the letters assignment, and one for the manifesto assignment. We'll set up a third group as well called "Shut up and write", where you can go to write quietly, and get started on the assigment. You can move between groups freely (you may not have made up your mind about what to write yet), the way you might move between different rooms at a party. And if you are confident you know what you are doing, you can just let me know, and can leave the session to work on your own.
+Now we're going to set up two breakout groups to talk about the individual assignments. We'll have one group for the letters assignment, and one for the manifesto assignment. We'll set up a third group as well called "Shut up and write", where you can go to write quietly, and get started on the assignment. You can move between groups freely (you may not have made up your mind about what to write yet), the way you might move between different rooms at a party. And if you are confident you know what you are doing, you can just let me know, and can leave the session to work on your own.
 
 ## Homework
 
