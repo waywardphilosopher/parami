@@ -4,7 +4,7 @@ author: Will Buckingham
 pubDatetime: 2026-03-09
 slug: practice10
 featured: false
-draft: true
+draft: false
 tags:
   - practice
 description: Thinking about the mid-term assignment
