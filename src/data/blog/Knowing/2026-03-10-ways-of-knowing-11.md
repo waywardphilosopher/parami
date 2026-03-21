@@ -15,7 +15,7 @@ Before you start, I’m going to set you a little free writing exercise. It’s 
 
 If you can’t think of anything you want to write, then just keep writing, “I want to write, I want to write, I want to write…” until something takes off in your mind, and then follow that thought.
 
-What _do_ you want to write? An essay that will end capitalism? A love letter so overwhelming, nobody can resist it? A story that sticks in people’s minds forever? A shopping list?
+What *do* you want to write? An essay that will end capitalism? A love letter so overwhelming, nobody can resist it? A story that sticks in people’s minds forever? A shopping list?
 
 The purpose of this exercise is to connect with a sense of what matters to you as a writer. This will be useful as we move into talking about our essays. You have five minutes.
 
@@ -23,12 +23,9 @@ The purpose of this exercise is to connect with a sense of what matters to you a
 
 We'll start by talking in breakout groups.
 
-*   Which question have you chosen (the essay or the creative response question)?
-    
-*   What ideas do you already have for the assignment?
-    
-*   What resources are you going to make use of?
-    
+- Which question have you chosen (the essay or the creative response question)?
+- What ideas do you already have for the assignment?
+- What resources are you going to make use of?
 
 ## **Getting Prepared**
 
