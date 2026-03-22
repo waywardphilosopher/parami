@@ -40,7 +40,7 @@ In groups, let's discuss the following:
 1. Is there anything we can learn from the nonhuman/animal world about human needs and human happiness?
 2. What is natural in human life, and what is unnatural?
 3. Should we seek to live more in accord with nature? Why? Or why not?
-4. What *practices* might help us live more in accord with nature.
+4. What *practices* might help us live more in accord with nature?
 
 We'll discuss these after the breakout rooms.
 
