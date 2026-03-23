@@ -4,7 +4,7 @@ author: Will Buckingham
 pubDatetime: 2026-03-22
 slug: practice11
 featured: false
-draft: true
+draft: false
 tags:
   - Practice
 description: Logic, Physics, Ethics
