@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - Practice
-description: Logic, Physics, Ethics
+description: The Life of Dog
 ---
 Welcome back. We're moving onto a new topic this time, and that is ancient Cynicism. Taking their name from the Greek word for dog, the Cynics recognised that whilst human beings are really not very good at happiness, it is something that comes easily to canines. This insight leads to a radical approach to the question of happiness and the good life.
 
