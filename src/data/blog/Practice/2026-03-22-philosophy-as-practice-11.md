@@ -25,14 +25,6 @@ Although the cynics were called 'dogs' as an insult, it was an insult they embra
 
 Do you have a cat? A dog? Think about the non-humans that you know, and what you can learn from them about the arts of happiness. Is there any sense in which ‘living like a dog’ (or a cat, or whatever other animal you might think of) might conduce to greater happiness? Write for 7 minutes.
 
-## The Art of Living in Accord With Nature
-
-We talked about desires when we explored Epicurus, and the way some desires are natural and easily fulfilled, and some unnatural. So what does it mean to live naturally? And should we try to do so (remember that for Xunzi, goodness is not natural, but artificial: the very worst thing that we can do is live in accord with nature). 
-
-Let's try thinking about this non-verbally. After all, one thing that makes us distinct from other animals is that we have very complex language, so maybe thinking non-linguistically will help us reimagine this.
-
-> What does it mean to live **a natural life**? Draw an image of what you imagine.
-
 ## Discussion
 
 In groups, let's discuss the following:
