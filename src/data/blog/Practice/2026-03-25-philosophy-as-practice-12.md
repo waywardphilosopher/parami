@@ -9,7 +9,7 @@ description: More on Diogenes
 ---
 ## Welcome
 
-Welcome back! In this session, we're going to be talking about the reports of Diogenes the Cynic from Diogenes Laërtius, whom you read for your homework. Today, we're going to talk about living in accord with nature.
+Welcome back! In this session, we're going to be talking about the reports of Diogenes the Cynic from Diogenes Laërtius, whom you read for your homework. Today, we will talk about living in accord with nature.
 
 First, we'll get you talking about your overall impressions of Diogenes. Remember that these are reports of him by others, so may not be entirely accurate.
 
