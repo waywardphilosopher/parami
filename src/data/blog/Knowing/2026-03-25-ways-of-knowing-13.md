@@ -36,7 +36,7 @@ In your groups, discuss the following questions:
 
 - Which of these arguments from the Protrepticus are most convincing?
 - Which are most relevant in the contemporary world?
-- What are Rovelli's main arguments?
+- What are Rovelli's main arguments in the light of the Protrepticus?
 - In the light of this paper, do you think philosophy needs science, and if so, why?
 - In the light of this paper, do you think science needs philosophy, and if so why?
 
