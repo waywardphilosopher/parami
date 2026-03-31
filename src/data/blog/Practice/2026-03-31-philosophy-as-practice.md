@@ -35,6 +35,24 @@ In groups share your maps.
 2. How do you manage the things over which you have influence, but no control? How can you manage them better?
 3. How do you manage the things over which you have no influence and no control? How can you manage them better?
 
+## What is Good and Bad?
+
+In Stoicism, there is an interesting distinction between things that are **good**, things that are **bad**,**** and things that are **indifferent**.
+
+Briefly, what is good is anything that is good *regardless of the circumstances*. Fine food may seem good in some circumstances (it is tasty), but in other circumstances, it may lead to stomach ache. It is not **inherently** good or bad. But virtue is **always** good, regardless of circumstances. 
+
+Similarly, what is bad is anything that is bad *regardless of the circumstances.* So, sickness may seem bad. But if being sick stops you being called up to fight in a stupid war, then this sickness is good. Sickness, too, is not **inherently** bad. What is, then? Here, the Stoics would say that vice is always bad, whatever the circumstances.
+
+What is good or bad, in other words, is up to us: our responses to the world and our conduct. But the world itself is not inherently good or bad. It is **indifferent**.
+
+Indifferent here means "not pertaining to virtue." And this is pretty much everything except our conduct. So does this mean that we shouldn't give a damn what happens? No! There are, the Stoics say, *preferred indifferents*. We might prefer to be healthy to being unhealthy, in general, at a specific time. But this doesn't mean health is good, because health does not pertain to virtue, and the only sensible meaning of "good" is "pertaining to virtue." Or so the argument goes.
+
+## Discussion
+
+- Is it true that things (other than virtue / vice) are not inherently good / bad?
+- If we accept this argument, what are the implications? What are the down-sides of this argument?
+- Does the idea of "preferred indifferents" go any way to solving these problems, or addressing these down-sides.
+
 ## Homework
 
 Your homework is part II of the Stoic task. Before you decide to embark on the activity you have explored in Stoic Task, Part I again, read over your notes. Then continue with the activity as before, but with the following difference:
