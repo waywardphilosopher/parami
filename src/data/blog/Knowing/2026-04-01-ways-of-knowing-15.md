@@ -17,7 +17,7 @@ Before we start, we're going to check in for five minutes. Just say hello to you
 
 ## This Week's Reading
 
-In the first reading, we'll be looking at the preface of Robin Wall Kimmerer's book, as well as the first two chapters. We'll be exploring how the author moves between myth and science, and we'll be thinking about myth, metaphor, scientific enquiry and knowledge — and how all these are braided together in the book.
+In the first reading, we'll be looking at the preface of Robin Wall Kimmerer's book, as well as the first chapter. We'll be exploring how the author moves between myth and science, and we'll be thinking about myth, metaphor, scientific enquiry and knowledge — and how all these are braided together in the book.
 
 We'll start by weaving some myths of our own, and thinking about myth as a way of thinking.
 
@@ -50,4 +50,4 @@ In the first chapter, Kimmerer retells the Potawatomi myth of the Skywoman, the 
 
 ## Homework
 
-For your homework, you're going to be reading two more sections of Sweetgrass: The Council of Pecans, and The Three Sisters. It's reading 10 on Canvas. Have fun!
+For your homework, you're going to be reading the next sections of Sweetgrass: The Council of Pecans. Have fun!
