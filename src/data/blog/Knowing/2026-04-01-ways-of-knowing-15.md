@@ -45,7 +45,7 @@ In the preface, Kimmerer talks about the braiding together of three strands. Her
 In the first chapter, Kimmerer retells the Potawatomi myth of the Skywoman, the ancestor of humankind. She talks about an image of Skywoman that she has hanging on the wall of her lab. You can see the image online [here](https://peopleofthelonghouse.tumblr.com/post/55558232141/sky-woman-by-bruce-king-oneida). Again, here are some questions:
 
 1. What do you think Kimmerer means by "images of Skywoman speak not just of where we came from, but also of how we can go forward."
-2. Kimmerer also tells another story with that of Skywoman — the story of Eve. How does she contrast these two different stories?
+2. Kimmerer also tells another story to that of Skywoman — the story of Eve. How does she contrast these two different stories?
 3. At the end of the section, she talks about hierarchy, and the contrast between seeing human beings as "the pinnacle of evolution" or as "the younger brothers of Creation." Which of these views do you think most accurately represents our true existential situation? And what are the implications of each?
 
 ## Homework
