@@ -22,7 +22,7 @@ Let's take a few minutes to check in, and to talk about your Stoic exercises. We
 We're going to start with the Dhammapada, one of the most concise summations of Buddhist teachings. The Dhammapada famously starts with the following claims:
 
 1. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.
-2. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow. 
+2. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.
 
 The central idea here is that mind and mental events have the power to build our future well-being, or its opposite. Here, there are some kinds of cross-over with Stoicism, although the context is different. Ancient Buddhism took place within a philosophical framework where it was assumed that this life is only one in an unending series of lives. And, for the Buddhists, rather than this being a great thing, it was seen as a terrible thing. We constantly cycle round, suffering through endless lives. And the purpose is to get off the wheel! 
 
@@ -61,5 +61,8 @@ Now a chance to reflect!
 
 We'll discuss this together.
 
+## Homework
 
 
+
+&nbsp;
