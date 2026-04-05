@@ -63,5 +63,5 @@ We'll discuss this together.
 
 ## Homework
 
-Read "mindfulness mania", and come ready to discuss it next time. If you want to try more Ānāpānasati meditation, please do. Leave your thoughts, as usual, on the discussion board.
+Read "mindfulness mania" by Evan Thompson (from his book "Why I am Not a Buddhist", and come ready to discuss it next time. If you want to try more Ānāpānasati meditation, please do. Leave your thoughts, as usual, on the discussion board.
 
