@@ -38,7 +38,7 @@ In this section, Kimmerer tells the story of her grandfather gathering pecan nut
 3. What is mast fruiting? What does it say about the natural world?
 4. What does Kimmerer learn from the pecans? And how? What does it mean to learn not just *about*, but also *from* the natural world?
 
-If you are interested in mast fruiting, this [article on the history of the term]([https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0423](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0423)) is fascinating.
+If you are interested in mast fruiting, this [article on the history of the term](https://royalsocietypublishing.https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0423) is fascinating.
 
 ## Homework
 
