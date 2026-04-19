@@ -53,6 +53,8 @@ We'll talk about the koans in groups.
 
 We'll explore Zen meditation next time (from another tradition). But for your homework, I want you to stay with your koan. Repeat it, ask what it means, think it through, try to make sense of it, mistrust any moments where you think you've **got** it (maybe there's nothing to get), keep asking what it means... and see what it does to your life and your experience. Leave your notes on Canvas.
 
+You can also read the rest of the passage from Línjì
+
 
 
 &nbsp;
