@@ -29,7 +29,6 @@ Write in response to this question: “what are you looking for, tramping till t
 
 - How do you respond to Línjì? Do you find his thinking bracing? Annoying? Exciting? Rude? Confusing?
 - Línjì is critiquing education and learning. What are his critiques? And to what extent to his critiques resonate for you?
-
 - What do you think that Línjì means by “if you wish to know your original mind, don’t try to join with it, don’t try to depart from it.”
 
 ## The Paradoxes of Practice
