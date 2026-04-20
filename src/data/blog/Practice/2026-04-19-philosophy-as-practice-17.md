@@ -45,15 +45,13 @@ Let's try some. Here are six from Hsieh, D. (2010). Poetry and Chan ‘Gong’an
 4. Monk Nanquan saw monks of the Eastern and Western Halls quarrelling over a cat. Nanquan then held up the cat and said: "You monks! If any of you can say a word, I will spare the cat. If none of you can say a word, I will kill it.” No one could come out with a response, so Nanquan cut the cat in two.  In the evening when Zhaozhou returned from outside, Nanquan told him what had happened. Zhaojzhou then took off his sandals, put them on his head, and left. Nanquan said: “If you had been there,the cat would have been saved. 南泉和尚因東西堂爭貓兒。泉乃提起云：“大衆道得，即救；道不得，即斬卻也。”衆無對，泉遂斬之。晚，趙州外歸，泉舉似州。州乃脫履安頭上而出。泉云：“子若在，即救得貓兒。”
 5. ”A monk asked Dongshan: "What is the Buddha?"  Dongshan said, "Three pounds of hemp." 僧問洞山［良价］：“如何是佛？”山云：“麻三斤。
 
-Choose your koan, and read it several times through. Now write it down at the top of a piece of paper. Write in response to your koan for ten minutes.
-
-We'll talk about the koans in groups.
-
 ## Homework
 
-We'll explore Zen meditation next time (from another tradition). But for your homework, I want you to stay with your koan. Repeat it, ask what it means, think it through, try to make sense of it, mistrust any moments where you think you've **got** it (maybe there's nothing to get), keep asking what it means... and see what it does to your life and your experience. Leave your notes on Canvas.
+Choose your koan, and read it several times through. Now write it down at the top of a piece of paper. Write in response to your koan for ten minutes.
 
-You can also read the rest of the passage from Línjì
+For your homework, I want you to stay with your koan. Repeat it, ask what it means, think it through, try to make sense of it, mistrust any moments where you think you've **got** it (maybe there's nothing to get), keep asking what it means... and see what it does to your life and your experience. Leave your notes on Canvas.
+
+You can also read the rest of the passage from Línjì if you like!
 
 
 
