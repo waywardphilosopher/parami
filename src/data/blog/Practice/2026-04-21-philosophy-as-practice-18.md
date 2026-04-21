@@ -19,7 +19,7 @@ Welcome back. For the first half of this session, we're going to talk through ou
 - Why did you choose this one?
 - How did you make this a *practice*? 
 - What were the results of this practice?
-- Were there any moments of insight? Were there any frustrations? 
+- Were there any moments of insight? Were there any frustrations?
 
 We'll feed back in the main group.
 
@@ -33,15 +33,15 @@ We're going to discuss *hwadu* (Chinese: huatou 話頭, meaning “the point of 
 
 The text gives 10 ways of practising this *hwadu* (constant reflection on the point of the *gōngàn*) badly, termed “illnesses”. These are
 
-1. to ponder it with the faculty of consciousness [manas]; 
-2. to be fixated on it where you raise eyebrows and blink [your] eyes; 
-3. to make your livelihood [from it] on the path of language; 
-4. to elicit proof [for it] from writings; 
-5. to accept [only] where it is raised up; 
-6. to toss it away into a bin of no concerns; 
-7. to make an understanding [of it in terms] of existence or non-existence; 
-8. to make an understanding of [it as] the truly non-existent; 
-9. to make an understanding of [it as] the principle of the Way [reason]; 
+1. to ponder it with the faculty of consciousness [manas];
+2. to be fixated on it where you raise eyebrows and blink [your] eyes;
+3. to make your livelihood [from it] on the path of language;
+4. to elicit proof [for it] from writings;
+5. to accept [only] where it is raised up;
+6. to toss it away into a bin of no concerns;
+7. to make an understanding [of it in terms] of existence or non-existence;
+8. to make an understanding of [it as] the truly non-existent;
+9. to make an understanding of [it as] the principle of the Way [reason];
 10. and holding onto delusion while waiting to be enlightened [to it].
 
 Instead of this approach, we need, the text says, to “simply raise the story, generally rouse the spirit, and just doubt, “**What is this?**”
