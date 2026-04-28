@@ -2,7 +2,7 @@
 title: Ways of Knowing 20
 author: Will Buckingham
 pubDatetime: 2026-04-27
-slug: knowing209
+slug: knowing20
 featured: false
 draft: false
 tags:
