@@ -9,8 +9,6 @@ tags:
   - Knowing
 description: Dressing Gowns and Other Matters
 ---
-
-
 ## **Dressing Gowns etc.**
 
 In the reading for today's class, Hustvedt talks about doubt, and about the puzzle of consciousness, surveying several thinkers — René Descartes, Margaret Cavendish, Thomas Hobbes and Giambattista Vico — who have differing perspectives on the nature of consciousness.
@@ -58,5 +56,5 @@ We'll then talk about this in the main room!
 
 ## **Homework**
 
-The reading for next time is the section in Hustvedt's book called "The Thinking Body"
+The reading for next time is the section in Hustvedt's book called "The Thinking Body." I'll share the reading on Canvas.
 
