@@ -46,13 +46,13 @@ We'll take 12 minutes to make some notes, and then divide you into breakout grou
 
 Think of some of the following worlds. 
 
-- A kitchen
+- Your home
 - A seminar room
 - A sports ground
 - A teashop or café
 - Your grandmother's home
 - A garden
-- A church, religious building or temple
+- A church, religious building, or temple
 
-Which of these worlds do you travel to / between? What kinds of ease/unease do you experience in these worlds? How playful are you in these settings? How are you perceived (and how do you perceive others) in these worlds? And *what kinds of practice of philosophy are possible* in these worlds?
+Which of these worlds do you travel to / between? What kinds of ease/unease do you experience in these worlds? How playful are you in these settings? How are you perceived (and how do you perceive others) in these worlds? And ***what kinds of practice of philosophy are possible*** in these worlds?
 
