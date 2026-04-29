@@ -34,7 +34,7 @@ We'll take 12 minutes to make some notes, and then divide you into breakout grou
 
 - Share your reflections on Lugones
 - In what ways are questions of gender and queerness at stake in Lugones's work?
-- How might queering philosophy be beneficial (however we personally identify)? 
+- How might queering philosophy be beneficial (however we personally identify)?
 
 ## Discussion
 
