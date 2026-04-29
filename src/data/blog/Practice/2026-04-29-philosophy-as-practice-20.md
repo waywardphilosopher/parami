@@ -1,6 +1,6 @@
 ---
 title: Philosophy as Practice 20
-author: Will B uckingham
+author: Will Buckingham
 pubDatetime: 2026-04-29
 slug: practice20
 featured: false
