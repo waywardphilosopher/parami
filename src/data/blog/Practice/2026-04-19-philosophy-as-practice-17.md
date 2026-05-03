@@ -5,6 +5,8 @@ pubDatetime: 2026-04-19
 slug: practice17
 featured: false
 draft: false
+tags:
+  - Practice
 description: Thinking through Zen
 ---
 We're going to move on to a later set of traditions, and that is the tradition of Zen / Chán 禪. These are traditions with their roots in China, but that were influential across all of East Asia. The term *chán* is a translation of the Sanskrit *dhyāna*, meaning a state of meditative absorption. 
