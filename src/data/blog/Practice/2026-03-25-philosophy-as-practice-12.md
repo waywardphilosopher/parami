@@ -5,6 +5,8 @@ pubDatetime: 2026-03-25
 slug: practice12
 featured: false
 draft: false
+tags:
+  - Practice
 description: More on Diogenes
 ---
 ## Welcome
@@ -40,4 +42,3 @@ One paradox in these accounts of Diogenes is that he stresses both living natura
 
 Read the whole *Enchiridion* by Epictetus, and make some notes on Canvas. 
 
-&nbsp;
