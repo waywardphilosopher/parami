@@ -1,5 +1,5 @@
 ---
-title: Philosophy as Practice
+title: Philosophy as Practice 14
 author: Will Buckingham
 pubDatetime: 2026-03-31
 slug: practice14
