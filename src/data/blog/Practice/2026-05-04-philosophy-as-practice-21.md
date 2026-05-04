@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - Practice
-description: "Preparing for your final "
+description: Preparing for your final project
 ---
 In the coming sessions, we'll be working together on your final projects. These may be formal written papers, or more experimental and/or creative submissions. The full briefing is on Canvas.
 
