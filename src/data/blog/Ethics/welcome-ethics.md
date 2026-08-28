@@ -1,8 +1,8 @@
 ---
 title: Welcome to Introduction to Ethics
 author: Will Buckingham
-pubDatetime: 2025-08-01
-modDatetime: 2025-08-01
+pubDatetime: 2026-08-01
+modDatetime: 2026-08-01
 slug: welcome-ethics
 featured: false
 draft: false
