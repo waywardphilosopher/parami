@@ -50,7 +50,8 @@ These sessions are going to be collaborative. We'll be honing some of your resea
 1. These sessions will be very collaborative. This isn't a class where I tell you what is what. Instead, it's a forum where you can bring your research questions, ideas, thoughts, problems and questions, and we can together help you navigate through these.
 2. There will be a RESEARCH DIARY on the Canvas discussion board. This will be WEEKLY, and will count for your participation grade, so it will directly impact your final grade. There is a HARD deadline for this. The diary must be completed by 5pm ICT on every Friday (except the semester breaks). **I will not allow any extensions**, so please let me know in advance if there are going to be any issues. If you are in an area with poor internet, get into the habit of posting 24 hours in advance, so you can catch any problems early.
 3. Your faculty advisor will grade your final capstone, which will be double-graded by one of the capstone course instructors. This double-grading is to ensure fairness.
-4. We'll talk more about the faculty advisors later in the semester, but the idea is that you have one faculty member who you work with to get advice and direction on your project. This doesn't prevent you getting advice from elsewhere. So the way it works is this:  
+4. We'll talk more about the faculty advisors later in the semester, but the idea is that you have one faculty member who you work with to get advice and direction on your project. This doesn't prevent you getting advice from elsewhere. So the way it works is this:
+
 a) Faculty advisors give advice on **individual projects**  
 b) Capstone course instructors are responsible for overall delivery of the course, and for **working with the cohort as a whole** to support the capstone process.
 5. We'll start this semester with some exploration of the following, before moving into the research phase:  
