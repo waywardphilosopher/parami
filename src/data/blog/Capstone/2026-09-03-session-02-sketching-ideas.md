@@ -30,8 +30,8 @@ In the second half, I may set some writing tasks, or some thinking tasks, to get
 
 ### 01
 
-- Civic engagement → informal education / special needs. 4 states Bago, Shan State, Yangon, Mandalay
-- Creative project → existentialism / reflective journalism.
+- Civic engagement → informal special needs / PWID education / special needs. 4 states Bago, Shan State, Yangon, Mandalay
+- Creative project → existentialism / reflective journalling.
 - Creative project in video?
 
 ### 02
@@ -57,7 +57,7 @@ In the second half, I may set some writing tasks, or some thinking tasks, to get
 
 - Creative / civic engagement project
 - Economy of elephant foot yam cultivation (good connections with people working on farming this crop)
-- Risk of diarrhea / public health, and small businesses
+- Risk of diarrhoea / public health, and small businesses
 - Chin state
 
 ### 06
@@ -66,15 +66,12 @@ In the second half, I may set some writing tasks, or some thinking tasks, to get
 - Education
 - Scholarships / transnational movement
 
-
-
 ## Some feedback
 
 - Think about the scope of your project — don't make it too big and ambitious. You only have 5000–7000 words (if it is a fully written project)
 - What are the projects that you admire, that you see as exemplary, or that you would like to emulate?
 - What different kinds of outcome could this project have?
 - Where does it sit in terms of the rubric?
-- 
 
 ## What's Next
 
