@@ -23,3 +23,7 @@ I'll put you into small groups first of all, and give you ½ hour to talk about:
 Please make notes as you talk, and we can come back to discuss in the main group. In each group, please appoint **one spokesperson** to feed back to the main group.
 
 In the second half, I may set some writing tasks, or some thinking tasks, to get us started. But the main aim of today's session is to hear from you.
+
+## What's Next
+
+It make take time to formulate your ideas, and that's okay. We don't expect you to have a fully-formed project in the first weeks of the course. Remember to fill in your research diary by the end of the week, and I'll respond early next week. Then we're going to look at thinking through research questions, shaping projects, and the mechanics of actually doing research.
