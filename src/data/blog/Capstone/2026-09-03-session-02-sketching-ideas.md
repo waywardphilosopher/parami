@@ -75,4 +75,12 @@ In the second half, I may set some writing tasks, or some thinking tasks, to get
 
 ## What's Next
 
-It make take time to formulate your ideas, and that's okay. We don't expect you to have a fully-formed project in the first weeks of the course. Remember to fill in your research diary by the end of the week, and I'll respond early next week. Then we're going to look at thinking through research questions, shaping projects, and the mechanics of actually doing research.
+It may take time to formulate your ideas, and that's okay. We don't expect you to have a fully-formed project in the first weeks of the course. Remember to fill in your research diary by the end of the week, and I'll respond early next week. Then we're going to look at thinking through research questions, shaping projects, and the mechanics of actually doing research.
+
+***For next week, bring the following:***
+
+1. A possible title for your project
+2. A two or three sentence summary of what the project involves
+3. One or two examples of projects that you admire, or that you think are worth emulating! (They may not be directly related to your own capstone).  
+
+
