@@ -45,7 +45,7 @@ Despite my protests that I wouldn't use Padlet, here we are. I'm going to get yo
 
 ## **Discussion of Ideas**
 
-We'll talk about these in the main group.
+We'll talk about these in the main group. I'm particularly interested in the projects that you admire.
 
 ## **Breakout Rooms**
 
@@ -55,7 +55,7 @@ At this stage, you may be in one of three situations:
 2. I still haven't settled on an idea.
 3. I have specific questions that I need to ask you!
 
-I'll open up rooms for 1 & 2, which you can choose to join, and I'll be here for group 3. Again, I'll give you 20 minutes.
+I'll open up rooms for 1 & 2, which you can choose to join, and I'll be here for group 3. Again, I'll give you 20-30 minutes.
 
 ## **What's Next?**
 
