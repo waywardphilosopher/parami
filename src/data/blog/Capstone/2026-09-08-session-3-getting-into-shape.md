@@ -29,7 +29,7 @@ This is a list mainly for me to remember things I want to mention. I've read thr
 
 At this point, it may be useful to look in more detail at the rubric, so you can get an idea of what kinds of project are possible. We introduced this just a little last time, but I'm going to talk through the whole thing! Bear with me, we only have to do this once!
 
-Any questions?
+Any questions? 
 
 ## **Timescale**
 
