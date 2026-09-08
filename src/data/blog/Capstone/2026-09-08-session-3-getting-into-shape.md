@@ -26,7 +26,7 @@ This is a list mainly for me to remember things I want to mention. I've read thr
 
 ## **Timescale**
 
-Just for the record, 
+Just so you know what timescale we're runinng on, your first milestone, the brief project proposal, will be due around the **6th October**. This gives you a month to work through ideas, so there is plenty of time—but only if you get started now, and work consistently. 
 
 ## **Sharing your initial ideas**
 
