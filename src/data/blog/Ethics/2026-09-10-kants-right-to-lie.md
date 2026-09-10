@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - ethics
+description: About Kant's right to lie.
 ---
 ## **Welcome back**
 
@@ -14,11 +15,11 @@ Welcome back. This time, we’re going to be looking at our final piece from Imm
 
 And yet… surely there are times when we can lie…
 
-What we’ll do today is our usual trick of close-reading. We’ll do this in groups. Then, once we have got the basic argument clear in our minds, we’re going to explore some of the limitations of it.
+What we’ll do today some close-reading. We’ll do this in groups. Then, once we have got the basic argument clear in our minds, we’re going to explore some of the limitations of it.
 
 ## **Close Reading**
 
-Just as a reminder… these are the rules for close reading. We have five pages to read.
+These are the rules for close reading. We have five pages to read.
 
 In your groups:
 
@@ -28,6 +29,8 @@ In your groups:
 4. ***Give a practical example*** that can help us understand the argument.
 
 To do this, you have to have the text open in your groups, so you can read it carefully, and talk about *what it is actually saying* (not what you guess it might be saying!).
+
+Move through the text sentence by sentence, line by line. If you get stuck, move on (sometimes later passages make sense of earlier ones). You may need to re-read.
 
 ## **Discussion**
 
@@ -44,4 +47,6 @@ So let’s talk about this. What **is** Kant saying about lying? And why should 
 
 ## **Homework**
 
-Next time, we’re going to be moving on to explore another approach to ethics. And that is utilitarianism. Maybe we do, after all, need to think about outcomes. This, of course, will come with problems of its own. But let’s explore the next text, Jeremy Bentham’s *The Principle of Utility.* You can found the link here: [https://pressbooks.bccampus.ca/classicreadings/chapter/jeremy-bentham-on-the-principle-of-utility/](https://pressbooks.bccampus.ca/classicreadings/chapter/jeremy-bentham-on-the-principle-of-utility/)
+Next time, we’re going to be moving on to explore another approach to ethics. And that is utilitarianism. Maybe we do, after all, need to think about outcomes. This, of course, will come with problems of its own. But let’s explore the next text, Jeremy Bentham’s *The Principle of Utility.* You can find the link here: [https://pressbooks.bccampus.ca/classicreadings/chapter/jeremy-bentham-on-the-principle-of-utility/](https://pressbooks.bccampus.ca/classicreadings/chapter/jeremy-bentham-on-the-principle-of-utility/)
+
+Leave some comments on Canvas before the next class.
