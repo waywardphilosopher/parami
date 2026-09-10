@@ -17,6 +17,20 @@ And yet… surely there are times when we can lie…
 
 What we’ll do today some close-reading. We’ll do this in groups. Then, once we have got the basic argument clear in our minds, we’re going to explore some of the limitations of it.
 
+## **What is a Categorical Imperative?**
+
+Before we start, I want to say more about this important term, "categorical imperative"? What does it mean? An imperative is a demand: it says you **must** do X. For example, "You must clean the dishes!", or "Thou shalt not kill!", or "You must attend the meeting." Many imperatives are *hypothetical*. They say:
+
+> **(IF X IS THE CASE) → YOU HAVE A DUTY TO DO Y**
+
+For Kant, a ***categorical*** imperative, on the other hand, is an imperative that holds **for everyone, everywhere, in all circumstances**
+
+> **(WHATEVER IS THE CASE)  → YOU HAVE A DUTY TO DO Y**
+
+Last week, many of you said, "But our duties and obligations depend on circumstances." And it is true, many do. But Kant wants to argue that there are some duties that are independent of circumstances. They are unconditional. How do we work these out? Fortunately, for Kant, we are not just influenced by our circumstances, but we can **reason ethically**, and we can **act in accord with this reason**. This is what makes us properly moral beings. 
+
+But what about those circumstantial duties / obligations, those hypothetical imperatives? There's a deeper level here as well, because if *all* ethics depends on circumstances, if all our duties are of the order "If X is the case, you have a duty to do Y," then it is difficult to know what "duty" means across all cases. How can we be sure we are even talking about duty, rather than expediency? Hypothetical imperatives may be a useful shorthand, in other words, but they possess morally binding force (and can be morally evaluated) only to the extent that you can  trace their authority back to the categorical imperative.
+
 ## **Close Reading**
 
 These are the rules for close reading. We have five pages to read.
