@@ -45,6 +45,8 @@ So let’s talk about this. What **is** Kant saying about lying? And why should 
 - What are the best arguments ***in favour of*** Kant’s claim that lying is always wrong? How might you deal with challenges to these arguments?
 - What are the best arguments ***against*** Kant’s claim that lying is always wrong? How might you deal with challenges to these arguments?
 
+We may return to the text and explore it together, so we can be sure we have really understood it.
+
 ## **Homework**
 
 Next time, we’re going to be moving on to explore another approach to ethics. And that is utilitarianism. Maybe we do, after all, need to think about outcomes. This, of course, will come with problems of its own. But let’s explore the next text, Jeremy Bentham’s *The Principle of Utility.* You can find the link here: [https://pressbooks.bccampus.ca/classicreadings/chapter/jeremy-bentham-on-the-principle-of-utility/](https://pressbooks.bccampus.ca/classicreadings/chapter/jeremy-bentham-on-the-principle-of-utility/)
