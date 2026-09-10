@@ -59,7 +59,7 @@ So let’s talk about this. What **is** Kant saying about lying? And why should 
 - What are the best arguments ***in favour of*** Kant’s claim that lying is always wrong? How might you deal with challenges to these arguments?
 - What are the best arguments ***against*** Kant’s claim that lying is always wrong? How might you deal with challenges to these arguments?
 
-We may return to the text and explore it together, so we can be sure we have really understood it.
+We may return to Kant's first text and explore it together, to finish off today's work.
 
 ## **Homework**
 
