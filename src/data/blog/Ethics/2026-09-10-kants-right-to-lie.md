@@ -1,5 +1,5 @@
 ---
-title: Kant's Right to Lie
+title: Ethics 04 - Kant's Right to Lie
 author: Will Buckingham
 pubDatetime: 2026-09-10
 slug: ethics04
