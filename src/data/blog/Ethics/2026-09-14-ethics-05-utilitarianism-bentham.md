@@ -32,7 +32,7 @@ Let’s do a close reading of Bentham’s text, as usual. Remember that this is 
 
 To do this, you have to have the text open in your groups, so you can read it carefully, and talk about *what it is actually saying* (not what you guess it might be saying!).
 
-## **Calculating Ethics**
+## **Homework: Calculating Ethics, and Reading**
 
 This seems like a promising way of resolving ethical issues. But how are we to do the calculations? Let’s try. Imagine that you have an important deadline for this course tomorrow. But a friend has invited you to a party tonight. You have two options:
 
@@ -50,7 +50,7 @@ When calculating the pleasure/pain rating, take into account: intensity, duratio
 
 **Calculate the net pleasure** for each option by summing the pleasure and pain ratings. Which is the right course of action?
 
-## **Discussion**
+Now make notes on the following:
 
 - What result did you get?
 - Does this feel like the (ethically) “right” result? If so, why? If not, why not?
@@ -58,10 +58,7 @@ When calculating the pleasure/pain rating, take into account: intensity, duratio
 - Is this a useful and practical way of making everyday decisions?
 - What other problems do you think there are with this idea that we can *calculate* the greatest happiness.
 
-One criticism of this kind of approach to Utilitarianism is that it can also lead us to conclusions that are incredibly unjust. One famous short story that tackles some of these problems is Ursula K. Le Guin’s short story [The Ones Who Walk Away from Omelas](https://www.utilitarianism.com/private/omelas.pdf).
+One criticism of this kind of approach to Utilitarianism is that it can also lead us to conclusions that are incredibly unjust. 
 
-## **Homework**
+### **Please also read Ursula K. Le Guin’s short story [The Ones Who Walk Away from Omelas](https://www.utilitarianism.com/private/omelas.pdf)**.
 
-We’re going to explore a more sophisticated approach to Utilitarianism by reading this extract from John Stuart Mill’s *Utilitarianism*. [https://pressbooks.bccampus.ca/classicreadings/chapter/john-stuart-mill-on-utilitarianism/](https://pressbooks.bccampus.ca/classicreadings/chapter/john-stuart-mill-on-utilitarianism/)
-
-As usual, comment on Canvas.
