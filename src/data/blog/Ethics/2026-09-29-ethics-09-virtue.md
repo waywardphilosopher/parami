@@ -5,6 +5,7 @@ pubDatetime: 2026-09-29
 slug: ethics09
 featured: false
 draft: false
+description: On Virtue Ethics (part 1)
 tags:
   - Ethics
 ---
