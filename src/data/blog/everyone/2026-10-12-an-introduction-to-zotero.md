@@ -107,7 +107,7 @@ Now look at the menu. If you have installed **Zotero Connector** (see above), yo
 
  Click that menu item and a window appears that allows you to search your database. 
 
-Try selecting the place where you want to put a citation in your essay (just put the cursor in the relevant spot) and then clicking "Zotero > Add/Edit citation." A window should pop up. 
+Select the place where you want to put a citation in your essay (just put the cursor in the relevant spot) and then click "Zotero > Add/Edit citation." A window should pop up. 
 
 > **Pro tip:** If it's the first time you've used this, you may need to give your browser, and Google Docs, permission to use the connector. The popups will talk you through this.
 
