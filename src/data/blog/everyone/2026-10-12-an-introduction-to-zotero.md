@@ -90,6 +90,12 @@ So if I select what I want and click **OK**, I get this little notification popp
 
 ### Exploring Your Research Library
 
+Now if I go to my Zotero app (not my browser), I can see that all these references are there, tidily downloaded.
 
+![](/assets/references-in-zotero.png)
 
-&nbsp;
+- If you single click the reference, you will be able to view all the metadata. Zotero has **very** accurate metadata, but sometimes you may need to make a few small corrections.
+- If you double click the reference, you will be able to view the individual papers. These are **on your device** and not online! Thsi means that whatever your internet is doing, you can still read academic papers. Neat, eh?
+
+What Next
+
