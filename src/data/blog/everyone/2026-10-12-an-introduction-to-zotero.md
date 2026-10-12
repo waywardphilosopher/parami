@@ -97,7 +97,13 @@ Now if I go to my Zotero app (not my browser), I can see that all these referenc
 - If you single click the reference, you will be able to view all the metadata. Zotero has **very** accurate metadata, but sometimes you may need to make a few small corrections.
 - If you double click the reference, you will be able to view the individual papers. These are **on your device** and not online! Thsi means that whatever your internet is doing, you can still read academic papers. Neat, eh?
 
-### What Next 1: Inserting Citations
+
+
+---
+
+
+
+## What Next 1: Inserting Citations
 
 There are two things you can do from here. The first is to ***cite*** references in your work. Try opening up a new document and typing a few lines, as I have done here. Because I have lots of papers in my Zotero, I'm using Chinese philosophy an example. 
 
