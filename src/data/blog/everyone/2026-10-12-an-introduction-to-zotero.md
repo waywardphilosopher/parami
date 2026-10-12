@@ -55,6 +55,8 @@ Try installing both.
 
 Now let's find out how to use Zotero. Let's say that you are writing an essay on **why cats are cute**. An important topic! So first, you should go online to a good database for academic papers (Zotero can access all kinds of materials, but let's start with JSTOR). Visit [https://jstor.org](https://jstor.org) 
 
+### Searching
+
 You'll need to be logged into Parami's VPN to use JSTOR. You can tell if you are logged in or not because you will see at the top of the page a little message saying "Access provided by Parami University", as below.
 
 ![](/assets/jstor-snap.png)
@@ -63,7 +65,30 @@ If you don't see this, then log in to the VPN first. **This is important**.
 
 > **Pro Tip:** Once you have visited JSTOR once from Parami's VPN, the site will remember that you are trusted by saving a cookie in your browser, so you can disconnect and continue to use JSTOR.
 
-Okay! So now all you need to do is put some seach terms into the book and click "search". I've searched 
+Okay! So now all you need to do is put some seach terms into the book and click "search". I've searched for the terms **cats** and **cute**. These are my results.
+
+![](/assets/cats-cute.png)
+
+10,556! This is a sign that you have hit on an important research topic. Who *doesn't* care about the cuteness of cats. But maybe that's too many references. Let's say that I'm interested in narrowing in. So I can select a subject from the menu on the left. Here, I'm going to select "Anthropology".
+
+![](/assets/anthropology.png)
+
+### Capturing Your Search
+
+66 results! That's more manageable. And look at the results: Vengeful Spirits, netoeny (the maintaining of juvenile characteristics into adulthood — something you see in domestic cats, hence... cute), boars in Berlin, and lots more... Some of this is useful. So I want to capture it. Look at the screenshot above. In my toolbar, there's a little folder icon, which I've put a red circle round. Try clicking this, and you get something like this popping up:
+
+![](/assets/popup-list.png)
+
+Now you can click the ones you want, and then click **OK**. This will do two things:
+
+1. It will pull all the rich metadata about the publication / paper / information into your database.
+2. It will download your own copy of any PDFs or associated material.
+
+So if I select what I want and click **OK**, I get this little notification popping up in my browser. You can see that Zotero is downloading the reference, and the associated PDF.
+
+![](/assets/saving-progress.png)
+
+### Exploring Your Research Library
 
 
 
