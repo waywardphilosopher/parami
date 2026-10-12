@@ -105,13 +105,15 @@ Now if I go to my Zotero app (not my browser), I can see that all these referenc
 
 ## What Next 1: Inserting Citations
 
-There are two things you can do from here. The first is to ***cite*** references in your work. Try opening up a new document and typing a few lines, as I have done here. Because I have lots of papers in my Zotero, I'm using Chinese philosophy an example. 
+There are two things you can do from here. The first is to ***cite*** references in your work. Try opening up a new document and typing a few lines, as I have done here. Because I have lots of papers on Chinese philospohy in my Zotero, and only a few on cute cats, I'm using Chinese philosophy an example. 
 
-Now look at the menu. If you have installed **Zotero Connector** (see above), you should see that there's a new menu item that reads "Zotero". I've marked it in red.
+Now look at the menu. If you have installed **Zotero Connector** (see above), you should see that there's a new menu item in Google Docs that reads "Zotero". I've marked it in red.
 
 ![](/assets/chinese-philosophy.png)
 
- Click that menu item and a window appears that allows you to search your database. 
+> **Pro tip:** If you use Word, LibreOffice or other tools, you can download a Zotero plug-in (see the linke here: [https://www.zotero.org/support/word_processor_integration](https://www.zotero.org/support/word_processor_integration)), but here I'm going to focus on Google Docs.
+
+Click that menu item and a window appears that allows you to search your database. 
 
 Select the place where you want to put a citation in your essay (just put the cursor in the relevant spot) and then click "Zotero > Add/Edit citation." A window should pop up. 
 
