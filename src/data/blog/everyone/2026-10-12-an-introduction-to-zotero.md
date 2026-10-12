@@ -125,7 +125,7 @@ You can enter a search, or explore the popup window (try selecting "library" for
 
 ![](/assets/confucius-education.png)
 
-Amazing! I have something in my reference list already, and it's a good paper. So I just click to select it, then click the tick. You can see that the reference has been introduced (Tan, 2015), and when I hover over it, it appears as a Zotero link.
+Amazing! I have something in my reference list already, and it's a good paper that I know is directly relevant. So I just click to select it, then click the tick-mark by the search box. You can see that the reference has been introduced (Tan, 2015), and when I hover over it, it appears as a Zotero link.
 
 ![](/assets/zotero-hover.png)
 
