@@ -65,7 +65,7 @@ If you don't see this, then log in to the VPN first. **This is important**.
 
 > **Pro Tip:** Once you have visited JSTOR once from Parami's VPN, the site will remember that you are trusted by saving a cookie in your browser, so you can disconnect and continue to use JSTOR.
 
-Okay! So now all you need to do is put some seach terms into the book and click "search". I've searched for the terms **cats** and **cute**. These are my results.
+Okay! So now all you need to do is put some seach terms into the box and click "search". I've searched for the terms **cats** and **cute**. These are my results.
 
 ![](/assets/cats-cute.png)
 
