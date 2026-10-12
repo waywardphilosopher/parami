@@ -99,7 +99,7 @@ Now if I go to my Zotero app (not my browser), I can see that all these referenc
 
 ### What Next 1: Inserting Citations
 
-There are two things you can do form here. The first is to ***cite*** references in your work. Try opening up a new document and typing a few lines, as I have done here. Because I have lots of papers in my Zotero, I'm using Chinese philosophy an example. 
+There are two things you can do from here. The first is to ***cite*** references in your work. Try opening up a new document and typing a few lines, as I have done here. Because I have lots of papers in my Zotero, I'm using Chinese philosophy an example. 
 
 Now look at the menu. If you have installed **Zotero Connector** (see above), you should see that there's a new menu item that reads "Zotero". I've marked it in red.
 
