@@ -140,5 +140,5 @@ You should find that it inserts a reference list like this:
 
 ## What Now?
 
-And that's how easy it is. There are lots of other tricks you can use with Zotero, but this is enough to get you started. Spend a week or two playing around with it, see what it can do for you!
+And that's how easy it is. There are lots of other tricks up Zotero's sleev e, but this is enough to get you started. Spend a week or two playing around with it, see what it can do for you! Get in touch if you have any questions.
 
