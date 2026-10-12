@@ -97,5 +97,48 @@ Now if I go to my Zotero app (not my browser), I can see that all these referenc
 - If you single click the reference, you will be able to view all the metadata. Zotero has **very** accurate metadata, but sometimes you may need to make a few small corrections.
 - If you double click the reference, you will be able to view the individual papers. These are **on your device** and not online! Thsi means that whatever your internet is doing, you can still read academic papers. Neat, eh?
 
-What Next
+### What Next 1: Inserting Citations
+
+There are two things you can do form here. The first is to ***cite*** references in your work. Try opening up a new document and typing a few lines, as I have done here. Because I have lots of papers in my Zotero, I'm using Chinese philosophy an example. 
+
+Now look at the menu. If you have installed **Zotero Connector** (see above), you should see that there's a new menu item that reads "Zotero". I've marked it in red.
+
+![](/assets/chinese-philosophy.png)
+
+ Click that menu item and a window appears that allows you to search your database. 
+
+Try selecting the place where you want to put a citation in your essay (just put the cursor in the relevant spot) and then clicking "Zotero > Add/Edit citation." A window should pop up. 
+
+> **Pro tip:** If it's the first time you've used this, you may need to give your browser, and Google Docs, permission to use the connector. The popups will talk you through this.
+
+![](/assets/insert-citation.png)
+
+You can enter a search, or explore the popup window (try selecting "library" for example, or entering a search). Let's say I search for Confucius and Education
+
+![](/assets/confucius-education.png)
+
+Amazing! I have something in my reference list already, and it's a good paper. So I just click to select it, then click the tick. You can see that the reference has been introduced (Tan, 2015), and when I hover over it, it appears as a Zotero link.
+
+![](/assets/zotero-hover.png)
+
+Let me put a few more in. My paper now looks like this.
+
+![](/assets/more-references.png)
+
+## What Next 2: Including a references list.
+
+Okay. So my paper is now finished (I didn't say it was a good paper). So I need a references list. This is now really easy. 
+
+1. Click in the document where you want the references list.
+2. Go to Zotero > Add/edit bibliography
+
+You should find that it inserts a reference list like this:
+
+![](/assets/reference-list.png)
+
+ (You'll notice I added an extra reference, from Chou, before generating the list).
+
+## What Now?
+
+And that's how easy it is. There are lots of other tricks you can use with Zotero, but this is enough to get you started. Spend a week or two playing around with it, see what it can do for you!
 
