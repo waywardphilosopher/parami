@@ -132,11 +132,14 @@ Okay. So my paper is now finished (I didn't say it was a good paper). So I need 
 1. Click in the document where you want the references list.
 2. Go to Zotero > Add/edit bibliography
 
-You should find that it inserts a reference list like this:
+You should find that it inserts a reference list like this (this is a screenshot):
 
 ![](/assets/reference-list.png)
 
- (You'll notice I added an extra reference, from Chou, before generating the list).
+ A couple of comments:
+
+1. You'll notice I added an extra reference, from Chou, before generating the list.
+2. Some of the metadata needs improving (odd spacing in the paper by Youguang, inconsistent capitalisation), but I can correct this directly in Zotero and regenerate the references and bibliography. Once my metadata in Zotero is correct, I can use it anywhere.
 
 ## What Now?
 
