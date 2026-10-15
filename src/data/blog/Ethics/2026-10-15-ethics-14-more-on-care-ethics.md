@@ -2,7 +2,7 @@
 title: Ethics 14 - More on Care Ethics
 pubDatetime: 2026-10-15
 featured: false
-draft: true
+draft: false
 tags:
   - Ethics
 description: More on care ethics
@@ -31,4 +31,8 @@ Answer the following two questions, drawing on Held's text, the video, and your 
 
 1. What are the main ways in which ***care happens*** within your own societies and social contexts?
 2. Do you think that a greater emphasis on care could transform these societies and social contexts? If so, how?
+
+## Reading for next time
+
+We're now looking at our last-but-one body of theory, and asking about African moral theories (our final set of questions will be about religion and ethics). For your homework, read Toward an African Moral Theory, and post your reflections on Canvas discussion board.
 
