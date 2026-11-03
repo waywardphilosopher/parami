@@ -1,7 +1,7 @@
 ---
 title: "Ethics 15 - Thinking through African Approaches to Ethics "
 author: Will Buckingham
-pubDatetime: 2026-10-20
+pubDatetime: 2026-11-03
 slug: ethics15
 featured: false
 draft: false
