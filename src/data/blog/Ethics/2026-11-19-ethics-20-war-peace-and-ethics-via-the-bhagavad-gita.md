@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - Ethics
+description: Thinking alongside the Bhagavad Gita
 ---
 Today we're going to be talking about our final theme, and that is the ethics of war and peace. We're going to be talking about violence, about when violence is justified, and about how to justify violence. And we're going to be drawing on the rich ethical theories that we've been talking about over the past few weeks. 
 
