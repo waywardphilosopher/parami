@@ -26,14 +26,13 @@ The text begins with Arjuna facing the possibility of going into battle against 
 
 - Is it harder to harm someone you know than a stranger? And is this a moral fact or a psychological one?
 - Would it be *more* wrong to fight a relative in a just cause than a stranger in an unjust one?
-- What *kinds of* moral reflection (deontological, consequentialist etc.) does Arjuna engage in throughout the text.  
-
+- What *kinds of* moral reflection (deontological, consequentialist etc.) does Arjuna engage in throughout the text.
 
 ## The Act of Killing
 
 One thing that is interesting about the text is that it dives into the psychology of killing. The passage that is particularly interesting is this one:
 
-> 29. My limbs are failing me, my mouth is drying up, there are tremors all over my body, and its hairs are standing erect.  
+> 29. My limbs are failing me, my mouth is drying up, there are tremors all over my body, and its hairs are standing erect.
 > 30. The bow named Gandiva slips from my hand and my skin is burning. I can no longer stand up, for my mind has become dizzy.
 
 ## Reflection & Discussion
